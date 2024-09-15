@@ -3,7 +3,7 @@ This repo is meant to be a list of Space Based Companies that are out of this wo
 
 ## Motivation
 As someone in this space I always hear how can I get into space as a security engineer, satellite  engineer, IT, etc. Here is a curated list of companies to look at.
-This is also similair to something I've previously helped on. https://github.com/jaegeral/companies-hiring-security-remote 
+This is also basically ripped from something I've previously helped on (Thanks Alexander) . https://github.com/jaegeral/companies-hiring-security-remote https://x.com/alexanderjaeger 
 ## Contributing
 You can help that list by creating issues or creating merge requests.
 
@@ -141,10 +141,8 @@ You can help that list by creating issues or creating merge requests.
 |  |  |  |  |
 
 ## FAQ
-
 Q: Company X is not listed, can we add it?
-
-A: Sure, either make a pull request or raise an issue or tell me via twitter
+A: Sure, either make a pull request or raise an issue or tell me via twitter (@HooveSec) 
 
  
 
