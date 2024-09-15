@@ -15,10 +15,11 @@ Some companies promote remote talents, some other don't but are not against it, 
 Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily base.
 
 ## List
-| Company | Roles | Locations | Link
-| --------| ----- | ----- | ----- |
-| SpaceX | Software Devs, IT, Application Software Dev | Mostly U.S based, Some Global |  [Link!] (https://www.spacex.com/) |?|
-
+| Company | Locations | Link
+| --------|  ----- | ----- |
+| SpaceX | Mostly U.S based, Some Global |  (https://www.spacex.com/) |?|
+| Blue Origin | U.S based  |  https://www.blueorigin.com/careers/search?) |?|
+|  |  |  |  |
 
 ## FAQ
 
@@ -27,3 +28,7 @@ Q: Company X is not listed, can we add it?
 A: Sure, either make a pull request or raise an issue or tell me via twitter
 
  
+
+
+
+|  |  |  |  |
