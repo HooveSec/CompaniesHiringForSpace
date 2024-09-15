@@ -1,19 +1,23 @@
-# Companies hiring for space
+# Companies hiring for space :star: :sparkles: :dizzy: :star2: 
 This repo is meant to be a list of Space Based Companies that are out of this world!
 
-## Motivation
+## Motivation :penguin:
 As someone in this space I always hear how can I get into space as a security engineer, satellite  engineer, IT, etc. Here is a curated list of companies to look at.
 This is also basically ripped from something I've previously helped on (Thanks Alexander) . https://github.com/jaegeral/companies-hiring-security-remote https://x.com/alexanderjaeger 
 ## Contributing
 You can help that list by creating issues or creating merge requests.
 
-## Project Goals 
+## Project Goals :bug:
 - Get the list together with company, their mission, locations and link to careers page. Potential crowd-sourcing for data checking 
 - Find a better way to organize it (Do we want to do A-Z, By Location, or By mission type?
 - Decide if this needs to be a website that can maybe filter easier
 - Figure out how to abc this by code
-- Add a section for intern 
-## List
+- Add a section for intern
+## FAQ
+Q: Company X is not listed, can we add it?
+A: Sure, either make a pull request or raise an issue or tell me via twitter (@HooveSec) 
+
+## List :globe_with_meridians:
 | Company | Missison | Locations | Link
 | --------|  ----- | ----- | ----- |
 | ABL Space Systems | 2 Stage Light rocket launch to LEO| | (https://ablspacesystems.com/careers/)
@@ -155,11 +159,6 @@ You can help that list by creating issues or creating merge requests.
 | World View | Exploration of the Stratosphere, Space Tourism | Arizona, U.S | (https://jobs.lever.co/world-view-enterprises-inc.)
 | Xplore  | | |
 | York Space Systems  | Complete solutions for mission design, spacecraft, launch, ground, and operations.| U.S Based | (https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b)
-
-## FAQ
-Q: Company X is not listed, can we add it?
-A: Sure, either make a pull request or raise an issue or tell me via twitter (@HooveSec) 
-
  
 ## List of places that do internships 
 | Company | Location |
