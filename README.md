@@ -28,7 +28,6 @@ You can help that list by creating issues or creating merge requests.
 | Sierra Space 
 | ABL Space Systems | 2 Stage Light rocket launch to LEO| | (https://ablspacesystems.com/careers/)
 | World View | Exploration of the Stratosphere, Space Tourism | Arizona, U.S | (https://jobs.lever.co/world-view-enterprises-inc.)
-
 | Arianespace
 | NASA
 | Boeing
