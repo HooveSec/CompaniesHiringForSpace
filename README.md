@@ -21,22 +21,21 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Company | Missison | Locations | Link
 | --------|  ----- | ----- | ----- |
 | ABL Space Systems | 2 Stage Light rocket launch to LEO| | (https://ablspacesystems.com/careers/)
-| a.i. solutions | | |
-| Agile Spsace Industries | | |
-| Agnikul Cossmos | | |
-| Airbus Defense and Space | | |
-| ALL.SPACE | | |
-| Amphinicy | | |
-| Applied Ion Systems LLC  | | |
-| Arcsec | | |
-| Arctos | | |
-| Arianespace | | |
-| Arka | | |
-| AST SpaceMobile | | |
-| Astra  | | |
-| Astranis | | |
+| a.i. solutions | space engineering services | U.S Based | (https://ai-solutions.com/careers/)
+| Agile Space Industries | IN-SPACE CHEMICAL PROPULSION | Coloradod, USA | (https://agilespaceindustries.com/careers)
+| Agnikul Cossmos | Engineering, Single stage suborbital rockets | India | (https://agnikul.in/#/career)
+| Airbus Defense and Space | U.S Defense Contractor |United States | (https://airbusspaceanddefense.applicantpro.com/jobs/)
+| ALL.SPACE | Multi-link communications | United States, United Kingdom | (https://www.all.space/careers)
+| Amphinicy | Softwaree Engineering for satellite industry | Luxembourg, | (https://www.amphinicy.com/jobs)
+| Arcsec | Precision Aerospace Solutions| Belgium? (Does not state on careers page) | (https://www.arcsec.space/careers/)
+| Arctos | Research & Development | U.S.A | (https://arctos-us.com/careers/)
+| Arianespace | Satellite Launch Company | U.S.A, French Guiana, France, Singapore, Japan | (https://www.arianespace.com/join-our-team/)
+| Arka | Defense Contractor | U.S.A, U.K, | (https://arka.org/careers/)
+| AST SpaceMobile | Sspace 5G Cellular Broadband | U.S.A | (https://ast-science.com/company/careers/)
+| Astra  | Launch Services (600KG to LEO)| California, USA | (https://astra.com/careers/)
+| Astranis | Dedicated Communications Satellites | San Fransisco, California | (https://job-boards.greenhouse.io/astranis)
 | AstroForge | Mining Asteroids | Seal Beach, California | (https://www.astroforge.io/careers)
-| Axiom Space | | |
+| Axiom Space | Commercial Space Station | Texas, U.S.A | (https://www.axiomspace.com/careers)
 | Bellatrix Aerospace | | |
 | BlackSky | | |
 | Blue Canyon  | | |
