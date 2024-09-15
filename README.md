@@ -80,6 +80,7 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Kuva Space | | |
 | Kymeta | | |
 | Latitude | | |
+| Leaf Space | Ground station as a service (GSaaS) | U.S , Italy | (https://leaf.space/careers/)
 | LeoLabs | | |
 | Loft Orbital | | |
 | LSE Space  | | |
@@ -103,7 +104,7 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Omitron | | |
 | OneWeb | | |
 | Open Cosmos | | |
-| Orbex | | |
+| Orbex | low carbon, high performance micro-launch vehicles for smallsats | Denmark,  United Kingdom  | (https://orbex.space/work-with-us/current-vacancies)
 | Orbion  | | |
 | Orbit Fab  | | |
 | Orbital Sidekick | | |
@@ -111,6 +112,7 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Origin Space | | |
 | OroraTech | | |
 | PD Aerospace | Space Tourism | Japan | (https://pdas.co.jp/en/recruit/) 
+| Perigee Space | | South Korea | (https://perigee.space/career/)
 | Phantom | | |
 | Pixxel | | |
 | Plannet  | | |
