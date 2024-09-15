@@ -18,7 +18,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 Company | Roles | Locations 
 |---|---|---|---|---|---|
 
-| SpaceX | Software Devs, IT, Application Software Dev | Mostly U.S based, Some Global
+| SpaceX | Software Devs, IT, Application Software Dev | Mostly U.S based, Some Global |  [Link!] (https://www.spacex.com/) |?|
 
 
 ## FAQ
