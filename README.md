@@ -4,7 +4,7 @@ This repo is meant to be a list of companies that hire security people for Aeros
 ## Motivation
 
 As someone in this space I always hear how can I get into space as a security engineer, satellite  engineer, IT, etc. Here is a curated list of companies to look at.
-
+This is also similair to something I've previously helped on. https://github.com/jaegeral/companies-hiring-security-remote 
 ## Contributing
 You can help that list by creating issues or creating merge requests.
 
@@ -17,7 +17,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 ## List
 Company | Roles | Locations 
 |---|---|---|---|---|---|
-|SpaceX|Software Devs, IT, Application Software Dev | Mostly U.S based, Some Global
+| SpaceX | Software Devs, IT, Application Software Dev | Mostly U.S based, Some Global
 
 
 ## FAQ
