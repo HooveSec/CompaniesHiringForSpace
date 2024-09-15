@@ -20,7 +20,7 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 ## List :globe_with_meridians:
 | Company | Missison | Locations | Link
 | --------|  ----- | ----- | ----- |
-| ABL Space Systems | 2 Stage Light rocket launch to LEO| | (https://ablspacesystems.com/careers/)
+| ABL Space Systems | 2 Stage Light rocket launch to LEO| U.S.A | (https://ablspacesystems.com/careers/)
 | a.i. solutions | space engineering services | U.S Based | (https://ai-solutions.com/careers/)
 | Agile Space Industries | IN-SPACE CHEMICAL PROPULSION | Coloradod, USA | (https://agilespaceindustries.com/careers)
 | Agnikul Cossmos | Engineering, Single stage suborbital rockets | India | (https://agnikul.in/#/career)
