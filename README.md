@@ -1,5 +1,5 @@
-# Companies hiring remote
-This repo is meant to be a list of companies that hire security people for Aerospace/Space Based Companies
+# Companies hiring for space
+This repo is meant to be a list of companies that hire security people for Space Based Companies that are out of this world!
 
 ## Motivation
 
