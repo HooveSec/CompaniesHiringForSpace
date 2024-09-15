@@ -46,9 +46,6 @@ You can help that list by creating issues or creating merge requests.
 | Agnikul Cossmos
 | Pixxel 
 | PD Aerospace | Space Tourism | Japan | (https://pdas.co.jp/en/recruit/) 
-
-
-
 | a.i. solutions
 | Agile Spsace Industries
 | ALL.SPACE
@@ -154,10 +151,6 @@ You can help that list by creating issues or creating merge requests.
 | Voyager Space 
 | Xplore 
 | York Space Systems 
-
-
-
-
 
 ## FAQ
 Q: Company X is not listed, can we add it?
