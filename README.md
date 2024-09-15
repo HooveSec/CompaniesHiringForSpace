@@ -45,15 +45,18 @@ You can help that list by creating issues or creating merge requests.
 | Eclipse Orbital  | | |
 | Epic Aerospace  | | |
 | Epsilon3 | | |
+| Equatorial Space | | Based out of Singapore, Australia  | (https://www.equatorialspace.com/ careers@equatorialspace.com)
 | ESA | | |
 | EUSPA | | |
-| Exo-Space | | |
+| Evolution Space | | | 
+| Exo-Space | | U.S Based | (https://www.evolutionspace.com/careers)
 | Exotrail  | | |
 | Dhruva space | | |
 | Firefly Aerospace  | | |
 | Fleet Sspace Technologies | | |
 | Frontier Aerospace  | | |
 | Gemini Observatory | | |
+| Gilmour Space | All Orbits, All Planets (Starting with LEO) | Australia | (https://www.gspace.com/career)
 | GHGSat | | |
 | Helios | | |
 | Honeybee Robotics | | |
@@ -61,8 +64,11 @@ You can help that list by creating issues or creating merge requests.
 | ICEYE | | |
 | Impulse Space | | |
 | In-Space Missions  | | |
-| Interstellar Lab | | |
+| Interorbital Systems(IOS) | rocket, satellite, and spacecraft manufacturing company and launch-service provider | U.S Based (Mojave,CA) | (https://www.interorbital.com/Careers.php)
+| Interstellar Lab | Biofarming/ supply plant-based ingredients at scale on Earth and in Space. | U.S, France | (https://boards.greenhouse.io/interstellarlab)
+| Interstellar Tech |Building the rocket of choice around the world | Japan | (https://www.istellartech.com/career/)
 | Intuitive Machines | | |
+| Isar Aerospace | Two-stage liquid fueled rocket to deliver 1000kg to LEO | Germany | (https://www.isaraerospace.com/career)
 | ISpace | Space On-Orbit Servicing | U.S, Japan, United Kingdom, France, Israel | (https://astroscale.com/careers/vacancies/)
 | JPL  | | |
 | Keplar  | | |
@@ -123,7 +129,7 @@ You can help that list by creating issues or creating merge requests.
 | Space Pioneer | | |
 | SpacePharma | | | 
 | Space Telescope Science Institute  | | |
-| SpaceWorks Enterprises  | | |
+| SpaceWorks Enterprises  | Space and flight solutions | Atlanta | (https://www.spaceworks.aero/careers/#open-positions)
 | SpaceX | Get to Mars, funded by launch and sattelite internet |Mostly U.S based, Some Global |  (https://www.spacex.com/careers)
 | Spaced Ventures  | | |
 | SpinLaunch | | |
@@ -156,13 +162,18 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 
  
 ## List of places that do internships 
-York Space Systems 
-SpaceX 
-NASA 
+| Company | Location |
+| --------|  ----- | 
+| York Space Systems | USA 
+| SpaceX | USA 
+| NASA | USA 
 
 
 ## Companies to vet 
 
+The Spsaceport Company 
+TZero 
+bluShift Aerospace
 Leo Aerospace 
 Astralytical
 FluroSat
