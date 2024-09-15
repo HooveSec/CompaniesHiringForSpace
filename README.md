@@ -11,15 +11,12 @@ You can help that list by creating issues or creating merge requests.
 - Get the list together with company, their mission, locations and link to careers page. Potential crowd-sourcing for data checking 
 - Find a better way to organize it (Do we want to do A-Z, By Location, or By mission type?
 - Decide if this needs to be a website that can maybe filter easier
+- Figure out how to abc this by code
+- Add a section for intern 
 ## List
 | Company | Missison | Locations | Link
 | --------|  ----- | ----- | ----- |
-| SpaceX | Get to Mars, funded by launch and sattelite internet |Mostly U.S based, Some Global |  (https://www.spacex.com/careers)
-| Blue Origin | Space Tourism, Space Exploration | U.S based  |  (https://www.blueorigin.com/careers/search) 
 | ISpace | Space On-Orbit Servicing | U.S, Japan, United Kingdom, France, Israel | (https://astroscale.com/careers/vacancies/)
-| AstroForge | Mining Asteroids | Seal Beach, California | (https://www.astroforge.io/careers)
-| Axiom Space | 
-| Orbit Fab 
 | SpacePharma
 | Space Forge
 | Origin Space 
@@ -33,92 +30,6 @@ You can help that list by creating issues or creating merge requests.
 | World View | Exploration of the Stratosphere, Space Tourism | Arizona, U.S | (https://jobs.lever.co/world-view-enterprises-inc.)
 | Interstellar Lab 
 | Relativity Space | 
-| a.i. solutions
-| Agile Spsace Industries
-| ALL.SPACE
-| Amphinicy
-| Arcsec
-| Arctos
-| Arka
-| AST SpaceMobile
-| Astra 
-| Astranis
-| BlackSky
-| Blue Canyon 
-| Capella S pace
-| CesiumAstro
-| Echostar
-| Epsilon3
-| EUSPA
-| Exotrail 
-| Firefly Aerospace 
-| Fleet Sspace Technologies
-| Frontier Aerospace 
-| Gemini Observatory
-| GHGSat
-| Honeybee Robotics
-| Hydrosast
-| ICEYE
-| Impulse Space
-| In-Space Missions 
-| Intuitive Machines
-| JPL 
-| Keplar 
-| Kymeta
-| Latitude
-| LeoLabss
-| Loft Orbital
-| LSE Space 
-| Lunar Outpost
-| Lynk 
-| Magma Space 
-| MDA 
-| Momentus
-| Muon Space
-| Mynaric 
-| National Radio Astronomy Observatory
-| Near Space  Labs
-| Northrop Grumman 
-| NorthSstar
-| ODYSSEUS Space 
-| Omitron
-| OneWeb
-| Open Cosmos
-| Orbex
-| Orbion 
-| Orbital Sidekick
-| Phantom
-| Pixxel
-| Plannet 
-| Red Canyon 
-| Redwire Space 
-| Rocket Lab 
-| Satellite Vu 
-| Satellogic 
-| Skylo 
-| Slingshot Aerospace 
-| Space Forge 
-| Sspace Perspective 
-| Space Telescope Science Institute 
-| SpaceWorks Enterprises 
-| SpinLaunch
-| Spire 
-| Stoke
-| Surrey Satellite Technology 
-| Telespazio 
-| Thales Alenia Space 
-| The Aerospace Corporation
-| Turion Space 
-| Umbra 
-| Universities Space Resesarch Assocation 
-| Ursa Major 
-| Varda 
-| Vast 
-| Vaya Space 
-| Venus Aerospace 
-| Voyager Space 
-| Xplore 
-| York Space Systems 
 | Maritime Launch Services 
 | ESA 
 | Arianespace
@@ -138,7 +49,115 @@ You can help that list by creating issues or creating merge requests.
 
 
 
-|  |  |  |  |
+| a.i. solutions
+| Agile Spsace Industries
+| ALL.SPACE
+| Amphinicy
+| Applied Ion Systems LLC 
+| Arcsec
+| Arctos
+| Arka
+| AST SpaceMobile
+| Astra 
+| Astranis
+| AstroForge | Mining Asteroids | Seal Beach, California | (https://www.astroforge.io/careers)
+| Axiom Space | 
+| BlackSky
+| Blue Canyon 
+| Blue Origin | Space Tourism, Space Exploration | U.S based  |  (https://www.blueorigin.com/careers/search) 
+| Capella S pace
+| CesiumAstro
+| ConstellR
+| Echostar
+| Eclipse Orbital 
+| Epic Aerospace 
+| Epsilon3
+| EUSPA
+| Exo-Space
+| Exotrail 
+| Firefly Aerospace 
+| Fleet Sspace Technologies
+| Frontier Aerospace 
+| Gemini Observatory
+| GHGSat
+| Helios
+| Honeybee Robotics
+| Hydrosast
+| ICEYE
+| Impulse Space
+| In-Space Missions 
+| Intuitive Machines
+| JPL 
+| Keplar 
+| Kymeta
+| Latitude
+| LeoLabss
+| Loft Orbital
+| LSE Space 
+| Lunar Outpost
+| Lynk 
+| Magma Space 
+| MDA 
+| Momentus | SPACE TRANSPORTATION AND INFRASTRUCTURE SERVICES | | (https://boards.greenhouse.io/momentus) OFFLINE ON 09/14/24
+| Muon Space
+| Mynaric 
+| National Radio Astronomy Observatory
+| Near Space  Labs
+| NewRocket
+| Northrop Grumman 
+| NorthSstar
+| ODYSSEUS Space 
+| OKAPI Orbits | SaaS solution for satellite collision avoidance software | Germany/Remote | (https://www.okapiorbits.space/career)
+| Omitron
+| OneWeb
+| Open Cosmos
+| Orbex
+| Orbion 
+| Orbit Fab 
+| Orbital Sidekick
+| OrbitsEdge
+| Phantom
+| Pixxel
+| Plannet 
+| Ramon.Space 
+| Red Canyon 
+| Redwire Space 
+| Rocket Lab 
+| Satellite Vu 
+| Satellogic 
+| Skylo 
+| Slingshot Aerospace 
+| Solestial
+| Space Forge 
+| Space Perspective 
+| Space Telescope Science Institute 
+| SpaceWorks Enterprises 
+| SpaceX | Get to Mars, funded by launch and sattelite internet |Mostly U.S based, Some Global |  (https://www.spacex.com/careers)
+| Spaced Ventures 
+| SpinLaunch
+| Spire 
+| Stellar Amenities |A Modern OS for Space Station Operators/AI | Remote USA/Los Angeles, California| (https://stellaramenities.space/join-us)
+| Stoke
+| Surrey Satellite Technology 
+| Telespazio 
+| Thales Alenia Space 
+| The Aerospace Corporation
+| Turion Space 
+| Umbra 
+| Universities Space Resesarch Assocation 
+| Ursa Major 
+| Utowave
+| Varda Space 
+| Vast 
+| Vaya Space 
+| Venus Aerospace 
+| Voyager Space 
+| Xplore 
+| York Space Systems 
+
+
+
+
 
 ## FAQ
 Q: Company X is not listed, can we add it?
@@ -148,4 +167,3 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 
 
 
-|  |  |  |  |
