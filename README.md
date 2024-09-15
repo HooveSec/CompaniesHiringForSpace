@@ -16,52 +16,28 @@ You can help that list by creating issues or creating merge requests.
 ## List
 | Company | Missison | Locations | Link
 | --------|  ----- | ----- | ----- |
-| ISpace | Space On-Orbit Servicing | U.S, Japan, United Kingdom, France, Israel | (https://astroscale.com/careers/vacancies/)
-| SpacePharma | | | 
-| Space Forge | | |
-| Origin Space | | |
-| SES | | |
-| Maxar | | |
-| United Launch Alliance | | |
-| Space Pioneer | | |
-| Virgin Galactic | | |
-| Sierra Space  | | |
 | ABL Space Systems | 2 Stage Light rocket launch to LEO| | (https://ablspacesystems.com/careers/)
-| World View | Exploration of the Stratosphere, Space Tourism | Arizona, U.S | (https://jobs.lever.co/world-view-enterprises-inc.)
-| Interstellar Lab | | |
-| Relativity Space | | |
-| Maritime Launch Services | | |
-| ESA | | |
-| Arianespace | | |
-| NASA | | |
-| Boeing | | |
-| Rocket Factory Augsburg | | |
-| Airbus Defense and Space | | |
-| Kongsberg NanoAvionics | | |
-| Kuva Space | | |
-| OroraTech | | |
-| Skyroot Aerospace | | |
-| Bellatrix Aerospace | | |
-| Dhruva space | | |
-| Agnikul Cossmos | | |
-| Pixxel  | | |
-| PD Aerospace | Space Tourism | Japan | (https://pdas.co.jp/en/recruit/) 
 | a.i. solutions | | |
 | Agile Spsace Industries | | |
+| Agnikul Cossmos | | |
+| Airbus Defense and Space | | |
 | ALL.SPACE | | |
 | Amphinicy | | |
 | Applied Ion Systems LLC  | | |
 | Arcsec | | |
 | Arctos | | |
+| Arianespace | | |
 | Arka | | |
 | AST SpaceMobile | | |
 | Astra  | | |
 | Astranis | | |
 | AstroForge | Mining Asteroids | Seal Beach, California | (https://www.astroforge.io/careers)
 | Axiom Space | | |
+| Bellatrix Aerospace | | |
 | BlackSky | | |
 | Blue Canyon  | | |
 | Blue Origin | Space Tourism, Space Exploration | U.S based  |  (https://www.blueorigin.com/careers/search) 
+| Boeing | | |
 | Capella S pace | | |
 | CesiumAstro | | |
 | ConstellR | | |
@@ -69,9 +45,11 @@ You can help that list by creating issues or creating merge requests.
 | Eclipse Orbital  | | |
 | Epic Aerospace  | | |
 | Epsilon3 | | |
+| ESA | | |
 | EUSPA | | |
 | Exo-Space | | |
 | Exotrail  | | |
+| Dhruva space | | |
 | Firefly Aerospace  | | |
 | Fleet Sspace Technologies | | |
 | Frontier Aerospace  | | |
@@ -83,9 +61,13 @@ You can help that list by creating issues or creating merge requests.
 | ICEYE | | |
 | Impulse Space | | |
 | In-Space Missions  | | |
+| Interstellar Lab | | |
 | Intuitive Machines | | |
+| ISpace | Space On-Orbit Servicing | U.S, Japan, United Kingdom, France, Israel | (https://astroscale.com/careers/vacancies/)
 | JPL  | | |
 | Keplar  | | |
+| Kongsberg NanoAvionics | | |
+| Kuva Space | | |
 | Kymeta | | |
 | Latitude | | |
 | LeoLabs | | |
@@ -94,10 +76,13 @@ You can help that list by creating issues or creating merge requests.
 | Lunar Outpost | | |
 | Lynk  | | |
 | Magma Space  | | |
+| Maritime Launch Services | | |
+| Maxar | | |
 | MDA  | | |
 | Momentus | SPACE TRANSPORTATION AND INFRASTRUCTURE SERVICES | | (https://boards.greenhouse.io/momentus) OFFLINE ON 09/14/24
 | Muon Space | | |
 | Mynaric  | | |
+| NASA | | |
 | National Radio Astronomy Observatory | | |
 | Near Space  Labs | | |
 | NewRocket | | |
@@ -113,20 +98,30 @@ You can help that list by creating issues or creating merge requests.
 | Orbit Fab  | | |
 | Orbital Sidekick | | |
 | OrbitsEdge | | |
+| Origin Space | | |
+| OroraTech | | |
+| PD Aerospace | Space Tourism | Japan | (https://pdas.co.jp/en/recruit/) 
 | Phantom | | |
 | Pixxel | | |
 | Plannet  | | |
 | Ramon.Space  | | |
 | Red Canyon  | | |
 | Redwire Space  | | |
+| Relativity Space | | |
+| Rocket Factory Augsburg | | |
 | Rocket Lab  | | |
 | Satellite Vu  | | |
 | Satellogic  | | |
+| SES | | |
+| Sierra Space  | | |
 | Skylo  | | |
+| Skyroot Aerospace | | |
 | Slingshot Aerospace  | | |
 | Solestial | | |
 | Space Forge  | | |
 | Space Perspective  | | |
+| Space Pioneer | | |
+| SpacePharma | | | 
 | Space Telescope Science Institute  | | |
 | SpaceWorks Enterprises  | | |
 | SpaceX | Get to Mars, funded by launch and sattelite internet |Mostly U.S based, Some Global |  (https://www.spacex.com/careers)
@@ -141,6 +136,7 @@ You can help that list by creating issues or creating merge requests.
 | The Aerospace Corporation | | |
 | Turion Space  | | |
 | Umbra  | | |
+| United Launch Alliance | | |
 | Universities Space Resesarch Assocation  | | |
 | Ursa Major  | | |
 | Utowave | | |
@@ -148,7 +144,9 @@ You can help that list by creating issues or creating merge requests.
 | Vast  | | |
 | Vaya Space  | | |
 | Venus Aerospace  | | |
+| Virgin Galactic | | |
 | Voyager Space  | | |
+| World View | Exploration of the Stratosphere, Space Tourism | Arizona, U.S | (https://jobs.lever.co/world-view-enterprises-inc.)
 | Xplore  | | |
 | York Space Systems  | Complete solutions for mission design, spacecraft, launch, ground, and operations.| U.S Based | (https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b)
 
@@ -164,6 +162,7 @@ NASA
 
 
 ## Companies to vet 
+
 Leo Aerospace 
 Astralytical
 FluroSat
