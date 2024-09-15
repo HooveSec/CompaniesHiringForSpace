@@ -15,10 +15,12 @@ Some companies promote remote talents, some other don't but are not against it, 
 Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily base.
 
 ## List
-| Company | Locations | Link
-| --------|  ----- | ----- |
-| SpaceX | Mostly U.S based, Some Global |  (https://www.spacex.com/) |?|
-| Blue Origin | U.S based  |  https://www.blueorigin.com/careers/search?) |?|
+| Company | Missison | Locations | Link
+| --------|  ----- | ----- | ----- |
+| SpaceX | Get to Mars, funded by launch and sattelite internet |Mostly U.S based, Some Global |  (https://www.spacex.com/careers)
+| Blue Origin | Space Tourism, Space Exploration | U.S based  |  (https://www.blueorigin.com/careers/search) 
+| ISpace | Space On-Orbit Servicing | U.S, Japan, United Kingdom, France, Israel | (https://astroscale.com/careers/vacancies/)
+
 |  |  |  |  |
 
 ## FAQ
