@@ -36,14 +36,14 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Astranis | Dedicated Communications Satellites | San Fransisco, California | (https://job-boards.greenhouse.io/astranis)
 | AstroForge | Mining Asteroids | Seal Beach, California | (https://www.astroforge.io/careers)
 | Axiom Space | Commercial Space Station | Texas, U.S.A | (https://www.axiomspace.com/careers)
-| Bellatrix Aerospace | | |
-| BlackSky | | |
-| Blue Canyon  | | |
+| Bellatrix Aerospace | In-space propulsion systems | India | (https://www.linkedin.com/company/bellatrix-aerospace/jobs/)
+| BlackSky | Sspace Basesd Intelligence|U.S / U.K | (https://www.blacksky.com/careers/)
+| Blue Canyon  | Turnkey small satellite solutions | Colorado, USA | (https://www.bluecanyontech.com/careers)
 | Blue Origin | Space Tourism, Space Exploration | U.S based  |  (https://www.blueorigin.com/careers/search) 
-| Boeing | | |
-| Capella S pace | | |
-| CesiumAstro | | |
-| ConstellR | | |
+| Boeing | Defense Contractor | Global Locations | (https://jobs.boeing.com/)
+| Capella Space | SAR Imagery Products | USA, Europe | (https://www.capellaspace.com/about-us/careers/)
+| CesiumAstro | Software-defined phased array communication payloads for airborne and in-orbit platforms| USA, UK  | (https://www.cesiumastro.com/careers)
+| ConstellR | Smart Farming and Climate Monitoring from Space | Germany, France, UK, Belguim | (https://constellr.recruitee.com/)
 | Echostar | | |
 | Eclipse Orbital  | | |
 | Epic Aerospace  | | |
