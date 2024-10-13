@@ -12,7 +12,7 @@ You can help that list by creating issues or creating merge requests.
 - Find a better way to organize it (Do we want to do A-Z, By Location, or By mission type?
 - Decide if this needs to be a website that can maybe filter easier
 - Figure out how to abc this by code
-- Add a section for intern
+- ~Add a section for intern~ 
 ## FAQ ❔
 Q: Company X is not listed, can we add it?
 A: Sure, either make a pull request or raise an issue or tell me via twitter (@HooveSec) 
@@ -161,13 +161,6 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Xplore  | | |
 | York Space Systems  | Complete solutions for mission design, spacecraft, launch, ground, and operations.| U.S Based | (https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b)
  
-## List of places that do internships 
-| Company | Location |
-| --------|  ----- | 
-| York Space Systems | USA 
-| SpaceX | USA 
-| NASA | USA 
-
 
 ## Companies to vet 
 
