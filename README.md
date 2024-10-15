@@ -143,7 +143,7 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Telespazio  | | |
 | Thales Alenia Space  | | |
 | The Aerospace Corporation | | |
-| Turion Space  | | |
+| Turion Space  |  Advancing space sustainability, bridging national security capability gaps, and realigning incentives across the value chain in satellite manufacturing. | Irvine, CA | (https://turionspace.pinpointhq.com/#js-careers-jobs-block)
 | Umbra  | | |
 | United Launch Alliance | | |
 | Universities Space Resesarch Assocation  | | |
