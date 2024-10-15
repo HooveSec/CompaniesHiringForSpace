@@ -3,9 +3,9 @@ This repo is meant to be a list of Space Based Companies that are out of this wo
 
 ## Motivation :penguin:
 As someone in this space I always hear how can I get into space as a security engineer, satellite  engineer, IT, etc. Here is a curated list of companies to look at.
-This is also basically ripped from something I've previously helped on (Thanks Alexander) . https://github.com/jaegeral/companies-hiring-security-remote https://x.com/alexanderjaeger 
+This template is also basically ripped from something I've previously helped on (Thanks Alexander) . https://github.com/jaegeral/companies-hiring-security-remote https://x.com/alexanderjaeger 
 ## Contributing 💯🔥
-You can help that list by creating issues or creating merge requests.
+You can help that list by creating issues or creating merge requests with new compaines, filling in ones that haven't been fully development, or adding any amplyfying information. Thanks! 
 
 ## Project Goals :bug:
 - Get the list together with company, their mission, locations and link to careers page. Potential crowd-sourcing for data checking 
@@ -44,25 +44,23 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Capella Space | SAR Imagery Products | USA, Europe | (https://www.capellaspace.com/about-us/careers/)
 | CesiumAstro | Software-defined phased array communication payloads for airborne and in-orbit platforms| USA, UK  | (https://www.cesiumastro.com/careers)
 | ConstellR | Smart Farming and Climate Monitoring from Space | Germany, France, UK, Belguim | (https://constellr.recruitee.com/)
-| Echostar | | |
-| Eclipse Orbital  | | |
-| Epic Aerospace  | | |
-| Epsilon3 | | |
+| Echostar | Satellite Communications | Colorado, Illinnois, Maryland, Remote | (https://echostar.wd5.myworkdayjobs.com/echostar)
+| Epic Aerospace  | Orbit transfer vehicles | Argentina/California | (not actively recruiting ) - https://epic-aerospace.com/ 
+| Epsilon3 | SaaS Software Development for Space | Fully Remote| (https://jobs.lever.co/epsilon3)
 | Equatorial Space | | Based out of Singapore, Australia  | (https://www.equatorialspace.com/ careers@equatorialspace.com)
-| ESA | | |
-| EUSPA | | |
-| Evolution Space | | | 
-| Exo-Space | | U.S Based | (https://www.evolutionspace.com/careers)
-| Exotrail  | | |
-| Dhruva space | | |
-| Firefly Aerospace  | | |
-| Fleet Sspace Technologies | | |
-| Frontier Aerospace  | | |
-| Gemini Observatory | | |
+| ESA | The European Space Agency | Europe (NL, IT, BE, ES, DE, etc) | (https://jobs.esa.int/)
+| EUSPA |  Managing the European Union Space Programme | Europe | (https://www.euspa.europa.eu/opportunities/careers)
+| Evolution Space | Solid propulsion systems/small launch services | Mojave, CA | (https://www.evolutionspace.com/careers)
+| Exotrail  | Space Mobility | France, Colorado (USA),  | (https://careers.exotrail.com/jobs)
+| Dhruva space | SmallSats | India | (https://www.dhruvaspace.com/careers)
+| Firefly Aerospace  | Enabling Global Launch | Texas, Virginia | (https://fireflyspace.com/careers/#jobopenings)
+| Fleet Space Technologies |satellite-enabled solutions (multiphysics data acquisition, edge computing, and AI) | North America, Australia | (https://www.fleetspace.com/careers)
+| Frontier Aerospace  |  Space Propulsion | California | (https://frontieraerospaceaccount.bamboohr.com/careers) - None ATM 
+| Gemini Observatory |Astronomy | Hawaii | (https://www.gemini.edu/about/careers-and-jobs)
 | Gilmour Space | All Orbits, All Planets (Starting with LEO) | Australia | (https://www.gspace.com/career)
-| GHGSat | | |
-| Helios | | |
-| Honeybee Robotics | | |
+| GHGSat | Greenhouse Gas Emissions Monitoring Satellites | Remote, Canada | (https://ghgsat.bamboohr.com/careers)
+| Helios | Space technology company with the bold mission to extract oxygen from the moon.| Israel | (https://project-helios.space/job-openings/)
+| Honeybee Robotics (A Blue Origin Company) | Designs and builds robotics to explore and utilize space| California, Colorado | (https://jobs.lever.co/honeybeerobotics)
 | Hydrosast | | |
 | ICEYE | | |
 | Impulse Space | | |
@@ -163,78 +161,80 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
  
 
 ## Companies to vet 
-
-The Spsaceport Company 
-TZero 
-bluShift Aerospace
-Leo Aerospace 
-Astralytical
-FluroSat
-Phase Four 
-Stofifel Aerospace 
-Hydrosat
-RedWorks 
-Space Impulse 
-Spacept 
-Fifrst Resonance 
-Australi Space Launch 
-Audacy 
-ShipInSpace 
-Reaction Engines 
-Gateway Galactic
-Earthcube 
-Sensar
-Enpulsion
-Atomos Space 
-Asgard Space 
-Picterra
-AstroComm
 Abstract Assembly
-QEYNet
-Alen Space 
-TimeTag.Space 
-Gold Orbit 
-Exodus Space Corp 
-SpaceChain
-EXOS Aerospace
-I-Space 
-OneSpace
-Maana Electric
-Astrobotic 
-Atlas Space 
-BridgeSat
-Hawkeye 360 
-Isotropic Systems
-Kepler Communications 
-Speqtral
-Analytical Space
-Vector Launch 
-Gilmour Space 
-Akash Systems 
-Mu Space 
-Altius Space 
-Skyrora
-ClearSpace
-Space Talos
-PT Scientists
-Sen 
-Zero 2 Infinity
-Adaptive Rocket Corporation
-PLD Space 
-HOSTmi
-UKAM
-Kubos
-SkyWatch
-Bagaveev
-Bryce Space & Tech 
-STAR 
-Oxford Space Ssystems 
-Open Cosmos 
-Moon Express 
-HEO Robotics 
-Fleet 
-Cemvita Factory 
 Accion Systems
+Adaptive Rocket Corporation
+Akash Systems 
+Alen Space 
+Altius Space 
+Analytical Space
+Asgard Space 
+Astralytical
+Astrobotic 
+AstroComm
+Atlas Space 
+Atomos Space 
+Audacy 
+Australi Space Launch 
+Bagaveev
+bluShift Aerospace
+BridgeSat
+Bryce Space & Tech 
+Cemvita Factory 
+ClearSpace
+Earthcube 
+Enpulsion
+Exodus Space Corp 
+EXOS Aerospace
+Fifrst Resonance 
+Fleet 
+FluroSat
+Gateway Galactic
+Gilmour Space 
+Gold Orbit 
+Hawkeye 360 
+HEO Robotics 
+HOSTmi
+Hydrosat
+Isotropic Systems
+I-Space 
+Kepler Communications 
+Kubos
+Leo Aerospace 
+Maana Electric
+Moon Express 
+Mu Space 
+OneSpace
+Open Cosmos 
+Oxford Space Ssystems 
+Phase Four 
+Picterra
+PLD Space 
+PT Scientists
+QEYNet
+Reaction Engines 
+RedWorks 
+Sen 
+Sensar
+ShipInSpace 
+sidusspace
+Skyrora
+SkyWatch
+Space Impulse 
+Space Talos
+SpaceChain
+Spacept 
+Speqtral
+STAR 
+Stofifel Aerospace 
+The Spsaceport Company 
+TimeTag.Space 
+TZero 
+UKAM
+Vector Launch 
+Zero 2 Infinity
 
 
+# Companies that did not pass vetting (Unsure if still around)
+Eclipse Orbital 
 
