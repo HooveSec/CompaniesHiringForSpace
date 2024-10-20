@@ -61,22 +61,22 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | GHGSat | Greenhouse Gas Emissions Monitoring Satellites | Remote, Canada | (https://ghgsat.bamboohr.com/careers)
 | Helios | Space technology company with the bold mission to extract oxygen from the moon.| Israel | (https://project-helios.space/job-openings/)
 | Honeybee Robotics (A Blue Origin Company) | Designs and builds robotics to explore and utilize space| California, Colorado | (https://jobs.lever.co/honeybeerobotics)
-| Hydrosast | | |
-| ICEYE | | |
-| Impulse Space | | |
-| In-Space Missions  | | |
+| Hydrosast | Irrigation and crop management solutions | USA, EU | (https://apply.workable.com/hydrosat/#jobs)
+| ICEYE | SAR Technology | US, EU | (https://www.iceye.com/careers)
+| Impulse Space | Delivering payloads from LEO to MEO, GEO, and beyond. | California, Colorado | (https://www.impulsespace.com/careers)
+| In-Space Missions  | Design, build and operate full satellite missions and deliver space-enabled complex solutions for global customers for use on Earth, near space and deep space.| United Kingdom | (https://apply.workable.com/in-space/)
 | Interorbital Systems(IOS) | rocket, satellite, and spacecraft manufacturing company and launch-service provider | U.S Based (Mojave,CA) | (https://www.interorbital.com/Careers.php)
 | Interstellar Lab | Biofarming/ supply plant-based ingredients at scale on Earth and in Space. | U.S, France | (https://boards.greenhouse.io/interstellarlab)
 | Interstellar Tech |Building the rocket of choice around the world | Japan | (https://www.istellartech.com/career/)
 | Intuitive Machines | | |
 | Isar Aerospace | Two-stage liquid fueled rocket to deliver 1000kg to LEO | Germany | (https://www.isaraerospace.com/career)
 | ISpace | Space On-Orbit Servicing | U.S, Japan, United Kingdom, France, Israel | (https://astroscale.com/careers/vacancies/)
-| JPL  | | |
-| Keplar  | | |
-| Kongsberg NanoAvionics | | |
-| Kuva Space | | |
-| Kymeta | | |
-| Latitude | | |
+| JPL  | NASA's Jet Propulsion Labratory | Pasadena, California | (https://www.jpl.jobs/)
+| Kepler  | SDA Optical Network | Toronto, Canada | (https://kepler.space/careers/)
+| Kongsberg NanoAvionics | Small satellite mission integrator, manufacturing high-performance multi-purpose CubeSats, nanosatellites and small satellites | United States, Lithuania| (https://nanoavionics.com/our-careers/)
+| Kuva Space | Space-borne hyperspectral imaging and AI| Remote, Finland | (https://careers.kuvaspace.com/)
+| Kymeta | NEXT GENERATION OF MOBILE CONNECTIVITY | Washington State | (https://www.kymetacorp.com/careers/)
+| Latitude | Smallsat Launcher | France | (https://www.latitude.eu/careers)
 | Leaf Space | Ground station as a service (GSaaS) | U.S , Italy | (https://leaf.space/careers/)
 | LeoLabs | | |
 | Loft Orbital | | |
