@@ -23,7 +23,9 @@
 | SmallSat Symposium | Mountain View, CA | February | Learn from industry leaders, gain valuable market insights, and develop meaningful connections. | (https://smallsatshow.com/)
 
 
+## Internal note - made it to Februrary 2025
 https://spaceindustrydatabase.com/index.php/events 
+
 # International Conferences
 | Conference | Location | Month | About | Link | 
 | --------|  ----- |  ----- | ---- | ---

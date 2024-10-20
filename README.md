@@ -3,12 +3,12 @@ This repo is meant to be a one stop shop for multiple space related projects I a
 
 
 # See some of my projects
-- Awesome Space Articles to Read
-- Awesome Space Videos to Watch
-- Awesome Space Blogs/Social Media to follow
-- Awesome Space Jobs
-- Awesome Space Internships
-- Awesome Space Skillbridges (U.S Military Internships)
+- Awesome Space Articles to Read (Very WIP)
+- Awesome Space Videos to Watch (Very WIP)
+- Awesome Space Blogs/Social Media to follow (Very WIP)
+- Awesome Space Jobs (Halfway Complete)
+- Awesome Space Internships Very WIP)
+- Awesome Space Skillbridges (U.S Military Internships) (WIP)
 
 # Motivation :penguin:
 As someone in this space (ha) I always hear how can I get into the space indusutry as a security engineer, satellite  engineer, IT, etc. I want to provide some resources of stuff that has helped me prepare/develop into this career field
