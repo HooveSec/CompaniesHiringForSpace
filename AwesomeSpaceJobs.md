@@ -78,59 +78,51 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Kymeta | NEXT GENERATION OF MOBILE CONNECTIVITY | Washington State | (https://www.kymetacorp.com/careers/)
 | Latitude | Smallsat Launcher | France | (https://www.latitude.eu/careers)
 | Leaf Space | Ground station as a service (GSaaS) | U.S , Italy | (https://leaf.space/careers/)
-| LeoLabs | | |
-| Loft Orbital | | |
-| LSE Space  | | |
-| Lunar Outpost | | |
-| Lynk  | | |
-| Magma Space  | | |
-| Maritime Launch Services | | |
-| Maxar | | |
-| MDA  | | |
+| LeoLabs | Discover and Respond to Adversarial Space Activities with Next-Gen Radar| D.C., Virginia, U.S | (https://leolabs.space/jobs/)
+| Loft Orbital | Space Infrastructure | Colorado, Remote - USA, San Fransisco CA, Toulouse FR | (https://jobs.lever.co/loftorbital/)
+| LSE Space  |  space services provider | Germany | (https://lsespace.com/career/)
+| Lunar Outpost | Advanced Spacecraft and Robotics Solutions | Melbourne Australia, Foetz Luxembourg, Colorado USA| (https://www.lunaroutpost.com/careers)
+| Lynk  | connect ordinary cell phones to low orbiting satellites | Washington DC | (https://lynk.world/careers/)
+| Maxar | Space Systems and Intelligence| Germany, United Kingdom, United States | (https://www.maxar.com/careers)
+| MDA  | Communications, Observations, and Space Exploration |Canada, US, UK | (https://mda.space/careers)
 | Momentus | SPACE TRANSPORTATION AND INFRASTRUCTURE SERVICES | | (https://boards.greenhouse.io/momentus) OFFLINE ON 09/14/24
-| Muon Space | | |
-| Mynaric  | | |
-| NASA | | |
-| National Radio Astronomy Observatory | | |
-| Near Space  Labs | | |
-| NewRocket | | |
-| Northrop Grumman  | | |
-| NorthSstar | | |
-| ODYSSEUS Space  | | |
+| Muon Space | Earth Intelligence from climate monitoring to national security | California, Washington D.C, Virginia, Remote | (https://www.muonspace.com/careers)
+| Mynaric  | Laser Communications| Germany | (https://mynaric.com/careers/all-open-positions/)
+| NASA | All things space | USA | (https://www.nasa.gov/careers/)
+| National Radio Astronomy Observatory | Deep Space Explorataion and understanding| Virginia | https://jobs.jobvite.com/nrao/jobs
+| Near Space  Labs | Geospatial Intelligence | USA, Spain | (https://nearspacelabs.com/careers/)
+| Northrop Grumman | Defense Contractor | USA, UK, Australia | (https://www.northropgrumman.com/space)
+| NorthSstar | Space Domain Awareness/Geospatial Intelligence| Canada, Luxemborg, Remote | (https://northstar-data.com/careers/)
+| ODYSSEUS Space  | Laser Communications | Luxembourg | (https://www.odysseus.space/careers)
 | OKAPI Orbits | SaaS solution for satellite collision avoidance software | Germany/Remote | (https://www.okapiorbits.space/career)
-| Omitron | | |
-| OneWeb | | |
-| Open Cosmos | | |
+| Omitron | multi-disciplinary expertise in spaceflight safety, satellite ground systems and engineering services for civil, defense and national space programs.| California, Florida, Virginia, Colorado | (https://www.omitron.com/careers/)
+| OneWeb | European Satellite Operator | France, UK, USA, Italy, Australia | (https://careers.eutelsat.com/search/)
+| Open Cosmos | End to end space mission service | Portugal, Spain, UK, Greece | (https://www.open-cosmos.com/careers)
 | Orbex | low carbon, high performance micro-launch vehicles for smallsats | Denmark,  United Kingdom  | (https://orbex.space/work-with-us/current-vacancies)
-| Orbion  | | |
-| Orbit Fab  | | |
-| Orbital Sidekick | | |
-| OrbitsEdge | | |
-| Origin Space | | |
-| OroraTech | | |
+| Orbion  | Small satellite electric propulsion technology and space systems | USA | (https://orbionspace.com/careers/)
+| Orbit Fab  |  in-space spacecraft refueling services. | Colorado | (https://www.orbitfab.com/careers/)
+| Orbital Sidekick | Spectral Intelligence |USA< Remote> | (https://www.orbitalsidekick.com/careers)
+| OroraTech | Wildfire detection and monitoring from space | Greece, Germany | (https://ororatech.com/careers/)
 | PD Aerospace | Space Tourism | Japan | (https://pdas.co.jp/en/recruit/) 
-| Perigee Space | | South Korea | (https://perigee.space/career/)
-| Phantom | | |
-| Pixxel | | |
-| Plannet  | | |
-| Ramon.Space  | | |
-| Red Canyon  | | |
-| Redwire Space  | | |
-| Relativity Space | | |
-| Rocket Factory Augsburg | | |
-| Rocket Lab  | | |
-| Satellite Vu  | | |
-| Satellogic  | | |
-| SES | | |
-| Sierra Space  | | |
-| Skylo  | | |
-| Skyroot Aerospace | | |
-| Slingshot Aerospace  | | |
-| Solestial | | |
-| Space Forge  | | |
-| Space Perspective  | | |
-| Space Pioneer | | |
-| SpacePharma | | | 
+| Perigee Space |  orbital and sub-orbital launch vehicles | South Korea | (https://perigee.space/career/)
+| Phantom Space | Satellite Build and Launch | Tuscon, AZ | (https://phantomspace.bamboohr.com/careers/21?source=aWQ9MjI%3D)
+| Pixxel | hyperspectral imaging satellites | India | (https://www.pixxel.space/careers)
+| Planet Labs | Satellite Imagery| UK, Austria, Netherlands, Germany, Remote, USA | (https://www.planet.com/company/careers/)
+| Ramon.Space  | on-board computing systems | United Kingdom | (https://ramon.space/careers/#anchor-open-positions)
+| Red Canyon Engineering and Software | Software Development for Space | Colorado, California | (https://redcanyonsoftware.com/current-jobs/)
+| Redwire Space  | Space Mission Support | | (https://careers.redwirespace.com/)
+| Relativity Space | | | (https://www.relativityspace.com/careers)
+| Rocket Factory Augsburg | Fair and cheap access to  space - Launch | Germany, Portugal| (https://www.rfa.space/career/)
+| Rocket Lab  | Launch | USA, Califronia | (https://www.rocketlabusa.com/careers/)
+| Satellite Vu  | High resolution thermal data from space | London | (https://www.satellitevu.com/careers)
+| Satellogic  | Earth Observation Sattelites | EU | (https://satellogic.com/company/careers/)
+| SES | Defense Contractor | Washington D.C, Virginia | (https://careers.sessd.com/)
+| Sierra Space  | Commercial Space and Defense | USA| (https://www.sierraspace.com/careers/)
+| Skylo  | Direct to cell | India, Finland, USA, London | (https://www.skylo.tech/careers)
+| Skyroot Aerospace | Futuristic space-launch vehicle design and building| India | (https://skyroot.in/career.html)
+| Slingshot Aerospace  | Space Data Analysis | USA, UK | (https://www.slingshot.space/careers)
+| Solestial | Silicon Photovoltaics for Space  | Tempe, AZ | (https://solestial.com/careers/)
+| Space Forge  | Microgravity as a service | Wales | (https://www.spaceforge.com/careers)
 | Space Telescope Science Institute  | | |
 | SpaceWorks Enterprises  | Space and flight solutions | Atlanta | (https://www.spaceworks.aero/careers/#open-positions)
 | SpaceX | Get to Mars, funded by launch and sattelite internet |Mostly U.S based, Some Global |  (https://www.spacex.com/careers)
@@ -222,6 +214,8 @@ Skyrora
 SkyWatch
 Space Impulse 
 Space Talos
+SpacePharma (at a later time again, no positions)
+Space Perspective(at a later time again, no positions)
 SpaceChain
 Spacept 
 Speqtral
@@ -235,6 +229,8 @@ Vector Launch
 Zero 2 Infinity
 
 
-# Companies that did not pass vetting (Unsure if still around)
-Eclipse Orbital 
-
+# Companies that did not pass vetting 
+Eclipse Orbital (Unsure if still around)
+Magma Space (Unable to get much information on company, no job postings found)
+Newrocket (nott a space company)
+OrbitsEdge (Not developed enough)
