@@ -13,6 +13,7 @@
 | Northrop Grumman Space | Defense Contractor | USA, Europe, Australia | (https://www.northropgrumman.com/jobs?_job_experience=entry-level&amp;job_level=intern)
 | Relativity Space | Launch | California | (https://www.relativityspace.com/internships)
 | Satellogic  | Earth Observation Sattelites | EU | (https://satellogic.bamboohr.com/careers/220)
+| Sierra Space  | Commercial Space and Defense | USA | (https://sierraspace.com/careers/internship/)
 
 # Need to look into
 Rocketlab
