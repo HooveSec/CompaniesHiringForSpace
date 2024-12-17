@@ -7,10 +7,16 @@
 | Honeybee Robotics| USA (Los Angeles, Denver, CO) | Mechanical Engineering, Electrical Engineering, Manufacturing, Test Eengigneering | (https://www.honeybeerobotics.com/about-us/internships/)  
 | General Atomics| San Diego, CA | Depends by year  | (https://www.ga-careers.com/search-jobs/intern/499/1)
 | Motorola Solutions | Singapore, UK, Poland, Colombia, India, Dubai, USA (Florida, Chicago), and more international locations | Lots of options (Softwware Engineer, Marketing, Logistics, HR, Finance, etc)| (https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=intern)
-
+| MDA  | Communications, Observations, and Space Exploration |Canada, US, UK | (https://mda.space/careers)
+| Mynaric  | Laser Communications| Germany | (https://mynaric.com/careers/all-open-positions/) (https://mynaric.com/careers/working-students/)
+| National Radio Astronomy Observatory | Virginia | (https://science.nrao.edu/opportunities/student-programs/sos)
+| Northrop Grumman Space | Defense Contractor | USA, Europe, Australia | (https://www.northropgrumman.com/jobs?_job_experience=entry-level&amp;job_level=intern)
+| Relativity Space | Launch | California | (https://www.relativityspace.com/internships)
+| Satellogic  | Earth Observation Sattelites | EU | (https://satellogic.bamboohr.com/careers/220)
 
 # Need to look into
 Rocketlab
+NASA JPL (if seperate)
 
 
 
