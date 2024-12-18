@@ -123,32 +123,32 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
 | Slingshot Aerospace  | Space Data Analysis | USA, UK | (https://www.slingshot.space/careers)
 | Solestial | Silicon Photovoltaics for Space  | Tempe, AZ | (https://solestial.com/careers/)
 | Space Forge  | Microgravity as a service | Wales | (https://www.spaceforge.com/careers)
-| Space Telescope Science Institute  | | |
+| Space Telescope Science Institute | Manages science operations for NASA's Hubble and James Webb Space Telescopes. | Baltimore, MD; Tucson, AZ; La Serena, Chile; Hilo, HI; Maui, HI. | (https://www.stsci.edu/opportunities) 
 | SpaceWorks Enterprises  | Space and flight solutions | Atlanta | (https://www.spaceworks.aero/careers/#open-positions)
 | SpaceX | Get to Mars, funded by launch and sattelite internet |Mostly U.S based, Some Global |  (https://www.spacex.com/careers)
-| Spaced Ventures  | | |
-| SpinLaunch | | |
-| Spire  | | |
+| Spaced Ventures  | Previously known as Mach33 Financial Group, focuses on space investment opportunities. | Online platform; specific job locations not specified. | (https://www.spacedventures.com/) 
+| SpinLaunch                        | Develops kinetic launch systems for space access. | Long Beach, CA; Albuquerque, NM. | (https://spinlaunch.com/careers) 
+| Spire                             | Provides satellite data and analytics for various industries. | San Francisco, CA; Boulder, CO; Glasgow, UK; Singapore. | (https://spire.com/careers) 
 | Stellar Amenities |A Modern OS for Space Station Operators/AI | Remote USA/Los Angeles, California| (https://stellaramenities.space/join-us)
-| Stoke | | |
-| Surrey Satellite Technology  | | |
-| Telespazio  | | |
-| Thales Alenia Space  | | |
-| The Aerospace Corporation | | |
+| Stoke                             | Designs and manufactures reusable space launch vehicles. | Long Beach, CA. | (https://www.stoke.space/careers) 
+| Surrey Satellite Technology       | Develops small and micro satellite systems. | Guildford, UK; Harwell, UK. | (https://www.sstl.co.uk/careers)
+| Telespazio                        | Provides satellite services and solutions. | Rome, Italy; Washington, DC; various global locations. | (https://www.telespazio.com/en/careers) 
+| Thales Alenia Space                | Designs and builds space systems and equipment. | Cannes, France; Toulouse, France; various global locations. | https://www.thalesgroup.com/en/careers) 
+| The Aerospace Corporation         | Provides technical expertise in aerospace systems. | El Segundo, CA; Chantilly, VA; Albuquerque, NM. | (https://aerospace.org/careers)
 | Turion Space  |  Advancing space sustainability, bridging national security capability gaps, and realigning incentives across the value chain in satellite manufacturing. | Irvine, CA | (https://turionspace.pinpointhq.com/#js-careers-jobs-block)
-| Umbra  | | |
-| United Launch Alliance | | |
-| Universities Space Resesarch Assocation  | | |
-| Ursa Major  | | |
-| Utowave | | |
-| Varda Space  | | |
-| Vast  | | |
-| Vaya Space  | | |
-| Venus Aerospace  | | |
-| Virgin Galactic | | |
-| Voyager Space  | | |
-| World View | Exploration of the Stratosphere, Space Tourism | Arizona, U.S | (https://jobs.lever.co/world-view-enterprises-inc.)
-| Xplore  | | |
+| Umbra                             | Develops synthetic aperture radar (SAR) satellites. | Santa Barbara, CA. | (https://www.umbra.space/careers)
+| United Launch Alliance            | Provides spacecraft launch services. | Centennial, CO; Decatur, AL; various global locations. | (https://www.ulalaunch.com/careers)
+| Universities Space Research Association | Supports space science research and education. | Columbia, MD; various global locations. | (https://www.usra.edu/careers)
+| Ursa Major                        | Develops and manufactures rocket engines. | Berthoud, CO. | (https://www.ursamajor.com/careers)
+| Uptake                            | Provides AI-driven analytics for various industries, including aerospace. | Chicago, IL. | (https://www.uptake.com/careers)
+| Varda Space                       | Develops in-space manufacturing technologies. | Los Angeles, CA. | (https://www.varda.com/careers)
+| Vast Space                        | Develops space habitats and infrastructure. | Los Angeles, CA. | (https://www.vastspace.com/careers)
+| Vaya Space                        | Develops small satellite launch vehicles. | Miami, FL. | (https://www.vayaspace.com/careers) 
+| Venus Aerospace                   | Develops hypersonic aircraft for space access. | Los Angeles, CA. | (https://www.venusaerospace.com/careers) 
+| Virgin Galactic                   | Develops commercial spaceflight services. | Mojave, CA; Las Cruces, NM. | (https://www.virgingalactic.com/careers) 
+| Voyager Space                     | Provides space exploration and infrastructure services. | Denver, CO. | (https://www.voyagerspace.com/careers) 
+| World View | Exploration of the Stratosphere, Space Tourism | Arizona, U.S | (https://jobs.lever.co/world-view-enterprises-inc)
+| Xplore | Provides space mission services and data analytics. | Seattle, WA. | (https://xplore.com/careers) 
 | York Space Systems  | Complete solutions for mission design, spacecraft, launch, ground, and operations.| U.S Based | (https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b)
  
 
