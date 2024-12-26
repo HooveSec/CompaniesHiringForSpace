@@ -1,23 +1,26 @@
-## List of places that do internships 
-| Company | Location | Job Types | Link
-| --------|  ----- |  ----- | ----
-| York Space Systems | USA (Colorado, TX, Maryland)  | Engineering | (https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b)
-| SpaceX | USA | Business, Engineering, Graduate Engineering, Software Engineering| (https://www.spacex.com/careers/jobs?type=intern)
-| NASA | USA, International | All sorts of programs | (https://stemgateway.nasa.gov/public/s/explore-opportunities)
-| Honeybee Robotics| USA (Los Angeles, Denver, CO) | Mechanical Engineering, Electrical Engineering, Manufacturing, Test Eengigneering | (https://www.honeybeerobotics.com/about-us/internships/)  
-| General Atomics| San Diego, CA | Depends by year  | (https://www.ga-careers.com/search-jobs/intern/499/1)
-| Motorola Solutions | Singapore, UK, Poland, Colombia, India, Dubai, USA (Florida, Chicago), and more international locations | Lots of options (Softwware Engineer, Marketing, Logistics, HR, Finance, etc)| (https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=intern)
-| MDA  | Communications, Observations, and Space Exploration |Canada, US, UK | (https://mda.space/careers)
-| Mynaric  | Laser Communications| Germany | (https://mynaric.com/careers/all-open-positions/) (https://mynaric.com/careers/working-students/)
-| National Radio Astronomy Observatory | Virginia | (https://science.nrao.edu/opportunities/student-programs/sos)
-| Northrop Grumman Space | Defense Contractor | USA, Europe, Australia | (https://www.northropgrumman.com/jobs?_job_experience=entry-level&amp;job_level=intern)
-| Relativity Space | Launch | California | (https://www.relativityspace.com/internships)
-| Satellogic  | Earth Observation Sattelites | EU | (https://satellogic.bamboohr.com/careers/220)
-| Sierra Space  | Commercial Space and Defense | USA | (https://sierraspace.com/careers/internship/)
+## List of places that do internships
 
-# Need to look into
-Rocketlab
-NASA JPL (if seperate)
-
-
-
+| Company                      | Location                                                                 | Job Types                                                                 | Link                                                                 |
+|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Astra                        | USA                                                                      | Engineering, Manufacturing, Software Development, Operations              | [Astra Careers](https://www.astra.com/careers) |
+| Blue Origin                  | USA                                                                      | Engineering, Operations, Business Development, Software Engineering      | [Blue Origin Careers](https://www.blueorigin.com/careers) |
+| Boeing                       | USA, International                                                      | Engineering, Business, Software Development, Finance, HR                 | [Boeing Internships](https://jobs.boeing.com/internships) |
+| Firefly Aerospace            | USA                                                                      | Engineering, Manufacturing, Software Development, Operations              | [Firefly Careers](https://www.firefly.com/careers) |
+| General Atomics              | San Diego, CA                                                           | Varies by year                                                            | [General Atomics Careers](https://www.ga-careers.com/search-jobs/intern/499/1) |
+| Honeybee Robotics            | USA (Los Angeles, Denver, CO)                                           | Mechanical Engineering, Electrical Engineering, Manufacturing, Test Engineering | [Honeybee Robotics Internships](https://www.honeybeerobotics.com/about-us/internships/) |
+| Lockheed Martin              | USA, International                                                      | Engineering, Business, Software Development, Finance, HR                 | [Lockheed Martin Internships](https://www.lockheedmartin.com/en-us/careers/career-areas/internships.html) |
+| MDA                          | Canada, US, UK                                                          | Communications, Observations, and Space Exploration                       | [MDA Careers](https://mda.space/careers) |
+| Mynaric                      | Germany                                                                 | Laser Communications                                                      | [Mynaric Careers](https://mynaric.com/careers/all-open-positions/) |
+| NASA                         | USA, International                                                      | Various programs                                                          | [NASA Internships](https://stemgateway.nasa.gov/public/s/explore-opportunities) |
+| National Radio Astronomy Observatory | Virginia                                                                 | Various programs                                                          | [NRAO Student Programs](https://science.nrao.edu/opportunities/student-programs/sos) |
+| Northrop Grumman Space       | USA, Europe, Australia                                                  | Various positions                                                          | [Northrop Grumman Internships](https://www.northropgrumman.com/jobs?_job_experience=entry-level&job_level=intern) |
+| OneWeb                       | UK, USA, International                                                  | Engineering, Business, Software Development, Finance, HR                 | [OneWeb Careers](https://www.oneweb.world/careers) |
+| Planet Labs                  | USA, International                                                      | Engineering, Business, Software Development, Finance, HR                 | [Planet Careers](https://www.planet.com/careers/) |
+| Planetary Resources          | USA                                                                      | Engineering, Business, Software Development, Finance, HR                 | [Planetary Resources Careers](https://www.planetaryresources.com/careers) |
+| Relativity Space             | California                                                              | Launch-related positions                                                   | [Relativity Space Internships](https://www.relativityspace.com/internships) |
+| Rocket Lab                   | USA, New Zealand, Australia                                              | Engineering, Manufacturing, Software Development, Operations              | [Rocket Lab Internships](https://www.rocketlabusa.com/careers/internships/) |
+| Satellogic                   | EU                                                                       | Earth Observation Satellites                                              | [Satellogic Internships](https://satellogic.bamboohr.com/careers/220) |
+| Sierra Space                 | USA                                                                      | Commercial Space and Defense                                              | [Sierra Space Internships](https://sierraspace.com/careers/internship/) |
+| SpaceX                       | USA                                                                      | Business, Engineering, Graduate Engineering, Software Engineering       | [SpaceX Internships](https://www.spacex.com/careers/jobs?type=intern) |
+| United Launch Alliance (ULA) | USA (Colorado, Alabama, Florida)                                        | Engineering, Business, Software Development, Finance, HR                 | [ULA Careers](https://www.ulalaunch.com/careers) |
+| York Space Systems           | USA (Colorado, TX, Maryland)                                            | Engineering                                                              | [York Space Systems Internships](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b) |
