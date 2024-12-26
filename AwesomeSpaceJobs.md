@@ -1,4 +1,4 @@
-# Companies hiring for space :star: :sparkles: :dizzy: :star2: 
+# Companies hiring for space
 This repo is meant to be a list of Space Based Companies that are out of this world!
 
 ## Motivation :penguin:
@@ -214,8 +214,6 @@ Skyrora
 SkyWatch
 Space Impulse 
 Space Talos
-SpacePharma (at a later time again, no positions)
-Space Perspective(at a later time again, no positions)
 SpaceChain
 Spacept 
 Speqtral
@@ -230,7 +228,16 @@ Zero 2 Infinity
 
 
 # Companies that did not pass vetting 
+Abstract Assembly (Nothing seen since 2018)
+Adaptive Rocket Corporation (No activity since 2021)
+Asgard Space (Out of business per pinchbrook, domain gone)
+AstroComm (Seems like mom and pop shop that makes LNAs)
+Bagaveev Corporation (inactive per ycombinator)
 Eclipse Orbital (Unsure if still around)
+Gateway Galactic (Not sure if startup took off)
+Gold Orbit (Not sure if startup took off)
 Magma Space (Unable to get much information on company, no job postings found)
-Newrocket (nott a space company)
+Newrocket (not a space company)
 OrbitsEdge (Not developed enough)
+Space Perspective (at a later time again, no positions)
+SpacePharma (at a later time again, no positions)
