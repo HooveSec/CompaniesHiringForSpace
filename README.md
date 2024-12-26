@@ -3,11 +3,11 @@ This repo is meant to be a one stop shop for multiple space related projects I a
 
 
 # See some of my projects
-- Awesome Space Articles to Read (Very WIP)
-- Awesome Space Videos to Watch (Very WIP)
-- Awesome Space Blogs/Social Media to follow (Very WIP)
+- Awesome Space Articles to Read (WIP)
+- Awesome Space Videos to Watch (WIP)
+- Awesome Space Blogs/Social Media to follow 
 - Awesome Space Jobs (Halfway Complete)
-- Awesome Space Internships Very WIP)
+- Awesome Space Internships (WIP)
 - Awesome Space Skillbridges (U.S Military Internships) (WIP)
 
 # Motivation :penguin:
