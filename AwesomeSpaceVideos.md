@@ -6,3 +6,5 @@ Hacking  Satellites: Houston, We Have a Problem - Jacob Oakley
 https://www.youtube.com/watch?v=bHsGfX18DQs
 ## HackSpaceCon Videos
 https://buildcyber.ai/
+## Security for Space Systems 2024 Summit
+https://atpi.eventsair.com/24a06---3s2024/final-programme 
