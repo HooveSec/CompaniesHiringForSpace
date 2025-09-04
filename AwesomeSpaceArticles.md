@@ -24,3 +24,4 @@
 | SPARTA Countermeasures: A Look into the SPARTA Matrix | An overview of countermeasures within the SPARTA framework.                                  | https://medium.com/the-aerospace-corporation/a-look-into-sparta-countermeasures-358e2fcd43ed |
 | SPARTA: Cyber Security for Space Missions             | An introduction to SPARTA using PCSpooF for space mission cybersecurity.                     | https://sparta.aerospace.org/resources/OTR202400438_SPARTA_for_SV_Assessments.pdf |
 | Using SPARTA to Conduct Space Vehicle Cyber Assessments | A report on using SPARTA for conducting space vehicle cybersecurity assessments.             | https://sparta.aerospace.org/resources/OTR-2023-00637_SPARTA_CYSAT.pdf |
+| Fuzzing Space Communication Protocols |ESA, IMDEA Software Institute , †Universidad Politecnica de Madrid | https://www.ndss-symposium.org/wp-content/uploads/spacesec25-final12.pdf |
