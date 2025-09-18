@@ -25,3 +25,8 @@
 | SPARTA: Cyber Security for Space Missions             | An introduction to SPARTA using PCSpooF for space mission cybersecurity.                     | https://sparta.aerospace.org/resources/OTR202400438_SPARTA_for_SV_Assessments.pdf |
 | Using SPARTA to Conduct Space Vehicle Cyber Assessments | A report on using SPARTA for conducting space vehicle cybersecurity assessments.             | https://sparta.aerospace.org/resources/OTR-2023-00637_SPARTA_CYSAT.pdf |
 | Fuzzing Space Communication Protocols |ESA, IMDEA Software Institute , †Universidad Politecnica de Madrid | https://www.ndss-symposium.org/wp-content/uploads/spacesec25-final12.pdf |
+
+## Need to add 
+https://publications.cispa.saarland/3934/1/SatSec-Oakland22.pdf
+https://arxiv.org/pdf/2405.18135
+https://www.ndss-symposium.org/wp-content/uploads/spacesec25-final12.pdf
