@@ -153,17 +153,11 @@ A: Sure, either make a pull request or raise an issue or tell me via twitter (@H
  
 
 ## Companies to vet 
-Abstract Assembly
-Accion Systems
-Adaptive Rocket Corporation
-Akash Systems 
 Alen Space 
 Altius Space 
 Analytical Space
-Asgard Space 
 Astralytical
 Astrobotic 
-AstroComm
 Atlas Space 
 Atomos Space 
 Audacy 
@@ -224,12 +218,13 @@ TimeTag.Space
 TZero 
 UKAM
 Vector Launch 
-Zero 2 Infinity
 
 
 # Companies that did not pass vetting 
 Abstract Assembly (Nothing seen since 2018)
+Accion (Haven't seen anything since 2021)
 Adaptive Rocket Corporation (No activity since 2021)
+Akash Systems (Not currently hiring but looks to have launched a SDR on SpaceX in 2025)
 Asgard Space (Out of business per pinchbrook, domain gone)
 AstroComm (Seems like mom and pop shop that makes LNAs)
 Bagaveev Corporation (inactive per ycombinator)
@@ -241,3 +236,4 @@ Newrocket (not a space company)
 OrbitsEdge (Not developed enough)
 Space Perspective (at a later time again, no positions)
 SpacePharma (at a later time again, no positions)
+zero2infinity (Not hiring as far as I can tell)
