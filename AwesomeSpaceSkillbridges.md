@@ -14,3 +14,5 @@
 | The KYO Group - One Web Technologies | Houston, TX | Satellite Network Operations Technician, Sales Manager, Contracts Admin | (Skillbridge@thekyogroup.com) (https://www.thekyogroup.com/skillbridge-partner-opportunities/oneweb-technologies)
 | Turion Space Corp | Irvine, CA | Mission Operations | (rwesterdahl@turionspace.com)
 | York Space Systems | USA (Colorado, TX, Maryland)  | Mission Operations | (https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b)
+| Redwire Space | Chantilly, Virginia; remote option | Space Missions Business Development Associate (Capture & BD, proposals, mission solutions, satellite / sensors / components) | (https://careers.redwirespace.com/jobs/space-missions-business-development-associate-intern-skillbridge-capture-bd-associate-chantilly-virginia-united-states)
+| Hypergiant Sensory Sciences| Remote | Software Engeneering, Program Management | (https://jobs.spacetalent.org/companies/hypergiant-sensory-sciences/jobs/42436428-skillbridge-internship) 
