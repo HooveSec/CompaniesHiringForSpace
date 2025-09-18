@@ -43,3 +43,4 @@
 | Rocket Lab News                      | Updates on Rocket Lab's space missions and events.  | https://www.rocketlabusa.com/news/       |
 | SpaceX News                          | Official SpaceX news and updates, written by SpaceX's communications team. | https://www.spacex.com/launches/         |
 | Blue Origin News                     | Official news and updates from Blue Origin.         | https://www.blueorigin.com/news          |
+| Space Interviews | Interviews from spacebandits | https://www.spacebandits.io/interviews#interviews
