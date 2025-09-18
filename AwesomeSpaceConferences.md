@@ -40,6 +40,9 @@ https://spaceindustrydatabase.com/index.php/events
 | Space Economy Summit | Lisbon, Portugal | December | Pivotal nexus for space sector leaders to converge with industry and a platform to share outcomes from new earth observation applications | (https://events.economist.com/space-economy-summit/)
 | European Space Conference | Brussels, Belgium | January | Explore the current status of Europe’s space endeavours  through a series of high-level  dialogues and serve as a platform for in-depth, engaging, and forward-thinking discussions about the future direction of European space initiatives.| (https://spaceconference.eu/)
 | Paris Space  Week | Paris, France | February | The Worldwide business gathering Place; everyone talks about in the Space Industry, that ensures a high Return on investment through a fair pricing policy and an average number of very important Qualified leads. | (https://www.paris-space-week.com/)
+| CYSAT Asia | Singapore (2026) | February | Europea and Asia Pacific space collaboration | (https://cysat.eu/asia) |
+| Global Space Technology Convention | Singapore | May (2026) | Cross sector collaboration to make space commercially viable | (https://www.space.org.sg/gstce/) | 
+
 
 
 
