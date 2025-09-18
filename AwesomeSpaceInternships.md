@@ -1,4 +1,5 @@
 ## List of places that do internships
+| company | location | intern type | link | 
 
 | Company                      | Location                                                                 | Job Types                                                                 | Link                                                                 |
 |------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -24,3 +25,6 @@
 | SpaceX                       | USA                                                                      | Business, Engineering, Graduate Engineering, Software Engineering       | [SpaceX Internships](https://www.spacex.com/careers/jobs?type=intern) |
 | United Launch Alliance (ULA) | USA (Colorado, Alabama, Florida)                                        | Engineering, Business, Software Development, Finance, HR                 | [ULA Careers](https://www.ulalaunch.com/careers) |
 | York Space Systems           | USA (Colorado, TX, Maryland)                                            | Engineering                                                              | [York Space Systems Internships](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b) |
+SpaceWorks Enterprises, Inc | Atlanta, Georgia | Aerospace Engineering; Advanced Development / Conceptual & preliminary engineering; Software; Space Operations; Entry Systems; Mission-ready hardware & prototypes | (https://www.spaceworks.aero/internships/#open-positions)
+| Starfish Space | Seattle / Tukwila area, Washington, USA | Engineering (satellite servicing, systems, electrical, software, business roles| (https://www.starfishspace.com/careers/?utm_source=chatgpt.com) | 
+| Astro Digital | Littleton, Colorado & San Jose, California, USA | Satellite missions / spacecraft design, engineering, R&D / production & assembly / operations. | (https://astrodigital.com/careers)
