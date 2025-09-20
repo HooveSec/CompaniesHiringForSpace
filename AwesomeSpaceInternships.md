@@ -28,3 +28,4 @@
 SpaceWorks Enterprises, Inc | Atlanta, Georgia | Aerospace Engineering; Advanced Development / Conceptual & preliminary engineering; Software; Space Operations; Entry Systems; Mission-ready hardware & prototypes | (https://www.spaceworks.aero/internships/#open-positions)
 | Starfish Space | Seattle / Tukwila area, Washington, USA | Engineering (satellite servicing, systems, electrical, software, business roles| (https://www.starfishspace.com/careers/?utm_source=chatgpt.com) | 
 | Astro Digital | Littleton, Colorado & San Jose, California, USA | Satellite missions / spacecraft design, engineering, R&D / production & assembly / operations. | (https://astrodigital.com/careers)
+| Varda Space | El Segundo, California | Leo Space Infrastructure| (https://www.varda.com/careers#open-positions)
