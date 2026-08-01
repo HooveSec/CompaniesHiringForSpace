@@ -3,24 +3,14 @@ This repo is meant to be a one stop shop for multiple space related projects I a
 
 
 # See some of my projects
-- Awesome Space Articles to Read (WIP)
-- Awesome Space Videos to Watch (WIP)
-- Awesome Space Blogs/Social Media to follow 
-- Awesome Space Jobs (Halfway Complete)
-- Awesome Space Internships (WIP)
-- Awesome Space Skillbridges (U.S Military Internships) (WIP)
+- [Awesome Space Jobs](AwesomeSpaceJobs.md) - companies hiring in the space industry
+- [Awesome Space Internships](AwesomeSpaceInternships.md) - companies with internship programs
+- [Awesome Space Skillbridges](AwesomeSpaceSkillbridges.md) - U.S. Military SkillBridge transition partners
+- [Awesome Space Conferences](AwesomeSpaceConferences.md) - US and international space conferences
+- [Awesome Space Media](AwesomeSpaceMedia.md) - blogs, articles, and videos to follow
 
 # Motivation :penguin:
 As someone in this space (ha) I always hear how can I get into the space industry as a security engineer, satellite engineer, IT, etc. I want to provide some resources of stuff that has helped me prepare/develop into this career field
 ## Contributing 💯🔥
 You can help that list by creating issues or creating merge requests within any of my projects, filling in ones that haven't been fully developed, or adding any amplifying information. Thanks! Or tell me via twitter (@HooveSec) 
-
-## Project Goals :bug:
-Finish initial list for AwesomeSspaceCompanies
-Build out AwesomeSpaceInternshipss/AwesomeSpaceSkillbridges
-Build out AwesomeSpaceBlogs
-Build out AwesomeSpaceVideos
-Add more to AwesomeSpaceArticles
-Build out AwesomeSpaceConferences
-Build out AwesomeSpaceCourses
 
