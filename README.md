@@ -1,16 +1,20 @@
-# Space Repo:star: :sparkles: :dizzy: :star2: 
-This repo is meant to be a one stop shop for multiple space related projects I am working on. 
+# Space Repo
 
+A one-stop shop for space-industry career resources: companies that hire, internships, U.S. military SkillBridge programs, conferences, media, and open-source tools you can use to skill up.
 
-# See some of my projects
-- [Awesome Space Jobs](AwesomeSpaceJobs.md) - companies hiring in the space industry
-- [Awesome Space Internships](AwesomeSpaceInternships.md) - companies with internship programs
-- [Awesome Space Skillbridges](AwesomeSpaceSkillbridges.md) - U.S. Military SkillBridge transition partners
-- [Awesome Space Conferences](AwesomeSpaceConferences.md) - US and international space conferences
-- [Awesome Space Media](AwesomeSpaceMedia.md) - blogs, articles, and videos to follow
+## Projects
 
-# Motivation :penguin:
-As someone in this space (ha) I always hear how can I get into the space industry as a security engineer, satellite engineer, IT, etc. I want to provide some resources of stuff that has helped me prepare/develop into this career field
-## Contributing 💯🔥
-You can help that list by creating issues or creating merge requests within any of my projects, filling in ones that haven't been fully developed, or adding any amplifying information. Thanks! Or tell me via twitter (@HooveSec) 
+- [Awesome Space Jobs](AwesomeSpaceJobs.md) — companies hiring in the space industry
+- [Awesome Space Internships](AwesomeSpaceInternships.md) — companies with internship programs
+- [Awesome Space Skillbridges](AwesomeSpaceSkillbridges.md) — U.S. military SkillBridge transition partners
+- [Awesome Space Conferences](AwesomeSpaceConferences.md) — U.S. and international space conferences
+- [Awesome Space Media](AwesomeSpaceMedia.md) — blogs, articles, and videos to follow
+- [Awesome Space Open Source](AwesomeSpaceOpenSource.md) — open data, APIs, and software to learn and practice
 
+## Motivation
+
+People trying to break into the space industry as security engineers, satellite engineers, IT, and related roles keep asking where to start. This repo collects the resources that have helped with that path.
+
+## Contributing
+
+Help by opening issues or pull requests: add companies, fill in incomplete rows, or contribute amplifying information. You can also reach out on X ([@HooveSec](https://x.com/HooveSec)).
