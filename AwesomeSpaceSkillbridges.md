@@ -1,6 +1,6 @@
 # SkillBridge (U.S. military transition)
 
-Space-related [DoD SkillBridge](https://skillbridge.osd.mil/) partners. Authorization and openings change — confirm the company is still an authorized partner and that a live posting exists before applying.
+Space-related [DoD SkillBridge](https://www.skillbridge.mil/) partners. Authorization and openings change — confirm the company is still an authorized partner and that a live posting exists before applying.
 
 | Company | Location | Job Types | Link / Email |
 | --- | --- | --- | --- |

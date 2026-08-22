@@ -59,7 +59,7 @@ Directories that go deeper than this page: [Orbital Index Awesome Space](https:/
 | SPARTA | Aerospace Corporation framework for space-attack TTPs (companion papers are in [Awesome Space Media](AwesomeSpaceMedia.md)) | [sparta.aerospace.org](https://sparta.aerospace.org/) |
 | Hack-A-Sat | U.S. Air Force / Space Force satellite-hacking CTF (archives and writeups) | [hackasat.com](https://www.hackasat.com/) |
 | Aerospace Village | Community and DEF CON village focused on aviation and space security | [aerospacevillage.org](https://www.aerospacevillage.org/) |
-| Space Odyssey research | IEEE S&P 2023 experimental satellite firmware analysis (open artifacts) | [CISPA QEMU/AVR32](https://github.com/CISPA-SysSec/SpaceOdyssey-QEMU-AVR32) |
+| Space Odyssey research | IEEE S&P 2023 experimental satellite firmware analysis (paper + open emulator artifacts) | [Paper](https://jwillbold.com/paper/willbold2023spaceodyssey.pdf) · [QEMU/AVR32](https://github.com/CISPA-SysSec/SpaceOdyssey-QEMU-AVR32) |
 
 ## How to use this list
 
