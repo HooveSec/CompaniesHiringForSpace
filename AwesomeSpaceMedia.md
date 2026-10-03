@@ -14,13 +14,13 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | Blue Origin News | Official news and updates from Blue Origin. | [Link](https://www.blueorigin.com/news) |
 | Breaking Defense — Space | Defense-industry news outlet's dedicated space coverage (military space programs, procurement). | [Link](https://breakingdefense.com/category/space/) |
 | European Spaceflight | Independent blog tracking European rocket companies, launch sites, and the European space industry ecosystem. | [Link](https://europeanspaceflight.com/) |
-| International Astronomical Union | News related to the international space community and astronomy. | [Link](https://www.iau.org/news/) |
+| International Astronomical Union | News related to the international space community and astronomy. | [Link](https://www.iau.org/) |
 | International Space University | News and updates from the space education and research community. | [Link](https://www.isunet.edu/) |
 | Lunar and Planetary Institute | Updates on planetary science research and space exploration. | [Link](https://www.lpi.usra.edu/) |
-| Mars Society Blog | Mars exploration news and updates from the Mars Society. | [Link](https://www.marssociety.org/blog/) |
+| Mars Society News | Mars exploration news and updates from the Mars Society. | [Link](https://www.marssociety.org/news/) |
 | NASA Earth Observatory | Environmental and Earth science news from NASA. | [Link](https://earthobservatory.nasa.gov/) |
 | NASA JPL Blog | Research updates and news from NASA's Jet Propulsion Laboratory. | [Link](https://www.jpl.nasa.gov/blog) |
-| NASA Commercial Crew Program | Updates on NASA's crewed spaceflight missions. | [Link](https://www.nasa.gov/mission_pages/commercialcrew/index.html) |
+| NASA Commercial Crew Program | Updates on NASA's crewed spaceflight missions. | [Link](https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/) |
 | NASA Goddard Space Flight Center | Mission updates and research from NASA's Goddard Space Flight Center. | [Link](https://www.nasa.gov/centers/goddard/home/index.html) |
 | NASA Official Blog | Written by NASA's communications team. | [Link](https://blogs.nasa.gov/) |
 | NASASpaceflight.com | Long-running independent spaceflight news/forum site (est. 2005) covering crewed/uncrewed missions and aerospace engineering. | [Link](https://www.nasaspaceflight.com/) |
@@ -55,7 +55,7 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | The Verge — Space | General space news and analysis from tech and science experts. | [Link](https://www.theverge.com/space) |
 | TLP Network | Space technology and news with a focus on satellite and space exploration. | [Link](https://www.tlpnetwork.com/) |
 | Via Satellite (Satellite Today) | 30+ year commercial satellite industry publication covering infrastructure, technology, and regulatory developments. | [Link](https://www.satellitetoday.com/) |
-| Wired — Space | Space science and technology news. | [Link](https://www.wired.com/category/space/) |
+| Wired — Space | Space science and technology news. | [Link](https://www.wired.com/tag/space/) |
 
 ## Articles and papers
 
@@ -77,7 +77,7 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | FCC Jammer Enforcement | FCC enforcement of jamming policies relevant to the space sector. | [Link](https://www.fcc.gov/general/jammer-enforcement) |
 | Fuzzing Space Communication Protocols | ESA, IMDEA Software Institute, and Universidad Politécnica de Madrid paper on fuzzing space comms protocols. | [Link](https://www.ndss-symposium.org/wp-content/uploads/spacesec25-final12.pdf) |
 | GAO-25-108138: Cybersecurity — NASA Needs to Fully Implement Risk Management | GAO audit of NASA's cyber risk management for major projects, with 16 recommendations. | [Link](https://www.gao.gov/products/gao-25-108138) |
-| GPS ICD-240: GPS Interface Control Document | Official GPS.gov documentation of GPS system interface controls. | [Link](https://www.gps.gov/technical/icwg/) |
+| GPS interface control / technical references | Official GPS interface control documentation and related technical references. | [Link](https://www.navcen.uscg.gov/gps-technical-references) |
 | IETF RFC 2488: Enhancing TCP Over Satellite Channels | TCP optimization for satellite communications. | [Link](https://datatracker.ietf.org/doc/html/rfc2488) |
 | IETF RFC 2760: Ongoing TCP Research Related to Satellites | Ongoing research related to TCP protocols over satellite networks. | [Link](https://datatracker.ietf.org/doc/html/rfc2760) |
 | NASA: Space Security Best Practices Guide | NASA guide to best practices for space security and protection. | [Link](https://swehb.nasa.gov/display/SWEHBVD/7.22+-+Space+Security%3A+Best+Practices+Guide) |
@@ -119,6 +119,6 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | --- | --- | --- |
 | HackSpaceCon videos | Recorded talks from HackSpaceCon | [Link](https://buildcyber.ai/) |
 | Security for Space Systems (3S) 2024 | ESA/conference programme for the 2024 3S summit | [Link](https://atpi.eventsair.com/24a06---3s2024/final-programme) |
-| SpaceSec 2023 | Workshop on the Security of Space and Satellite Systems | [Link](https://easychair.org/smart-program/SpaceSec23/) |
+| SpaceSec 2023 | Workshop on the Security of Space and Satellite Systems (NDSS 2023) | [Link](https://www.ndss-symposium.org/ndss-2023/) |
 | NDSS 2024 SpaceSec Workshop | Recorded SpaceSec workshop talks | [Link](https://www.youtube.com/watch?v=k3dpMj-6UpQ) |
 | NDSS 2025 SpaceSec Workshop | Full playlist, including NASA / armasuisse / USC ISI / DARPA panel | [Link](https://www.youtube.com/playlist?list=PLfUWWM-POgQvjKxjX9acTbOtMcDUiPCq8) |
