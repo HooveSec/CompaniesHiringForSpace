@@ -23,20 +23,20 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Airbus U.S. Space & Defense | U.S. defense and space systems contractor | USA | [Careers](https://airbusspaceanddefense.applicantpro.com/jobs/) |
 | Alen Space | Nanosatellite manufacturer designing, building, and operating small satellites and constellations | Vigo, Spain | [Careers](https://alen-space.jobs.personio.com/) |
 | ALL.SPACE | Multi-link communications | United States, United Kingdom | [Careers](https://www.all.space/careers) |
-| Altius Space Machines | Satellite servicing/robotics (rendezvous & capture, docking mechanisms); part of Voyager Space | Broomfield, CO | [Careers](https://altius-space.com/careers/) |
-| Amphinicy | Software Engineering for satellite industry | Luxembourg | [Careers](https://www.amphinicy.com/jobs) |
+| Altius Space Machines | Satellite servicing/robotics (rendezvous & capture, docking mechanisms); part of Voyager Technologies | Broomfield, CO | [Careers](https://voyagertechnologies.com/company/join-us/) |
+| Amphinicy | Software Engineering for satellite industry | Luxembourg | [Careers](https://www.amphinicy.com/careers) |
 | Anduril Industries | Defense technology including autonomous systems, space sensing, and space-based interceptors | Costa Mesa, CA; Atlanta, GA; other USA sites | [Careers](https://www.anduril.com/careers) |
 | Apex | Productized satellite bus platforms for rapid constellation deployment | Los Angeles, CA | [Careers](https://www.apexspace.com/careers) |
 | Arcsec | Precision aerospace solutions (star trackers and attitude determination) | Belgium | [Careers](https://www.arcsec.space/careers/) |
 | Arctos | Research & Development | USA | [Careers](https://arctos-us.com/careers/) |
-| Arianespace | Satellite Launch Company | USA, French Guiana, France, Singapore, Japan | [Careers](https://www.arianespace.com/join-our-team/) |
+| Arianespace | Satellite Launch Company | USA, French Guiana, France, Singapore, Japan | [Careers](https://www.arianespace.com/careers/) |
 | Arka | Defense Contractor | USA, UK | [Careers](https://arka.org/careers/) |
 | AST SpaceMobile | Space-Based 5G Cellular Broadband | USA | [Careers](https://ast-science.com/company/careers/) |
 | Astra | Launch Services (600KG to LEO) | California, USA | [Careers](https://astra.com/careers/) |
 | Astranis | Dedicated Communications Satellites | San Francisco, California | [Careers](https://job-boards.greenhouse.io/astranis) |
 | Astrobotic | Lunar logistics - landers and rovers for NASA CLPS and commercial lunar delivery | Pittsburgh, PA; Mojave, CA | [Careers](https://www.astrobotic.com/company/careers/) |
 | AstroForge | Asteroid mining | Seal Beach, California | [Careers](https://www.astroforge.io/careers) |
-| Astroscale | Space On-Orbit Servicing (debris removal) | USA, Japan, United Kingdom, France, Israel | [Careers](https://astroscale.com/careers/vacancies/) |
+| Astroscale | Space On-Orbit Servicing (debris removal) | USA, Japan, United Kingdom, France, Israel | [Careers](https://www.astroscale.com/en/careers) |
 | Atlas Space Operations | Ground-Software-as-a-Service; federated global antenna network for satellite communications | Traverse City, MI | [Careers](https://atlasspace.com/careers/) |
 | Audacy | Space communications network providing continuous satellite/launch-vehicle connectivity | Mountain View, CA | [Careers](http://audacy.space/pages/about/careers) |
 | Axiom Space | Commercial Space Station | Texas, USA | [Careers](https://www.axiomspace.com/careers) |
@@ -48,7 +48,6 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Blue Origin | Space Tourism, Space Exploration | USA | [Careers](https://www.blueorigin.com/careers/search) |
 | bluShift Aerospace | Employee-owned rocket company developing bio-derived hybrid propulsion for smallsat launch | Brunswick, ME | [Careers](https://www.blushiftaerospace.com/careers) |
 | Boeing | Defense Contractor | Global Locations | [Careers](https://jobs.boeing.com/) |
-| BridgeComm (formerly BridgeSat) | Optical wireless communications (laser satcom) | Denver, CO | [Careers](https://bridgecomminc.com/careers/) |
 | Bryce Tech | Space/defense/biosecurity analytics and consulting | Alexandria, VA | [Careers](https://brycetech.com/careers) |
 | Capella Space | SAR Imagery Products | USA, Europe | [Careers](https://www.capellaspace.com/about-us/careers/) |
 | Cemvita Factory | Decarbonization biotech, incl. Mars ISRU-relevant biomining research | Houston, TX | [Careers](https://cemvita.com/careers) |
@@ -78,8 +77,8 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Gilmour Space | All Orbits, All Planets (Starting with LEO) | Australia | [Careers](https://www.gspace.com/career) |
 | Gravitics | Commercial space-station modules, cargo logistics, and orbital carriers | Seattle, WA | [Careers](https://www.gravitics.com/careers) |
 | HawkEye 360 | RF-signals intelligence — satellite-based geolocation for defense, maritime, and spectrum monitoring | Herndon, VA | [Careers](https://job-boards.greenhouse.io/hawkeye360) |
-| Helios | Space technology company with the bold mission to extract oxygen from the moon | Israel | [Careers](https://project-helios.space/job-openings/) |
-| HEO Robotics | Commercial in-orbit satellite-inspection (non-Earth imaging) | Sydney, Australia; London, UK | [Careers](https://heo-robotics.breezy.hr/) |
+| Helios | Space technology company with the bold mission to extract oxygen from the moon | Israel | [Careers](https://project-helios.space/) |
+| HEO Robotics | Commercial in-orbit satellite-inspection (non-Earth imaging) | Sydney, Australia; London, UK | [Careers](https://www.heospace.com/resources/careers) |
 | Honeybee Robotics (A Blue Origin Company) | Designs and builds robotics to explore and utilize space | California, Colorado | [Careers](https://jobs.lever.co/honeybeerobotics) |
 | Hydrosat | Irrigation and crop management solutions | USA, EU | [Careers](https://apply.workable.com/hydrosat/#jobs) |
 | HyImpulse | Hybrid-propellant sounding rockets and small-satellite launch (SL1) | Neuenstadt am Kocher, Germany | [Careers](https://www.hyimpulse.de/career) |
@@ -88,12 +87,12 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | In-Space Missions | Design, build and operate full satellite missions and deliver space-enabled complex solutions for global customers for use on Earth, near space and deep space | United Kingdom | [Careers](https://apply.workable.com/in-space/) |
 | Interorbital Systems (IOS) | Rocket, satellite, and spacecraft manufacturing and launch services | Mojave, CA | [Careers](https://www.interorbital.com/Careers.php) |
 | Interstellar Lab | Biofarming/ supply plant-based ingredients at scale on Earth and in Space | USA, France | [Careers](https://boards.greenhouse.io/interstellarlab) |
-| Interstellar Tech | Building the rocket of choice around the world | Japan | [Careers](https://www.istellartech.com/career/) |
-| Intuitive Machines | Lunar landers and NASA CLPS lunar delivery services | Houston, TX | [Careers](https://www.intuitivemachines.com/discover/careers) |
+| Interstellar Tech | Building the rocket of choice around the world | Japan | [Careers](https://www.istellartech.com/careers) |
+| Intuitive Machines | Lunar landers and NASA CLPS lunar delivery services | Houston, TX | [Careers](https://careers.intuitive.com/) |
 | Inversion Space | Reusable orbital reentry vehicles for rapid cargo return | Los Angeles, CA | [Careers](https://job-boards.greenhouse.io/inversionspace) |
 | Iridium | Global L-band satellite communications constellation | McLean, VA; Tempe, AZ; other USA sites | [Careers](https://careers-iridium.icims.com/jobs/intro) |
 | Isar Aerospace | Two-stage liquid fueled rocket to deliver 1000kg to LEO | Germany | [Careers](https://www.isaraerospace.com/career) |
-| ispace inc. | Lunar transportation and landers | Tokyo, Japan | [Careers](https://ispace-inc.com/careers-en) |
+| ispace inc. | Lunar transportation and landers | Tokyo, Japan | [Careers](https://jobs.lever.co/ispace-inc) |
 | JPL | NASA's Jet Propulsion Laboratory | Pasadena, California | [Careers](https://www.jpl.jobs/) |
 | K2 Space | High-power satellite buses for mega-class payloads | Los Angeles, CA | [Careers](https://www.k2space.com/careers) |
 | Katalyst Space Technologies | In-space servicing and satellite life-extension (acquired Atomos Space in 2025) | Flagstaff, AZ | [Careers](https://www.katalystspace.com/careers) |
@@ -124,11 +123,11 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Northrop Grumman | Defense Contractor | USA, UK, Australia | [Careers](https://www.northropgrumman.com/space) |
 | NorthStar | Space Domain Awareness/Geospatial Intelligence | Canada, Luxembourg, Remote | [Careers](https://northstar-data.com/careers/) |
 | ODYSSEUS Space | Laser Communications | Luxembourg | [Careers](https://www.odysseus.space/careers) |
-| OKAPI Orbits | SaaS solution for satellite collision avoidance software | Germany; Remote | [Careers](https://www.okapiorbits.space/career) |
+| OKAPI Orbits | SaaS solution for satellite collision avoidance software | Germany; Remote | [Careers](https://www.okapiorbits.space/en/careers) |
 | Omitron | Multi-disciplinary expertise in spaceflight safety, satellite ground systems and engineering services for civil, defense and national space programs | California, Florida, Virginia, Colorado | [Careers](https://www.omitron.com/careers/) |
+| Omnidea | Space propulsion systems and components; acquired Orbex UK launch assets in September 2026 | Portugal; Germany; Spain; UK; Romania | [Careers](https://omnidea.net/careers/) |
 | OneWeb | European Satellite Operator | France, UK, USA, Italy, Australia | [Careers](https://careers.eutelsat.com/search/) |
 | Open Cosmos | End to end space mission service | Portugal, Spain, UK, Greece | [Careers](https://www.open-cosmos.com/careers) |
-| Orbex | Low carbon, high performance micro-launch vehicles for smallsats | Denmark, United Kingdom | [Careers](https://orbex.space/work-with-us/current-vacancies) |
 | Orbion | Small satellite electric propulsion technology and space systems | USA | [Careers](https://orbionspace.com/careers/) |
 | Orbit Fab | In-space spacecraft refueling services | Colorado | [Careers](https://www.orbitfab.com/careers/) |
 | Orbital Sidekick | Spectral Intelligence | USA, Remote | [Careers](https://www.orbitalsidekick.com/careers) |
@@ -137,14 +136,13 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | PD Aerospace | Space Tourism | Japan | [Careers](https://pdas.co.jp/en/recruit/) |
 | Perigee Space | Orbital and sub-orbital launch vehicles | South Korea | [Careers](https://perigee.space/career/) |
 | Phantom Space | Satellite Build and Launch | Tucson, AZ | [Careers](https://phantomspace.bamboohr.com/careers/21?source=aWQ9MjI%3D) |
-| Phase Four | Electric (RF plasma) propulsion systems for satellites | Hawthorne, CA | [Careers](https://phasefour.io/careers/) |
+| Phase Four | Electric (RF plasma) propulsion systems for satellites | Hawthorne, CA | [Careers](https://phasefour.com/) |
 | Pixxel | Hyperspectral imaging satellites | India | [Careers](https://www.pixxel.space/careers) |
 | Planet Labs | Satellite Imagery | UK, Austria, Netherlands, Germany, Remote, USA | [Careers](https://www.planet.com/company/careers/) |
-| Planetary Transportation Systems (formerly PT Scientists) | Lunar-lander/exploration company | Berlin, Germany | [Careers](https://www.pts.space/careers/) |
 | PLD Space | Reusable rocket launch company (Miura vehicles) | Elche, Spain | [Careers](https://www.pldspace.com/en/pld-space-careers/) |
 | Ramon.Space | On-board computing systems | United Kingdom | [Careers](https://ramon.space/careers/#anchor-open-positions) |
 | Red Canyon Engineering and Software | Software Development for Space | Colorado, California | [Careers](https://redcanyonsoftware.com/current-jobs/) |
-| Redwire Space | Space Mission Support | Jacksonville, FL; additional US facilities; Europe, Asia | [Careers](https://careers.redwirespace.com/) |
+| Redwire Space | Space Mission Support | Jacksonville, FL; additional US facilities; Europe, Asia | [Careers](https://careers.rdw.com/) |
 | Relativity Space | 3D-printed reusable rockets (Terran R) for satellite launch | Long Beach, CA | [Careers](https://www.relativityspace.com/careers) |
 | Rocket Factory Augsburg | Fair and cheap access to space - Launch | Germany, Portugal | [Careers](https://www.rfa.space/career/) |
 | Rocket Lab | Launch vehicles, spacecraft, and space systems | USA; New Zealand; Australia | [Careers](https://www.rocketlabusa.com/careers/) |
@@ -166,7 +164,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Spacept | AI analysis of satellite imagery for infrastructure protection | Stockholm, Sweden | [Careers](https://spacept.com/careers/) |
 | SpaceWorks Enterprises | Space and flight solutions | Atlanta | [Careers](https://www.spaceworks.aero/careers/#open-positions) |
 | SpaceX | Get to Mars, funded by launch and satellite internet | USA; some global | [Careers](https://www.spacex.com/careers) |
-| SpinLaunch | Develops kinetic launch systems for space access | Long Beach, CA; Albuquerque, NM | [Careers](https://spinlaunch.com/careers) |
+| SpinLaunch | Kinetic launch systems and Meridian broadband satellite constellation | Long Beach, CA; Albuquerque, NM | [Careers](https://jobs.ashbyhq.com/spinlaunch) |
 | Spire Global | Satellite data and analytics for weather, maritime, and aviation | San Francisco, CA; Boulder, CO; Glasgow, UK; Singapore | [Careers](https://spire.com/careers) |
 | Stellar Amenities | A Modern OS for Space Station Operators/AI | Remote USA; Los Angeles, CA | [Careers](https://stellaramenities.space/join-us) |
 | Stoke Space | Fully reusable medium-lift launch vehicles (Nova) | Kent, WA; Moses Lake, WA | [Careers](https://www.stokespace.com/careers/) |
@@ -189,15 +187,17 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Vaya Space | Develops small satellite launch vehicles | Miami, FL | [Careers](https://www.vayaspace.com/careers) |
 | Venus Aerospace | Develops hypersonic aircraft for space access | Los Angeles, CA | [Careers](https://www.venusaerospace.com/careers) |
 | Viasat | Satellite communications, government SATCOM, and in-flight connectivity | Carlsbad, CA; other USA and global sites | [Careers](https://careers.viasat.com/) |
-| Virgin Galactic | Develops commercial spaceflight services | Mojave, CA; Las Cruces, NM | [Careers](https://www.virgingalactic.com/careers) |
-| Voyager Space | Provides space exploration and infrastructure services | Denver, CO | [Careers](https://www.voyagerspace.com/careers) |
-| World View | Exploration of the Stratosphere, Space Tourism | Arizona, USA | [Careers](https://jobs.lever.co/world-view-enterprises-inc) |
-| Xplore | Provides space mission services and data analytics | Seattle, WA | [Careers](https://xplore.com/careers) |
+| Virgin Galactic | Develops commercial spaceflight services | Mojave, CA; Las Cruces, NM | [Careers](https://careers.virgingalactic.com/) |
+| Voyager Technologies | Space exploration and infrastructure (includes Altius Space Machines) | Denver, CO | [Careers](https://voyagertechnologies.com/company/join-us/) |
+| World View | Exploration of the Stratosphere, Space Tourism | Arizona, USA | [Careers](https://www.worldview.space/careers) |
+| Xplore | Provides space mission services and data analytics | Seattle, WA | [Careers](https://www.xplore.com/) |
 | York Space Systems | Complete solutions for mission design, spacecraft, launch, ground, and operations | USA | [Careers](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b) |
 
 ## Companies to vet
 
 - Astralytical (boutique space-industry consulting firm; no employee careers page found — solo/small-team advisory practice)
+- BridgeComm / BridgeSat (optical wireless / laser satcom; careers domain no longer resolves as of Oct 2026)
+- Planetary Transportation Systems / PT Scientists (lunar-lander company, Berlin; pts.space domain no longer resolves as of Oct 2026)
 - Exodus Space Corp (reusable spaceplane concept; no activity/careers page found since ~2019-2020, original domain now resolves to an unrelated business)
 - EXOS Aerospace (active reusable-suborbital launch operator; no dedicated careers page found, one aggregator listed no current openings)
 - HOSTmi (space payload/hosting marketplace, Germany; no careers page found)
@@ -238,6 +238,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 - Magma Space (Unable to get much information on company, no job postings found)
 - Moon Express (Dormant as of 2025, no active operations)
 - Newrocket (not a space company)
+- Orbex (Entered administration Feb 2026; UK assets/IP acquired by Omnidea 30 Sep 2026 — see Omnidea in main list)
 - OrbitsEdge (Not developed enough)
 - Planetary Resources (Acquired by ConsenSys in 2018; asteroid-mining operations wound down — stale internships entry)
 - Reaction Engines (Entered administration Oct 2024, ~172 staff laid off)

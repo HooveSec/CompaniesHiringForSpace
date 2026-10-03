@@ -40,8 +40,8 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Northrop Grumman Space | USA, Europe, Australia | Various positions | [Internships](https://www.northropgrumman.com/jobs?_job_experience=entry-level&job_level=intern) |
 | OneWeb (Eutelsat Group) | UK, USA, international | Engineering, business, software development, finance, HR | [Careers](https://careers.eutelsat.com/search/) |
 | Planet Labs | USA, international | Engineering, business, software development, finance, HR | [Careers](https://www.planet.com/careers/) |
-| Redwire Space | Jacksonville, FL; Goleta, CA; other US sites | Engineering (RF systems, mechanical) — R.I.S.E. internship program | [Internships](https://careers.redwirespace.com/internships) |
-| Relativity Space | California | Launch-related positions | [Internships](https://www.relativityspace.com/internships) |
+| Redwire Space | Jacksonville, FL; Goleta, CA; other US sites | Engineering (RF systems, mechanical) — R.I.S.E. internship program | [Internships](https://careers.rdw.com/internships) |
+| Relativity Space | California | Launch-related positions | [Careers](https://www.relativityspace.com/careers) |
 | Rocket Lab | USA, New Zealand, Australia | Engineering, manufacturing, software development, operations | [Internships](https://www.rocketlabusa.com/careers/internships/) |
 | Satellogic | EU | Earth observation satellites | [Internships](https://satellogic.bamboohr.com/careers/220) |
 | Sierra Nevada Corporation (SNC) | Sparks, NV; Centennial, CO; Herndon, VA; Plano, TX; Hagerstown, MD | Engineering, cybersecurity, IT, finance | [Student Careers](https://www.sncorp.com/careers/students/) |
