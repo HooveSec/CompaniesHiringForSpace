@@ -25,6 +25,7 @@ Directories that go deeper than this page: [Orbital Index Awesome Space](https:/
 | Name | What it is | Link |
 | --- | --- | --- |
 | NASA core Flight System (cFS) | Modular spacecraft flight-software framework used on many NASA missions (Apache 2.0) | [github.com/nasa/cFS](https://github.com/nasa/cFS) |
+| NASA NOS3 | Operational simulator / digital twin for running cFS and other flight software on the ground | [github.com/nasa/nos3](https://github.com/nasa/nos3) |
 | NASA F´ (F Prime) | Component-based flight software and embedded systems framework from JPL | [github.com/nasa/fprime](https://github.com/nasa/fprime) |
 | Cubesat Space Protocol (libcsp) | Small C-language network stack commonly used on CubeSats | [github.com/libcsp/libcsp](https://github.com/libcsp/libcsp) |
 | LibreCube | Open CubeSat hardware/software architecture | [librecube.org](https://librecube.org/) |
@@ -47,6 +48,7 @@ Directories that go deeper than this page: [Orbital Index Awesome Space](https:/
 | Name | What it is | Link |
 | --- | --- | --- |
 | NASA Open MCT | Web-based mission-control framework | [github.com/nasa/openmct](https://github.com/nasa/openmct) |
+| OpenC3 COSMOS | Open command-and-control / mission-operations stack (SpaceCOP CE ships COSMOS alert definitions) | [github.com/OpenC3/cosmos](https://github.com/OpenC3/cosmos) |
 | Gpredict | Real-time satellite tracking and orbit prediction | [github.com/csete/gpredict](https://github.com/csete/gpredict) |
 | CesiumJS | 3D globe/map engine often used for satellite visualization | [cesium.com/platform/cesiumjs](https://cesium.com/platform/cesiumjs/) |
 | SatNOGS Client | Client software for participating in the SatNOGS ground-station network | [gitlab.com/librespacefoundation/satnogs](https://gitlab.com/librespacefoundation/satnogs) |
@@ -56,8 +58,13 @@ Directories that go deeper than this page: [Orbital Index Awesome Space](https:/
 
 | Name | What it is | Link |
 | --- | --- | --- |
-| SPARTA | Aerospace Corporation framework for space-attack TTPs (companion papers are in [Awesome Space Media](AwesomeSpaceMedia.md)) | [sparta.aerospace.org](https://sparta.aerospace.org/) |
-| Hack-A-Sat | U.S. Air Force / Space Force satellite-hacking CTF (archives and writeups) | [hackasat.com](https://www.hackasat.com/) |
+| SPARTA (v4.0) | Aerospace Corporation space-attack TTP matrix; 4.0 adds ground-segment defenses, revises all 90 countermeasures, and clarifies onboard Impact (companion papers are in [Awesome Space Media](AwesomeSpaceMedia.md)) | [sparta.aerospace.org](https://sparta.aerospace.org/) · [v4.0 notes](https://sparta.aerospace.org/resources/updates/v4.0) |
+| SpaceCOP Community Edition | Onboard cFS intrusion-detection app from Aerospace Corp / DHS S&T (DEF CON 34). Maps SPARTA indicators of behavior to command, file, syscall, and resource monitors; alerts via OpenC3/COSMOS | [github.com/the-aerospace-corporation/spacecop-ce](https://github.com/the-aerospace-corporation/spacecop-ce) |
+| SpaceTrail | Browser game from Aerospace Corp: keep a spacecraft alive through anomalies (Oregon Trail-style ops/cyber practice) | [sparta.aerospace.org/spacetrail](https://sparta.aerospace.org/spacetrail/) |
+| Hack-A-Sat | U.S. Air Force / Space Force satellite-hacking CTF archives, official challenge repos, and team papers | [hackasat.com](https://www.hackasat.com/) · [Learn](https://hackasat.com/learn/) |
+| Hack-A-Sat resource library | Archived DoD collection of satellite-security tutorials, tools, and 2020 writeups | [github.com/deptofdefense/hack-a-sat-library](https://github.com/deptofdefense/hack-a-sat-library) |
+| Hack-A-Sat 4 finals (2023) | Challenge source, solvers, game data, and team writeups from the Moonlighter on-orbit finals | [github.com/cromulencellc/hackasat-finals-2023](https://github.com/cromulencellc/hackasat-finals-2023) |
+| STARPWN | Aerospace Village space-hacking CTF (DEF CON 34). Jeopardy-style challenges across flight software, CCSDS/RF, ground systems, and orbital mechanics | [aerospacevillage.org](https://www.aerospacevillage.org/general-9) · [Writeups](https://github.com/Abdelkad3r/STARPWN-CTF-2026) |
 | Aerospace Village | Community and DEF CON village focused on aviation and space security | [aerospacevillage.org](https://www.aerospacevillage.org/) |
 | Space Odyssey research | IEEE S&P 2023 experimental satellite firmware analysis (paper + open emulator artifacts) | [Paper](https://jwillbold.com/paper/willbold2023spaceodyssey.pdf) · [QEMU/AVR32](https://github.com/CISPA-SysSec/SpaceOdyssey-QEMU-AVR32) |
 
@@ -66,7 +73,7 @@ Directories that go deeper than this page: [Orbital Index Awesome Space](https:/
 If you are trying to get hired, pick one stack and ship something public:
 
 1. Pull TLEs from CelesTrak or Space-Track and propagate them with Skyfield, Orekit, or GMAT.
-2. Command a simulated spacecraft with cFS or F´ on a Raspberry Pi or in CI.
-3. Decode a SatNOGS observation, or replay a Hack-A-Sat / SPARTA scenario and write up what you learned.
+2. Command a simulated spacecraft with cFS or F´ on a Raspberry Pi or in CI — NOS3 is the usual digital-twin path.
+3. Decode a SatNOGS observation, replay a Hack-A-Sat / STARPWN challenge, or run SpaceCOP CE against SPARTA indicators of behavior and write up what you learned.
 
 That kind of artifact is more useful in a space-security or flight-software interview than another generic resume bullet.
