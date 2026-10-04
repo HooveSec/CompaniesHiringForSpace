@@ -71,6 +71,7 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | CSIS: The Satellite Encryption Gap — Why Everyday Citizens' Communications Are at Risk | Center for Strategic and International Studies policy analysis on satellite comms encryption gaps. | [Link](https://www.csis.org/analysis/satellite-encryption-gap-why-everyday-citizens-communications-are-risk) |
 | Cyberscoop: Can these researchers help defend satellite systems targeted by hackers? | CyberScoop article on the SPARTA framework and space cybersecurity defense. | [Link](https://cyberscoop.com/space-satellite-cybersecurity-sparta/) |
 | DEF CON 31: Building Space Attack Chains using SPARTA | Paper from the SPARTA framework team discussing space attack chains at DEF CON 31. | [Link](https://sparta.aerospace.org/resources/OTR-2023-00989_SPARTA_DefCon2023.pdf) |
+| DEF CON 34: SpaceCOP — Houston, We Have an Intrusion | Bailey and Tinney (Aerospace Corp CAPS) on SpaceCOP, an onboard cFS IDS using SPARTA indicators of behavior. Released as community edition at DEF CON 34 (OTR-2026-00836). | [Link](https://sparta.aerospace.org/resources/DEFCON_34_OTR-2026-00836-Houston_We_Have_Intrusion.pdf) |
 | DIA: Challenges to Security in Space | Defense Intelligence Agency report on space security challenges. | [Link](https://www.dia.mil/Portals/110/Documents/News/Military_Power_Publications/Challenges_Security_Space_2022.pdf) |
 | ENISA Space Threat Landscape 2025 | EU cybersecurity agency's assessment of threats across the commercial satellite lifecycle, mapping 281 controls from 13 frameworks. | [Link](https://www.enisa.europa.eu/publications/enisa-space-threat-landscape-2025) |
 | Establishing Space Cybersecurity Policy, Standards, and Risk Management Practices | Aerospace Corporation paper on establishing space cybersecurity standards. | [Link](https://aerospace.org/paper/establishing-space-cybersecurity-policy-standards-and-risk-management-practices) |
@@ -90,6 +91,8 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | NSA/CISA: Securing Space — Cybersecurity for Low Earth Orbit Satellite Communications | Joint NSA/CISA guidance (March 2026) on LEO SATCOM cybersecurity. | [Link](https://media.defense.gov/2026/Mar/24/2003902673/-1/-1/0/SECURING%20SPACE%20CYBER%20SECURITY%20FOR%20LOW%20EARTH%20ORBIT%20SATELLITE%20COMMUNICATIONS.PDF) |
 | Satellite Cybersecurity Act of 2025 (S.3404, 119th Congress) | Proposed U.S. legislation on federal support for commercial satellite cybersecurity. | [Link](https://www.congress.gov/bill/119th-congress/senate-bill/3404/text) |
 | Space Attack Research & Tactic Analysis (SPARTA) Framework | Aerospace Corporation framework for space attack research and tactics analysis. | [Link](https://sparta.aerospace.org/) |
+| SPARTA v4.0 release notes | August 2026 update: ground-segment Defense-in-Depth guidance, revised 90 countermeasures, and a redesigned Impact tactic. | [Link](https://sparta.aerospace.org/resources/updates/v4.0) |
+| SPARTA: Ground Segment Cyber Defenses | v4.0 companion: six ground function areas, eight Defense-in-Depth layers, and Baseline vs Enhanced tiers (VTR-2026-00702). | [Link](https://sparta.aerospace.org/countermeasures/ground-segment-cyber-defenses) |
 | Space Odyssey: An Experimental Software Security Analysis of Satellites | IEEE S&P 2023 Distinguished Paper analyzing real satellite firmware, with a threat taxonomy and developer survey (CISPA / Ruhr University Bochum). | [Link](https://jwillbold.com/paper/willbold2023spaceodyssey.pdf) |
 | SPARTA Countermeasures: A Look into the SPARTA Matrix | Overview of countermeasures within the SPARTA framework. | [Link](https://medium.com/the-aerospace-corporation/a-look-into-sparta-countermeasures-358e2fcd43ed) |
 | SPARTA Matrix: Leveraging SPARTA for Space Missions | Guide on using the SPARTA Matrix for cybersecurity in space missions. | [Link](https://aerospace.org/article/leveraging-sparta-matrix) |
@@ -110,6 +113,7 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | Catching Up with Andrzej Olchawa & Milenko Starcik, VisionSpace | Follow-up on the Black Hat 2025 cFS research | [Link](https://www.youtube.com/watch?v=JGOHNLHT9w8) |
 | DEF CON 30 — Hack-A-Sat 3 | Air Force / Space Force satellite-hacking CTF finals | [Link](https://www.youtube.com/watch?v=NYq1mGi8d4U) |
 | DEF CON 31 — Hack-A-Sat Interview | Hack-A-Sat 4 / Moonlighter, first CTF to hack a satellite in orbit | [Link](https://www.youtube.com/watch?v=q2trWkuVSGw) |
+| DEF CON 34 — SpaceCOP: Houston, We Have an Intrusion | Brandon Bailey / Randi Tinney talk on onboard spacecraft intrusion detection | [Link](https://www.youtube.com/watch?v=UL_c4K5dTuc) |
 | The US Space Force — America's Invisible Front Line | Documentary on the U.S. Space Force | [Link](https://www.youtube.com/watch?v=Qn938Gm6axQ) |
 | NASASpaceflight | Independent spaceflight news YouTube channel | [Link](https://www.youtube.com/channel/UCSUu1lih2RifWkKtDOJdsBA) |
 
@@ -118,6 +122,7 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | Name | About | Link |
 | --- | --- | --- |
 | HackSpaceCon videos | Recorded talks from HackSpaceCon | [Link](https://buildcyber.ai/) |
+| STARPWN CTF 2026 | Aerospace Village space-hacking CTF at DEF CON 34 (challenge writeup repo) | [Link](https://github.com/Abdelkad3r/STARPWN-CTF-2026) |
 | Security for Space Systems (3S) 2024 | ESA/conference programme for the 2024 3S summit | [Link](https://atpi.eventsair.com/24a06---3s2024/final-programme) |
 | SpaceSec 2023 | Workshop on the Security of Space and Satellite Systems (NDSS 2023) | [Link](https://www.ndss-symposium.org/ndss-2023/) |
 | NDSS 2024 SpaceSec Workshop | Recorded SpaceSec workshop talks | [Link](https://www.youtube.com/watch?v=k3dpMj-6UpQ) |
