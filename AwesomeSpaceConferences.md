@@ -10,7 +10,7 @@
 | CubeSat Developers Workshop | San Luis Obispo, CA | April | Cal Poly CubeSat Laboratory's annual workshop uniting industry, researchers, and students on small-satellite technology | [Link](https://www.cubesatdw.org/) |
 | CyberSat | Reston, VA | November | Unclassified and classified space cybersecurity conference | [Link](https://www.cybersatsummit.com/program/) |
 | CySAT USA | Colorado Springs, CO | April | Raising awareness about cybersecurity for space assets and data | [Link](https://cysat.eu/cysat-usa/) |
-| Defense and Intelligence Space Conference | Reston, VA | February | Unclassified and classified defense and intelligence space conference | [Link](https://nssaspace.org/event/disc25/) |
+| Defense and Intelligence Space Conference | Reston, VA (NGA Springfield classified day) | February | Unclassified and classified defense and intelligence space conference (DISC 2026: 9–11 Feb) | [Link](https://nssaspace.org/event/disc26/) |
 | DoD Commercial SATCOM Workshop | Crystal City, VA | December | Annual DoD/industry workshop on commercial satellite communications procurement, policy, and operations | [Link](http://www.dodsatcom.com/) |
 | Global Satellite Servicing Forum & Exhibition | Arlington, VA | November | Industry forum on satellite servicing, in-orbit servicing, and related policy | [Link](https://satelliteconfers.org/7th-annual-global-satellite-servicing-forum-exhibition/) |
 | GSA Spaceport Summit | Orlando, FL | January | Annual summit for spaceports, spaceport service providers, and launch-site operators; kicks off Commercial Space Week | [Link](https://www.globalspaceportalliance.com/gsa-spaceport-summit-2/) |
@@ -36,7 +36,7 @@
 
 | Conference | Location | Month | About | Link |
 | --- | --- | --- | --- | --- |
-| Australian Space Research Conference | Sydney, Australia | December | Academic and research conference for Australian space science and engineering | [Link](https://www.nssa.com.au/asrc2024) |
+| Australian Space Research Conference | Adelaide, Australia | September–October | Academic and research conference for Australian space science and engineering (ASRC 2026: 29 Sep–1 Oct, Adelaide University) | [Link](https://www.nssa.com.au/asrc2026) |
 | Bengaluru Space Expo (BSX) | Bengaluru, India | September | CII/ISRO/IN-SPACe flagship Indian space expo and conference showcasing India's commercial space sector | [Link](https://bsxindia.com/) |
 | Congreso Espacial Centroamericano (CEC) | Guatemala City, Guatemala | September | Regional Central American congress on space science, technology, Earth observation, and education | [Link](https://cecspace.org/) |
 | CYSAT | Paris, France | May | Raising awareness about cybersecurity for space assets and data | [Link](https://cysat.eu/) |
@@ -44,7 +44,7 @@
 | European Space Conference | Brussels, Belgium | January | High-level dialogues on the status and future direction of European space initiatives | [Link](https://spaceconference.eu/) |
 | Global MILSATCOM | London, United Kingdom | November | Large gathering of military satellite-communications professionals | [Link](https://www.smgconferences.com/defence/uk/conference/global-milsatcom) |
 | Global Space Congress | Abu Dhabi, UAE | October | UAE Space Agency/DLR-organized congress on Gulf-region space programs and international partnerships | [Link](https://event.dlr.de/en/event/global-space-congress/) |
-| Global Space Exploration Conference 2025 | New Delhi, India | May | IAF global series conference on programmatic, technical, and policy aspects of space exploration | [Link](https://www.iafastro.org/events/global-series-conferences/global-conference-on-space-exploration-2025/) |
+| IAF Global Series Conferences | Rotates (GSOC 2027: Maldives) | May | IAF topical global conferences; GLEX 2025 was New Delhi, GLOC 2026 was Kigali, next is GSOC 2027 | [Link](https://www.iafastro.org/events/global-series-conferences/) |
 | Global Space Technology Convention | Singapore | May (2026) | Cross-sector collaboration to make space commercially viable | [Link](https://www.space.org.sg/gstce/) |
 | IAA Latin American Conference on Space & Society | Salta, Argentina | June | International Academy of Astronautics regional conference on Latin American space programs, small satellites, and space law | [Link](https://iaaspace.org/event/iaa-latin-american-conference-on-space-and-society/) |
 | International Association for the Advancement of Space Safety (IAASS) Conference | Antibes, France (2026; location rotates) | October | International cooperation and scientific advancement in space systems safety, security, and sustainability | [Link](https://www.iaassconference2026.org/) |

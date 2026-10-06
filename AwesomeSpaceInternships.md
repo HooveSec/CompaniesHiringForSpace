@@ -28,10 +28,10 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Iridium | McLean, VA; Tempe, AZ; other USA sites | Engineering, operations, business (seasonal internships) | [Careers](https://careers-iridium.icims.com/jobs/intro) |
 | K2 Space | Los Angeles, CA | Software engineering (spacecraft/GNC control systems) | [Careers](https://www.k2space.com/careers) |
 | L3Harris Technologies | Melbourne, FL; Palm Bay, FL; other US sites | Space systems engineering, software, communications, defense engineering | [Internships](https://careers.l3harris.com/en) |
+| Lanteris Space Systems | Palo Alto, CA; San Jose, CA; Houston, TX | Spacecraft manufacturing, avionics, GNC, flight software (formerly Maxar Space Systems) | [Careers](https://intuitivemachines.wd115.myworkdayjobs.com/en-US/lanterisspace) |
 | LeoLabs | Menlo Park, CA | Electrical/hardware engineering, physical science, software, radar ops | [Careers](https://leolabs.space/careers/) |
 | Lockheed Martin | USA, international | Engineering, business, software development, finance, HR | [Careers](https://www.lockheedmartin.com/en-us/careers/) |
 | Loft Orbital | San Francisco, CA | Hardware/software integration | [Careers](https://loftorbital.com/careers/) |
-| Maxar Technologies | Westminster, CO; other US sites | Engineering, spacecraft/satellite production, geospatial analysis, data science, business/supply chain | [Early Careers](https://www.maxar.com/careers/early-careers) |
 | MDA | Canada, USA, UK | Communications, Earth observation, and space exploration | [Careers](https://mda.space/careers) |
 | Mynaric | Germany | Laser communications | [Careers](https://mynaric.com/careers/all-open-positions/) |
 | NASA | USA, international | Various STEM internship programs | [NASA Internships](https://stemgateway.nasa.gov/public/s/explore-opportunities) |
@@ -57,6 +57,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | True Anomaly | Denver / Centennial, CO | Engineering (mechanical/spacecraft), software/GNC, program management | [Careers](https://www.trueanomaly.space/careers) |
 | United Launch Alliance (ULA) | Colorado, Alabama, Florida | Engineering, business, software development, finance, HR | [Careers](https://www.ulalaunch.com/careers) |
 | Ursa Major | Berthoud, CO | Propulsion engineering, test engineering, procurement, people ops | [Careers](https://ursamajor.com/careers/) |
+| Vantor | Westminster, CO; other US/UK sites | Geospatial analysis, satellite imagery, data science, software (formerly Maxar Intelligence) | [Careers](https://vantor.com/careers/) |
 | Varda Space | El Segundo, CA | LEO space infrastructure / in-space manufacturing | [Careers](https://www.varda.com/careers#open-positions) |
 | Vast Space | Long Beach, CA | Mechanical/aerospace engineering, software engineering, manufacturing, industrial design | [Careers](https://www.vastspace.com/careers) |
 | York Space Systems | Colorado, TX, Maryland | Engineering | [Internships](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b) |

@@ -66,6 +66,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | ESA | The European Space Agency | Europe (NL, IT, BE, ES, DE, and other sites) | [Careers](https://jobs.esa.int/) |
 | EUSPA | Managing the European Union Space Programme | Europe | [Careers](https://www.euspa.europa.eu/opportunities/careers) |
 | Evolution Space | Solid propulsion systems/small launch services | Mojave, CA | [Careers](https://www.evolutionspace.com/careers) |
+| EXOS Aerospace | FAA-licensed reusable suborbital launch / flight-test operator | Greenville, TX | [Careers](https://exosaero.bamboohr.com/careers) |
 | Exotrail | Space Mobility | France, Colorado (USA) | [Careers](https://careers.exotrail.com/jobs) |
 | Firefly Aerospace | Enabling Global Launch | Texas, Virginia | [Careers](https://fireflyspace.com/careers/#jobopenings) |
 | First Resonance | Manufacturing software (ION Factory OS) for hardware/aerospace manufacturers | Los Angeles, CA | [Careers](https://www.firstresonance.io/careers) |
@@ -101,6 +102,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Kuva Space | Space-borne hyperspectral imaging and AI | Remote, Finland | [Careers](https://careers.kuvaspace.com/) |
 | Kymeta | Electronically steered antennas for mobile satellite connectivity | Redmond, WA | [Careers](https://www.kymetacorp.com/careers/) |
 | L3Harris Technologies | Space and mission systems, satellite communications, and defense electronics | Melbourne, FL; Palm Bay, FL; other USA sites | [Careers](https://careers.l3harris.com/en) |
+| Lanteris Space Systems | Satellite manufacturing (formerly Maxar Space Systems; now a wholly owned Intuitive Machines subsidiary) | Palo Alto, CA; San Jose, CA; Houston, TX | [Careers](https://intuitivemachines.wd115.myworkdayjobs.com/en-US/lanterisspace) |
 | Latitude | Smallsat Launcher | France | [Careers](https://www.latitude.eu/careers) |
 | Leaf Space | Ground station as a service (GSaaS) | USA , Italy | [Careers](https://leaf.space/careers/) |
 | LeoLabs | Discover and Respond to Adversarial Space Activities with Next-Gen Radar | Washington, DC; Virginia | [Careers](https://leolabs.space/jobs/) |
@@ -110,7 +112,6 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Lunar Outpost | Advanced Spacecraft and Robotics Solutions | Melbourne Australia, Foetz Luxembourg, Colorado USA | [Careers](https://www.lunaroutpost.com/careers) |
 | Lynk | Connect ordinary cell phones to low orbiting satellites | Washington, DC | [Careers](https://lynk.world/careers/) |
 | Maana Electric | ISRU technology producing solar panels from in-situ resources, lunar power infrastructure | Foetz, Luxembourg | [Careers](https://maanaelectric.com/career/) |
-| Maxar | Space Systems and Intelligence | Germany, United Kingdom, United States | [Careers](https://www.maxar.com/careers) |
 | MDA | Communications, Observations, and Space Exploration | Canada, US, UK | [Careers](https://mda.space/careers) |
 | Millennium Space Systems | Small satellites for national security space (a Boeing company) | El Segundo, CA | [Careers](https://www.millennium-space.com/careers) |
 | Momentus | Space transportation and infrastructure services | San Jose, CA | [Careers](https://job-boards.greenhouse.io/momentus) |
@@ -164,6 +165,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Spacept | AI analysis of satellite imagery for infrastructure protection | Stockholm, Sweden | [Careers](https://spacept.com/careers/) |
 | SpaceWorks Enterprises | Space and flight solutions | Atlanta | [Careers](https://www.spaceworks.aero/careers/#open-positions) |
 | SpaceX | Get to Mars, funded by launch and satellite internet | USA; some global | [Careers](https://www.spacex.com/careers) |
+| SpeQtral | Satellite and terrestrial quantum key distribution | Singapore | [Careers](https://speqtralquantum.com/resume-drop) |
 | SpinLaunch | Kinetic launch systems and Meridian broadband satellite constellation | Long Beach, CA; Albuquerque, NM | [Careers](https://jobs.ashbyhq.com/spinlaunch) |
 | Spire Global | Satellite data and analytics for weather, maritime, and aviation | San Francisco, CA; Boulder, CO; Glasgow, UK; Singapore | [Careers](https://spire.com/careers) |
 | Stellar Amenities | A Modern OS for Space Station Operators/AI | Remote USA; Los Angeles, CA | [Careers](https://stellaramenities.space/join-us) |
@@ -183,6 +185,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Uptake | Provides AI-driven analytics for various industries, including aerospace | Chicago, IL | [Careers](https://www.uptake.com/careers) |
 | Ursa Major | Develops and manufactures rocket engines | Berthoud, CO | [Careers](https://www.ursamajor.com/careers) |
 | Varda Space | Develops in-space manufacturing technologies | Los Angeles, CA | [Careers](https://www.varda.com/careers) |
+| Vantor | Spatial intelligence / satellite imagery and analytics (formerly Maxar Intelligence) | Westminster, CO; USA, UK, and other sites | [Careers](https://vantor.com/careers/) |
 | Vast Space | Develops space habitats and infrastructure | Los Angeles, CA | [Careers](https://www.vastspace.com/careers) |
 | Vaya Space | Develops small satellite launch vehicles | Miami, FL | [Careers](https://www.vayaspace.com/careers) |
 | Venus Aerospace | Develops hypersonic aircraft for space access | Los Angeles, CA | [Careers](https://www.venusaerospace.com/careers) |
@@ -196,25 +199,11 @@ Open an issue or pull request with new companies, missing fields, or corrections
 ## Companies to vet
 
 - Astralytical (boutique space-industry consulting firm; no employee careers page found — solo/small-team advisory practice)
-- BridgeComm / BridgeSat (optical wireless / laser satcom; careers domain no longer resolves as of Oct 2026)
-- Planetary Transportation Systems / PT Scientists (lunar-lander company, Berlin; pts.space domain no longer resolves as of Oct 2026)
-- Exodus Space Corp (reusable spaceplane concept; no activity/careers page found since ~2019-2020, original domain now resolves to an unrelated business)
-- EXOS Aerospace (active reusable-suborbital launch operator; no dedicated careers page found, one aggregator listed no current openings)
-- HOSTmi (space payload/hosting marketplace, Germany; no careers page found)
-- I-Space (this is the Chinese launch company Beijing Interstellar Glory, not the Japanese ispace inc. already listed; no English-language careers page confirmed)
-- OneSpace (Chinese small-launch company; no confirmed recent activity or careers page)
-- Picterra (active AI/geospatial imagery analytics company, Switzerland; no open positions found)
+- Picterra (active AI/geospatial imagery analytics company, Switzerland; picterra.ch/jobs existed historically, no confirmed current openings as of Oct 2026)
 - QEYnet (satellite QKD network, Canada; no dedicated careers page found, check LinkedIn/company site)
-- Radian Aerospace (reusable SSTO spaceplane concept, Renton, WA; homepage is live, no dedicated careers page found)
+- Radian Aerospace (reusable SSTO spaceplane concept, Renton/Seattle, WA; homepage is live with recruiting copy, no dedicated jobs board found)
 - RedWorks (Mars regolith 3D-printing/construction tech, CA; no dedicated careers page found, check LinkedIn)
-- Sen (space video-streaming company, UK; no dedicated careers page found, check sen.com)
-- ShipInSpace (very small space-tourism venture, UK; no confirmed active hiring)
-- Space Impulse (space-industry media/market-intelligence platform, not a hardware company; no jobs page found)
-- SpaceChain (blockchain-based satellite network; no dedicated careers page found, check spacechain.com)
-- Speqtral (quantum comms satellite tech, Singapore; no dedicated careers page confirmed, check speqtral.space)
-- STAR (name too generic/ambiguous to identify a specific company)
-- Stofiel Aerospace (balloon-based nanosatellite launch services, MO; correct spelling of "Stoffel Aerospace" — no dedicated careers page confirmed)
-- TimeTag.Space (space-grade timing/synchronization devices, Austria; no dedicated careers page found, check timetag.space)
+- Stoffel Aerospace (balloon-based nanosatellite launch services, MO; no dedicated careers page confirmed)
 
 ## Companies that did not pass vetting
 
@@ -227,24 +216,36 @@ Open an issue or pull request with new companies, missing fields, or corrections
 - AstroComm (Seems like mom and pop shop that makes LNAs)
 - Atomos Space (Acquired by Katalyst Space Technologies in 2025 — see Katalyst Space Technologies in main list)
 - Bagaveev Corporation (inactive per ycombinator)
+- BridgeComm / BridgeSat (optical wireless / laser satcom; careers domain no longer resolves as of Oct 2026)
 - Earthcube (Rebranded to Preligens, then acquired by Safran — now operates as Safran.AI)
 - Eclipse Orbital (Unsure if still around)
+- Exodus Space Corp (reusable spaceplane concept; no activity/careers page found since ~2019-2020, original domain now resolves to an unrelated business)
 - FluroSat (Merged with Dagan into Regrow Ag, Feb 2021)
 - Gateway Galactic (Not sure if startup took off)
 - Gold Orbit (Not sure if startup took off)
+- HOSTmi (space payload/hosting marketplace, Germany; no careers page found)
+- I-Space (Chinese launch company Beijing Interstellar Glory, not the Japanese ispace inc. already listed; no English-language careers page confirmed)
 - Isotropic Systems (Rebranded to All.Space — already listed in main list)
 - Kubos (Acquired by Xplore, April 2022 — already listed in main list)
 - Leo Aerospace (Suspended operations Jan 2023, funding challenges)
 - Magma Space (Unable to get much information on company, no job postings found)
 - Moon Express (Dormant as of 2025, no active operations)
 - Newrocket (not a space company)
+- OneSpace (Chinese small-launch company; no confirmed recent activity or careers page)
 - Orbex (Entered administration Feb 2026; UK assets/IP acquired by Omnidea 30 Sep 2026 — see Omnidea in main list)
 - OrbitsEdge (Not developed enough)
-- Planetary Resources (Acquired by ConsenSys in 2018; asteroid-mining operations wound down — stale internships entry)
+- Planetary Resources (Acquired by ConsenSys in 2018; asteroid-mining operations wound down)
+- Planetary Transportation Systems / PT Scientists (lunar-lander company, Berlin; pts.space domain no longer resolves as of Oct 2026)
 - Reaction Engines (Entered administration Oct 2024, ~172 staff laid off)
+- Sen (space video-streaming company, UK; no dedicated careers page found)
+- ShipInSpace (very small space-tourism venture, UK; no confirmed active hiring)
+- Space Impulse (space-industry media/market-intelligence platform, not a hardware employer)
 - Space Perspective (at a later time again, no positions)
 - Space Talos (No longer active)
+- SpaceChain (blockchain-based satellite network; no dedicated careers page found)
 - SpacePharma (at a later time again, no positions)
+- STAR (name too generic/ambiguous to identify a specific company)
+- TimeTag.Space (space-grade timing devices, Graz; ~1 employee, no careers page)
 - TZero (Not a space company — blockchain trading platform, false entry)
 - UKAM (Industrial superhard tools manufacturer, no space-industry focus — false entry)
 - Vector Launch (Bankrupt 2019; assets acquired by Phantom Space 2024 — already listed in main list)
