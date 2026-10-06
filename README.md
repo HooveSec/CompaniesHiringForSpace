@@ -9,7 +9,7 @@ A one-stop shop for space-industry career resources: companies that hire, intern
 - [Awesome Space Skillbridges](AwesomeSpaceSkillbridges.md) — U.S. military SkillBridge transition partners
 - [Awesome Space Conferences](AwesomeSpaceConferences.md) — U.S. and international space conferences
 - [Awesome Space Media](AwesomeSpaceMedia.md) — blogs, articles, and videos to follow
-- [Awesome Space Books](AwesomeSpaceBooks.md) — textbooks and handbooks for space systems, SATCOM/GNSS, and space cybersecurity
+- [Awesome Space Books](AwesomeSpaceBooks.md) — textbooks, autobiographies, and 2026 favorite-list space books
 - [Awesome Space Open Source](AwesomeSpaceOpenSource.md) — open data, APIs, and software to learn and practice
 
 ## Motivation
