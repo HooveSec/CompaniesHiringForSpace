@@ -65,6 +65,7 @@ Directories that go deeper than this page: [Orbital Index Awesome Space](https:/
 | Hack-A-Sat resource library | Archived DoD collection of satellite-security tutorials, tools, and 2020 writeups | [github.com/deptofdefense/hack-a-sat-library](https://github.com/deptofdefense/hack-a-sat-library) |
 | Hack-A-Sat 4 finals (2023) | Challenge source, solvers, game data, and team writeups from the Moonlighter on-orbit finals | [github.com/cromulencellc/hackasat-finals-2023](https://github.com/cromulencellc/hackasat-finals-2023) |
 | STARPWN | Aerospace Village space-hacking CTF (DEF CON 34). Jeopardy-style challenges across flight software, CCSDS/RF, ground systems, and orbital mechanics | [aerospacevillage.org](https://www.aerospacevillage.org/general-9) · [Writeups](https://github.com/Abdelkad3r/STARPWN-CTF-2026) |
+| Ctrl+Space CTF | ESA / D-Orbit / mhackeroni in-orbit CTF (3S 2025 finals on ION). First European live-satellite hacking competition | [ctrl-space.gg](https://ctrl-space.gg/) |
 | Aerospace Village | Community and DEF CON village focused on aviation and space security | [aerospacevillage.org](https://www.aerospacevillage.org/) |
 | Space Odyssey research | IEEE S&P 2023 experimental satellite firmware analysis (paper + open emulator artifacts) | [Paper](https://jwillbold.com/paper/willbold2023spaceodyssey.pdf) · [QEMU/AVR32](https://github.com/CISPA-SysSec/SpaceOdyssey-QEMU-AVR32) |
 
@@ -74,6 +75,6 @@ If you are trying to get hired, pick one stack and ship something public:
 
 1. Pull TLEs from CelesTrak or Space-Track and propagate them with Skyfield, Orekit, or GMAT.
 2. Command a simulated spacecraft with cFS or F´ on a Raspberry Pi or in CI — NOS3 is the usual digital-twin path.
-3. Decode a SatNOGS observation, replay a Hack-A-Sat / STARPWN challenge, or run SpaceCOP CE against SPARTA indicators of behavior and write up what you learned.
+3. Decode a SatNOGS observation, replay a Hack-A-Sat / STARPWN / Ctrl+Space writeup, or run SpaceCOP CE against SPARTA indicators of behavior and write up what you learned.
 
 That kind of artifact is more useful in a space-security or flight-software interview than another generic resume bullet.

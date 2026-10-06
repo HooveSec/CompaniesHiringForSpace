@@ -102,6 +102,8 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | SPD-5: Space Policy Directive-5, Cybersecurity Principles for Space Systems | Memorandum detailing cybersecurity principles for space systems (hosted by CISA). | [Link](https://www.cisa.gov/resources-tools/resources/space-policy-directive-5) |
 | Towards Principled Risk Scores for Space Cyber Risk Management | Academic paper (Aerospace Corp researchers) on quantifying space cyber risk. | [Link](https://arxiv.org/pdf/2402.02635) |
 | Using SPARTA to Conduct Space Vehicle Cyber Assessments | Report on using SPARTA for space vehicle cybersecurity assessments. | [Link](https://sparta.aerospace.org/resources/OTR-2023-00637_SPARTA_CYSAT.pdf) |
+| SpaceSec 2026 accepted papers | NDSS workshop papers including SPARTA-based threat modeling, cFS-on-seL4, satellite ransomware, OTA delta updates, and PQC in LEO. | [Link](https://www.ndss-symposium.org/ndss2026/co-located-events/spacesec/accepted-papers/) |
+| Why is Space Cybersecurity Unique? | SpaceSec 2026 paper (Cornell / JPL) on what makes space-system security different from terrestrial IT. | [Link](https://www.ndss-symposium.org/ndss-paper/auto-draft-645/) |
 
 ## Videos
 
@@ -123,7 +125,10 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | --- | --- | --- |
 | HackSpaceCon videos | Recorded talks from HackSpaceCon | [Link](https://buildcyber.ai/) |
 | STARPWN CTF 2026 | Aerospace Village space-hacking CTF at DEF CON 34 (challenge writeup repo) | [Link](https://github.com/Abdelkad3r/STARPWN-CTF-2026) |
+| Ctrl+Space CTF 2025 | First European in-orbit CTF (ESA / D-Orbit / mhackeroni) with live challenges on ION Satellite Carrier at 3S 2025 | [Site](https://ctrl-space.gg/) · [ESA](https://security4space.esa.int/2025/ctrl-space-ctf/) |
+| Security for Space Systems (3S) 2025 | ESA ESTEC 4–6 Nov 2025; IEEE proceedings plus conference materials | [IEEE](https://ieeexplore.ieee.org/xpl/conhome/11387783/proceeding) · [Indico](https://indico.esa.int/event/571/) |
 | Security for Space Systems (3S) 2024 | ESA/conference programme for the 2024 3S summit | [Link](https://atpi.eventsair.com/24a06---3s2024/final-programme) |
 | SpaceSec 2023 | Workshop on the Security of Space and Satellite Systems (NDSS 2023) | [Link](https://www.ndss-symposium.org/ndss-2023/) |
 | NDSS 2024 SpaceSec Workshop | Recorded SpaceSec workshop talks | [Link](https://www.youtube.com/watch?v=k3dpMj-6UpQ) |
 | NDSS 2025 SpaceSec Workshop | Full playlist, including NASA / armasuisse / USC ISI / DARPA panel | [Link](https://www.youtube.com/playlist?list=PLfUWWM-POgQvjKxjX9acTbOtMcDUiPCq8) |
+| NDSS 2026 SpaceSec Workshop | Recorded livestream of the 23 Feb 2026 workshop (SPARTA tool, cFS/seL4, PQC/LEO) | [Link](https://www.youtube.com/playlist?list=PLfUWWM-POgQvZlvGqNp9PZoV7nhyhPKGQ) |
