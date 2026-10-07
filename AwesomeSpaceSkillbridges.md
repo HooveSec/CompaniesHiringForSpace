@@ -4,6 +4,7 @@ Space-related [DoD SkillBridge](https://www.skillbridge.mil/) partners. Authoriz
 
 | Company | Location | Job Types | Link / Email |
 | --- | --- | --- | --- |
+| AERMOR LLC | Colorado Springs, CO (Schriever SFB); Huntsville, AL; Tampa, FL; Virginia Beach, VA | DoD-authorized internship: operational testing, cybersecurity, infrastructure support, modeling & simulation (space/ops analysis at Schriever) | [Careers](https://www.aermor.com/careers) / careers@aermor.com |
 | Axiom Space | Houston, TX | SkillBridge postings rotate (engineering, ops, and other roles alongside student internships) | [Careers](https://www.axiomspace.com/careers) |
 | Blue Origin | Kent/Renton, WA; Huntsville, AL; Merritt Island/Melbourne, FL; Denver, CO | Systems, flight operations, manufacturing, cyber/IT, business functions, talent acquisition | [Military careers](https://www.blueorigin.com/careers/military) |
 | Boeing | USA (nationwide) | Engineering, supply chain, facilities, business operations | [SkillBridge](https://boeing.avature.net/SkillBridge) |
@@ -19,15 +20,19 @@ Space-related [DoD SkillBridge](https://www.skillbridge.mil/) partners. Authoriz
 | MIT Lincoln Laboratory | Lexington, MA | Research and engineering (varies) | Josephine.lewis@ll.mit.edu |
 | Motorola Solutions | WA, TX, OH; remote (WA, CA, OR, TX, SD, ND, WI, MN) | Presales engineer, presales business manager, systems engineer, field service technician | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=skillbridge) |
 | N-ask | Colorado | R&D satellites (software development) | [Apply](https://nask.world/company/paycor-link/) / Stewart-Lasha@n-ask.com |
+| National Geospatial-Intelligence Agency (NGA) | Multiple US sites (clearance required) | Agency SkillBridge into imagery/geospatial analysis, IT/cyber, data, security, and related IC roles (TS/SCI typical) | [SkillBridge program](https://www.nga.mil/careers/Skillbridge_Program.html) / SkillBridge@nga.mil |
 | Naval Information Warfare Center Atlantic | Portsmouth, VA | Satellite communications (SATCOM) SME | michael.a.brown7.civ@us.navy.mil |
 | Northrop Grumman (Space Sector) | Redondo Beach, CA; Colorado Springs, CO; Chandler, AZ | Flight controller (spacecraft ops), spacecraft operations technician, RF/hardware engineer, associate spacecraft operations, microelectronics technician | [SkillBridge](https://www.northropgrumman.com/careers/skillbridge) |
+| Omitron | Colorado Springs, CO; Dahlgren, VA; Vandenberg, CA; Washington, DC | DoD-authorized Growing Together internship: astrodynamics, orbital safety, flight dynamics, SDA, software, and network roles | [Careers](https://www.omitron.com/careers) |
 | Peraton (Space & Intelligence Sector) | Reston/Herndon, VA | Space & intelligence intern, plus engineering/software/security roles | [Apply](https://www.careers.peraton.com/jobs/2026-skill-bridge-intern-peraton-wide-reston-virginia-162480-jobs--cms-engineering--) |
 | Redwire Space | Chantilly, VA; remote option | Space missions / capture and business development (SkillBridge postings rotate) | [Careers](https://careers.rdw.com/) |
 | Rogue Space Systems Corporation | Laconia, NH | Architecture and engineering; business and financial operations; computer and mathematical; education, training, and library; legal; management; military specific; office and administrative support; sales and related; other aerospace operations | SkillBridge@Rogue.Space |
 | RTX | USA (CA, TX, NH and other sites) | Production operator, sysadmin, engineering (Raytheon, Collins, Pratt & Whitney) | [SkillBridge](https://careers.rtx.com/global/en/rtx-skillbridge) |
+| Saber Astronautics | Colorado (USA lab); Australia sites for other tracks | DoD SkillBridge partner for software/R&D, space-domain-awareness applications, training, and business development | careers.usa@saberastro.com · [Internships](https://www.saberastro.com/internships) |
 | Sierra Space | Louisville, CO; Madison, WI | Mechanical, quality, avionics, IT/cybersecurity engineering (DoD MOU current through Jun 2027) | [Careers](https://www.sierraspace.com/careers/) |
 | SSC Space US | Alaska / North Pole | Maintain and repair satellite tracking station equipment | mike.steckel@sscspace.com |
-| Starfish Space | Seattle, WA | Business development, company operations, or engineering teams | michael@starfishspace.com |
+| Starfish Space | Tukwila / Seattle, WA | Flexible SkillBridge internships in aerospace/GNC, electrical, mechanical, systems, software, satellite technician, BD, and ops | [SkillBridge](https://jobs.ashbyhq.com/starfish-space-inc/a861c3d5-e80b-4e9d-82dd-a104ea5ecd58) |
 | The KYO Group - One Web Technologies | Houston, TX | Satellite network operations technician, sales manager, contracts admin | [Apply](https://www.thekyogroup.com/skillbridge-partner-opportunities/oneweb-technologies) / Skillbridge@thekyogroup.com |
-| Turion Space Corp | Irvine, CA | Mission operations | rwesterdahl@turionspace.com |
+| Turion Space Corp | Irvine, CA | Mission operations, security, and contracts SkillBridge tracks (rolling; check careers for open placements) | [Careers](https://www.turionspace.com/careers) |
+| Ursa Major | Berthoud, CO | DoW SkillBridge roles rotate (program management / in-space propulsion programs, machining, and related ops) | [Careers](https://www.ursamajor.com/careers) |
 | York Space Systems | Colorado, TX, Maryland | Mission operations | [Apply](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b) |
