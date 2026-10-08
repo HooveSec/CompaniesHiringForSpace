@@ -141,6 +141,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Pixxel | Hyperspectral imaging satellites | India | [Careers](https://www.pixxel.space/careers) |
 | Planet Labs | Satellite Imagery | UK, Austria, Netherlands, Germany, Remote, USA | [Careers](https://www.planet.com/company/careers/) |
 | PLD Space | Reusable rocket launch company (Miura vehicles) | Elche, Spain | [Careers](https://www.pldspace.com/en/pld-space-careers/) |
+| Radian Aerospace | Reusable single-stage-to-orbit spaceplane (Radian One) for LEO access | Seattle, WA | [Careers](https://radianaerospace.bamboohr.com/careers) |
 | Ramon.Space | On-board computing systems | United Kingdom | [Careers](https://ramon.space/careers/#anchor-open-positions) |
 | Red Canyon Engineering and Software | Software Development for Space | Colorado, California | [Careers](https://redcanyonsoftware.com/current-jobs/) |
 | Redwire Space | Space Mission Support | Jacksonville, FL; additional US facilities; Europe, Asia | [Careers](https://careers.rdw.com/) |
@@ -196,15 +197,6 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Xplore | Provides space mission services and data analytics | Seattle, WA | [Careers](https://www.xplore.com/) |
 | York Space Systems | Complete solutions for mission design, spacecraft, launch, ground, and operations | USA | [Careers](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b) |
 
-## Companies to vet
-
-- Astralytical (boutique space-industry consulting firm; no employee careers page found — solo/small-team advisory practice)
-- Picterra (active AI/geospatial imagery analytics company, Switzerland; picterra.ch/jobs existed historically, no confirmed current openings as of Oct 2026)
-- QEYnet (satellite QKD network, Canada; no dedicated careers page found, check LinkedIn/company site)
-- Radian Aerospace (reusable SSTO spaceplane concept, Renton/Seattle, WA; homepage is live with recruiting copy, no dedicated jobs board found)
-- RedWorks (Mars regolith 3D-printing/construction tech, CA; no dedicated careers page found, check LinkedIn)
-- Stoffel Aerospace (balloon-based nanosatellite launch services, MO; no dedicated careers page confirmed)
-
 ## Companies that did not pass vetting
 
 - Abstract Assembly (Nothing seen since 2018)
@@ -213,6 +205,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 - Akash Systems (Not currently hiring but looks to have launched a SDR on SpaceX in 2025)
 - Analytical Space (Rebranded to Hedron; no confirmed hiring page found under either name)
 - Asgard Space (Out of business per pinchbrook, domain gone)
+- Astralytical (boutique space-industry consulting; /jobs page exists but shows no open roles — solo/small-team advisory practice)
 - AstroComm (Seems like mom and pop shop that makes LNAs)
 - Atomos Space (Acquired by Katalyst Space Technologies in 2025 — see Katalyst Space Technologies in main list)
 - Bagaveev Corporation (inactive per ycombinator)
@@ -234,9 +227,12 @@ Open an issue or pull request with new companies, missing fields, or corrections
 - OneSpace (Chinese small-launch company; no confirmed recent activity or careers page)
 - Orbex (Entered administration Feb 2026; UK assets/IP acquired by Omnidea 30 Sep 2026 — see Omnidea in main list)
 - OrbitsEdge (Not developed enough)
+- Picterra (geospatial AI imagery analytics, Switzerland; jobs URL Cloudflare-blocked / unverifiable openings as of Oct 2026)
 - Planetary Resources (Acquired by ConsenSys in 2018; asteroid-mining operations wound down)
 - Planetary Transportation Systems / PT Scientists (lunar-lander company, Berlin; pts.space domain no longer resolves as of Oct 2026)
+- QEYnet (satellite QKD network, Canada; homepage live, no dedicated careers page)
 - Reaction Engines (Entered administration Oct 2024, ~172 staff laid off)
+- RedWorks (NASA habitat-challenge origin; now terrestrial industrial 3D-printing construction tech — no careers page)
 - Sen (space video-streaming company, UK; no dedicated careers page found)
 - ShipInSpace (very small space-tourism venture, UK; no confirmed active hiring)
 - Space Impulse (space-industry media/market-intelligence platform, not a hardware employer)
@@ -245,6 +241,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 - SpaceChain (blockchain-based satellite network; no dedicated careers page found)
 - SpacePharma (at a later time again, no positions)
 - STAR (name too generic/ambiguous to identify a specific company)
+- Stoffel Aerospace / Stofiel Aerospace (balloon nanosat launcher concept cancelled per NewSpace Index; stofiel.space domain no longer company-owned)
 - TimeTag.Space (space-grade timing devices, Graz; ~1 employee, no careers page)
 - TZero (Not a space company — blockchain trading platform, false entry)
 - UKAM (Industrial superhard tools manufacturer, no space-industry focus — false entry)
