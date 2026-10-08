@@ -112,6 +112,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Lunar Outpost | Advanced Spacecraft and Robotics Solutions | Melbourne Australia, Foetz Luxembourg, Colorado USA | [Careers](https://www.lunaroutpost.com/careers) |
 | Lynk | Connect ordinary cell phones to low orbiting satellites | Washington, DC | [Careers](https://lynk.world/careers/) |
 | Maana Electric | ISRU technology producing solar panels from in-situ resources, lunar power infrastructure | Foetz, Luxembourg | [Careers](https://maanaelectric.com/career/) |
+| Magma Space | Magnetically levitated actuators and AI-driven GNC for ultra-stable, agile spacecraft pointing | Washington, DC | [Careers](https://www.magma-space.com/careers) |
 | MDA | Communications, Observations, and Space Exploration | Canada, US, UK | [Careers](https://mda.space/careers) |
 | Millennium Space Systems | Small satellites for national security space (a Boeing company) | El Segundo, CA | [Careers](https://www.millennium-space.com/careers) |
 | Momentus | Space transportation and infrastructure services | San Jose, CA | [Careers](https://job-boards.greenhouse.io/momentus) |
@@ -146,6 +147,7 @@ Open an issue or pull request with new companies, missing fields, or corrections
 | Red Canyon Engineering and Software | Software Development for Space | Colorado, California | [Careers](https://redcanyonsoftware.com/current-jobs/) |
 | Redwire Space | Space Mission Support | Jacksonville, FL; additional US facilities; Europe, Asia | [Careers](https://careers.rdw.com/) |
 | Relativity Space | 3D-printed reusable rockets (Terran R) for satellite launch | Long Beach, CA | [Careers](https://www.relativityspace.com/careers) |
+| Revolution Space | In-space electric propulsion (formerly Accion Systems) | Boston, MA; Wilmington, MA; Remote USA | [Careers](https://ats.rippling.com/revolutionspace/jobs) |
 | Rocket Factory Augsburg | Fair and cheap access to space - Launch | Germany, Portugal | [Careers](https://www.rfa.space/career/) |
 | Rocket Lab | Launch vehicles, spacecraft, and space systems | USA; New Zealand; Australia | [Careers](https://www.rocketlabusa.com/careers/) |
 | RTX | Missiles, space sensors, and satellite systems (Raytheon, Collins, Pratt & Whitney) | USA | [Careers](https://careers.rtx.com/global/en) |
@@ -199,51 +201,49 @@ Open an issue or pull request with new companies, missing fields, or corrections
 
 ## Companies that did not pass vetting
 
-- Abstract Assembly (Nothing seen since 2018)
-- Accion (Haven't seen anything since 2021)
-- Adaptive Rocket Corporation (No activity since 2021)
-- Akash Systems (Not currently hiring but looks to have launched a SDR on SpaceX in 2025)
-- Analytical Space (Rebranded to Hedron; no confirmed hiring page found under either name)
+- Abstract Assembly (Nothing seen since 2018; domain no longer company-owned)
+- Adaptive Rocket Corporation (No activity since 2021; domain gone)
+- Akash Systems (Site live; SDR flown on SpaceX in 2025, but /careers 404 and on-site “Open positions” block is a hidden placeholder — no verifiable hiring page)
+- Analytical Space (Rebranded to Hedron; Workable board at apply.workable.com/hedron exists but shows zero openings; hedron.space Cloudflare-blocked as of Oct 2026)
 - Asgard Space (Out of business per pinchbrook, domain gone)
-- Astralytical (boutique space-industry consulting; /jobs page exists but shows no open roles — solo/small-team advisory practice)
-- AstroComm (Seems like mom and pop shop that makes LNAs)
+- Astralytical (boutique space-industry consulting; /jobs page exists but states there are currently no open jobs — solo/small-team advisory practice)
+- AstroComm (Domain for sale / parked as of Oct 2026)
 - Atomos Space (Acquired by Katalyst Space Technologies in 2025 — see Katalyst Space Technologies in main list)
-- Bagaveev Corporation (inactive per ycombinator)
+- Bagaveev Corporation (inactive per ycombinator; former domain now parked/unrelated)
 - BridgeComm / BridgeSat (optical wireless / laser satcom; careers domain no longer resolves as of Oct 2026)
 - Earthcube (Rebranded to Preligens, then acquired by Safran — now operates as Safran.AI)
-- Eclipse Orbital (Unsure if still around)
+- Eclipse Orbital (Domain gone; dormant since ~2020 — not the separate Eclipse Space megaconstellation startup founded 2025)
 - Exodus Space Corp (reusable spaceplane concept; no activity/careers page found since ~2019-2020, original domain now resolves to an unrelated business)
 - FluroSat (Merged with Dagan into Regrow Ag, Feb 2021)
-- Gateway Galactic (Not sure if startup took off)
-- Gold Orbit (Not sure if startup took off)
-- HOSTmi (space payload/hosting marketplace, Germany; no careers page found)
-- I-Space (Chinese launch company Beijing Interstellar Glory, not the Japanese ispace inc. already listed; no English-language careers page confirmed)
+- Gateway Galactic (Domain gone; no confirmed company site or careers page)
+- Gold Orbit (Domain gone / lander redirect; no confirmed company site or careers page)
+- HOSTmi (space payload/hosting marketplace, Germany; hostmi.space domain no longer resolves as of Oct 2026)
+- I-Space (Chinese launch company Beijing Interstellar Glory, not the Japanese ispace inc. already listed; Chinese site live, but no verifiable English-language careers/openings page)
 - Isotropic Systems (Rebranded to All.Space — already listed in main list)
 - Kubos (Acquired by Xplore, April 2022 — already listed in main list)
-- Leo Aerospace (Suspended operations Jan 2023, funding challenges)
-- Magma Space (Unable to get much information on company, no job postings found)
-- Moon Express (Dormant as of 2025, no active operations)
-- Newrocket (not a space company)
+- Leo Aerospace (Suspended operations Jan 2023, funding challenges; domain gone)
+- Moon Express (Site still up but dormant; no careers page or active operations as of 2025–2026)
+- Newrocket (not a space company — ServiceNow/AI consultancy at newrocket.com)
 - OneSpace (Chinese small-launch company; no confirmed recent activity or careers page)
 - Orbex (Entered administration Feb 2026; UK assets/IP acquired by Omnidea 30 Sep 2026 — see Omnidea in main list)
-- OrbitsEdge (Not developed enough)
+- OrbitsEdge (Homepage live; no dedicated careers page — /careers 404)
 - Picterra (geospatial AI imagery analytics, Switzerland; jobs URL Cloudflare-blocked / unverifiable openings as of Oct 2026)
 - Planetary Resources (Acquired by ConsenSys in 2018; asteroid-mining operations wound down)
-- Planetary Transportation Systems / PT Scientists (lunar-lander company, Berlin; pts.space domain no longer resolves as of Oct 2026)
+- Planetary Transportation Systems / PT Scientists (Berlin lunar-lander company; now a “PTS Legacy” memorial site at ptscientists.com — not an active employer; pts.space domain gone)
 - QEYnet (satellite QKD network, Canada; homepage live, no dedicated careers page)
-- Reaction Engines (Entered administration Oct 2024, ~172 staff laid off)
-- RedWorks (NASA habitat-challenge origin; now terrestrial industrial 3D-printing construction tech — no careers page)
-- Sen (space video-streaming company, UK; no dedicated careers page found)
-- ShipInSpace (very small space-tourism venture, UK; no confirmed active hiring)
+- Reaction Engines (Entered administration Oct 2024, ~172 staff laid off; company domains empty/redirecting as of Oct 2026)
+- RedWorks (NASA habitat-challenge origin; now RedWorks Construction Technologies terrestrial 3D-printing — no careers page)
+- Sen (space video-streaming company, UK; site live, /careers 404)
+- ShipInSpace (very small space-tourism venture, UK; domain gone / no confirmed active hiring)
 - Space Impulse (space-industry media/market-intelligence platform, not a hardware employer)
-- Space Perspective (at a later time again, no positions)
-- Space Talos (No longer active)
-- SpaceChain (blockchain-based satellite network; no dedicated careers page found)
-- SpacePharma (at a later time again, no positions)
+- Space Perspective (Wound down early 2025 after cash crisis; assets/IP acquired by EOS-X Space Jul 2025; spaceperspective.com is a “Launching Soon” placeholder with no careers page)
+- Space Talos (No longer active; domain parked)
+- SpaceChain (blockchain-based satellite network; site restricted/403, no dedicated careers page found)
+- SpacePharma (Site live for microgravity lab services; no careers/jobs page — contact-only)
 - STAR (name too generic/ambiguous to identify a specific company)
 - Stoffel Aerospace / Stofiel Aerospace (balloon nanosat launcher concept cancelled per NewSpace Index; stofiel.space domain no longer company-owned)
-- TimeTag.Space (space-grade timing devices, Graz; ~1 employee, no careers page)
+- TimeTag.Space (space-grade timing devices, Graz; site live, ~1 employee, no careers page)
 - TZero (Not a space company — blockchain trading platform, false entry)
 - UKAM (Industrial superhard tools manufacturer, no space-industry focus — false entry)
 - Vector Launch (Bankrupt 2019; assets acquired by Phantom Space 2024 — already listed in main list)
-- zero2infinity (Not hiring as far as I can tell)
+- zero2infinity (JazzHR board at zero2infinity.applytojob.com reports inactive account — not hiring)
