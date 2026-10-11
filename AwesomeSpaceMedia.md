@@ -1,6 +1,15 @@
-# Space media
+# Awesome Space Media
+
+> [Home](README.md) · [Contributing](contributing.md)
 
 Blogs, papers, talks, and playlists useful for following the industry and for space-cybersecurity study.
+
+## Contents
+
+- [Blogs and news](#blogs-and-news)
+- [Articles and papers](#articles-and-papers)
+- [Videos](#videos)
+- [Related playlists and programmes](#related-playlists-and-programmes)
 
 ## Blogs and news
 

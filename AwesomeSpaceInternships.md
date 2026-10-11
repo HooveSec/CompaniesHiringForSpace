@@ -1,4 +1,6 @@
-# Internships
+# Awesome Space Internships
+
+> [Home](README.md) · [Contributing](contributing.md)
 
 Companies and agencies with space-related internship, co-op, or early-career programs. Postings change by season — always confirm on the careers page.
 

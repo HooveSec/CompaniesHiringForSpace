@@ -1,18 +1,16 @@
-# Companies hiring for space
+# Awesome Space Jobs
 
-Curated list of space companies with mission, locations, and a careers link. New entries in this update were cross-checked against public career pages and open reference lists such as [Wikipedia: List of private spaceflight companies](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies) (CC BY-SA).
+> [Home](README.md) · [Contributing](contributing.md)
 
-Inspired by [companies-hiring-security-remote](https://github.com/jaegeral/companies-hiring-security-remote) (thanks Alexander / [alexanderjaeger](https://x.com/alexanderjaeger)).
+Curated list of space companies with mission, locations, and a careers link. Entries are cross-checked against public career pages and open references such as [Wikipedia: List of private spaceflight companies](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies) (CC BY-SA).
 
-## Contributing
+## Contents
 
-Open an issue or pull request with new companies, missing fields, or corrections. You can also reach out on X ([@HooveSec](https://x.com/HooveSec)).
+- [Companies](#companies)
+- [Companies to vet](#companies-to-vet)
+- [Companies that did not pass vetting](#companies-that-did-not-pass-vetting)
 
-## FAQ
-
-**Company X is not listed — can we add it?** Yes. Open a pull request or issue, or send it via X ([@HooveSec](https://x.com/HooveSec)).
-
-## List
+## Companies
 
 | Company | Mission | Locations | Careers Link |
 | --- | --- | --- | --- |

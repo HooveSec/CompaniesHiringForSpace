@@ -1,4 +1,15 @@
-# Conferences in the United States
+# Awesome Space Conferences
+
+> [Home](README.md) · [Contributing](contributing.md)
+
+U.S. and international conferences useful for space careers, space cybersecurity, and industry networking. Months and hosts rotate — confirm dates on the event site.
+
+## Contents
+
+- [United States](#united-states)
+- [International](#international)
+
+## United States
 
 | Conference | Location | Month | About | Link |
 | --- | --- | --- | --- | --- |
@@ -32,7 +43,7 @@
 | Space Symposium | Colorado Springs, CO | April | Global gathering of space professionals from government, industry, and academia | [Link](https://www.spacesymposium.org/) |
 | SpaceCom (co-located with Space Mobility Conference / GSA Spaceport Summit) | Orlando, FL | January | Trade show connecting people, institutions, and solutions across commercial and government space missions | [Link](https://www.spacecomexpo.com/) |
 
-# International conferences
+## International
 
 | Conference | Location | Month | About | Link |
 | --- | --- | --- | --- | --- |
