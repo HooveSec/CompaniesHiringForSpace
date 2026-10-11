@@ -7,7 +7,6 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 ## Contents
 
 - [Companies](#companies)
-- [Companies to vet](#companies-to-vet)
 - [Companies that did not pass vetting](#companies-that-did-not-pass-vetting)
 
 ## Companies
@@ -110,6 +109,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Lunar Outpost | Advanced Spacecraft and Robotics Solutions | Melbourne Australia, Foetz Luxembourg, Colorado USA | [Careers](https://www.lunaroutpost.com/careers) |
 | Lynk | Connect ordinary cell phones to low orbiting satellites | Washington, DC | [Careers](https://lynk.world/careers/) |
 | Maana Electric | ISRU technology producing solar panels from in-situ resources, lunar power infrastructure | Foetz, Luxembourg | [Careers](https://maanaelectric.com/career/) |
+| Magma Space | Magnetically levitated actuators and AI-driven GNC for ultra-stable, agile spacecraft pointing | Washington, DC | [Careers](https://www.magma-space.com/careers) |
 | MDA | Communications, Observations, and Space Exploration | Canada, US, UK | [Careers](https://mda.space/careers) |
 | Millennium Space Systems | Small satellites for national security space (a Boeing company) | El Segundo, CA | [Careers](https://www.millennium-space.com/careers) |
 | Momentus | Space transportation and infrastructure services | San Jose, CA | [Careers](https://job-boards.greenhouse.io/momentus) |
@@ -139,10 +139,12 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Pixxel | Hyperspectral imaging satellites | India | [Careers](https://www.pixxel.space/careers) |
 | Planet Labs | Satellite Imagery | UK, Austria, Netherlands, Germany, Remote, USA | [Careers](https://www.planet.com/company/careers/) |
 | PLD Space | Reusable rocket launch company (Miura vehicles) | Elche, Spain | [Careers](https://www.pldspace.com/en/pld-space-careers/) |
+| Radian Aerospace | Reusable single-stage-to-orbit spaceplane (Radian One) for LEO access | Seattle, WA | [Careers](https://radianaerospace.bamboohr.com/careers) |
 | Ramon.Space | On-board computing systems | United Kingdom | [Careers](https://ramon.space/careers/#anchor-open-positions) |
 | Red Canyon Engineering and Software | Software Development for Space | Colorado, California | [Careers](https://redcanyonsoftware.com/current-jobs/) |
 | Redwire Space | Space Mission Support | Jacksonville, FL; additional US facilities; Europe, Asia | [Careers](https://careers.rdw.com/) |
 | Relativity Space | 3D-printed reusable rockets (Terran R) for satellite launch | Long Beach, CA | [Careers](https://www.relativityspace.com/careers) |
+| Revolution Space | In-space electric propulsion (formerly Accion Systems) | Boston, MA; Wilmington, MA; Remote USA | [Careers](https://ats.rippling.com/revolutionspace/jobs) |
 | Rocket Factory Augsburg | Fair and cheap access to space - Launch | Germany, Portugal | [Careers](https://www.rfa.space/career/) |
 | Rocket Lab | Launch vehicles, spacecraft, and space systems | USA; New Zealand; Australia | [Careers](https://www.rocketlabusa.com/careers/) |
 | RTX | Missiles, space sensors, and satellite systems (Raytheon, Collins, Pratt & Whitney) | USA | [Careers](https://careers.rtx.com/global/en) |
@@ -182,8 +184,8 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Universities Space Research Association | Supports space science research and education | Columbia, MD; various global locations | [Careers](https://www.usra.edu/careers) |
 | Uptake | Provides AI-driven analytics for various industries, including aerospace | Chicago, IL | [Careers](https://www.uptake.com/careers) |
 | Ursa Major | Develops and manufactures rocket engines | Berthoud, CO | [Careers](https://www.ursamajor.com/careers) |
-| Varda Space | Develops in-space manufacturing technologies | Los Angeles, CA | [Careers](https://www.varda.com/careers) |
 | Vantor | Spatial intelligence / satellite imagery and analytics (formerly Maxar Intelligence) | Westminster, CO; USA, UK, and other sites | [Careers](https://vantor.com/careers/) |
+| Varda Space | Develops in-space manufacturing technologies | Los Angeles, CA | [Careers](https://www.varda.com/careers) |
 | Vast Space | Develops space habitats and infrastructure | Los Angeles, CA | [Careers](https://www.vastspace.com/careers) |
 | Vaya Space | Develops small satellite launch vehicles | Miami, FL | [Careers](https://www.vayaspace.com/careers) |
 | Venus Aerospace | Develops hypersonic aircraft for space access | Los Angeles, CA | [Careers](https://www.venusaerospace.com/careers) |
@@ -194,23 +196,15 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Xplore | Provides space mission services and data analytics | Seattle, WA | [Careers](https://www.xplore.com/) |
 | York Space Systems | Complete solutions for mission design, spacecraft, launch, ground, and operations | USA | [Careers](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b) |
 
-## Companies to vet
-
-- Astralytical (boutique space-industry consulting firm; no employee careers page found — solo/small-team advisory practice)
-- Picterra (active AI/geospatial imagery analytics company, Switzerland; picterra.ch/jobs existed historically, no confirmed current openings as of Oct 2026)
-- QEYnet (satellite QKD network, Canada; no dedicated careers page found, check LinkedIn/company site)
-- Radian Aerospace (reusable SSTO spaceplane concept, Renton/Seattle, WA; homepage is live with recruiting copy, no dedicated jobs board found)
-- RedWorks (Mars regolith 3D-printing/construction tech, CA; no dedicated careers page found, check LinkedIn)
-- Stoffel Aerospace (balloon-based nanosatellite launch services, MO; no dedicated careers page confirmed)
-
 ## Companies that did not pass vetting
 
 - Abstract Assembly (Nothing seen since 2018)
-- Accion (Haven't seen anything since 2021)
+- Accion Systems (Rebranded to Revolution Space — see main list)
 - Adaptive Rocket Corporation (No activity since 2021)
 - Akash Systems (Not currently hiring but looks to have launched a SDR on SpaceX in 2025)
 - Analytical Space (Rebranded to Hedron; no confirmed hiring page found under either name)
 - Asgard Space (Out of business per pinchbrook, domain gone)
+- Astralytical (boutique space-industry consulting; /jobs page exists but no open employee roles — solo/small-team advisory)
 - AstroComm (Seems like mom and pop shop that makes LNAs)
 - Atomos Space (Acquired by Katalyst Space Technologies in 2025 — see Katalyst Space Technologies in main list)
 - Bagaveev Corporation (inactive per ycombinator)
@@ -226,15 +220,17 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 - Isotropic Systems (Rebranded to All.Space — already listed in main list)
 - Kubos (Acquired by Xplore, April 2022 — already listed in main list)
 - Leo Aerospace (Suspended operations Jan 2023, funding challenges)
-- Magma Space (Unable to get much information on company, no job postings found)
 - Moon Express (Dormant as of 2025, no active operations)
 - Newrocket (not a space company)
 - OneSpace (Chinese small-launch company; no confirmed recent activity or careers page)
 - Orbex (Entered administration Feb 2026; UK assets/IP acquired by Omnidea 30 Sep 2026 — see Omnidea in main list)
 - OrbitsEdge (Not developed enough)
+- Picterra (geospatial AI, Switzerland; /jobs URL resolves to About page, no verified openings board as of Oct 2026)
 - Planetary Resources (Acquired by ConsenSys in 2018; asteroid-mining operations wound down)
 - Planetary Transportation Systems / PT Scientists (lunar-lander company, Berlin; pts.space domain no longer resolves as of Oct 2026)
+- QEYnet (satellite QKD network, Canada; site live but no dedicated careers page)
 - Reaction Engines (Entered administration Oct 2024, ~172 staff laid off)
+- RedWorks (now RedWorks Construction Technologies — terrestrial industrial 3D-print construction; no careers page)
 - Sen (space video-streaming company, UK; no dedicated careers page found)
 - ShipInSpace (very small space-tourism venture, UK; no confirmed active hiring)
 - Space Impulse (space-industry media/market-intelligence platform, not a hardware employer)
@@ -243,6 +239,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 - SpaceChain (blockchain-based satellite network; no dedicated careers page found)
 - SpacePharma (at a later time again, no positions)
 - STAR (name too generic/ambiguous to identify a specific company)
+- Stoffel Aerospace / Stofiel Aerospace (balloon nanosat launcher concept cancelled; stofiel.space no longer company-owned)
 - TimeTag.Space (space-grade timing devices, Graz; ~1 employee, no careers page)
 - TZero (Not a space company — blockchain trading platform, false entry)
 - UKAM (Industrial superhard tools manufacturer, no space-industry focus — false entry)
