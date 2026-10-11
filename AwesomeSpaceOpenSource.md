@@ -1,8 +1,19 @@
-# Open-source space data and software
+# Awesome Space Open Source
+
+> [Home](README.md) · [Contributing](contributing.md)
 
 Public data, APIs, and software you can use to learn orbital mechanics, satellite operations, Earth observation, and space cybersecurity — the same skills many of the companies in this repo hire for. Prefer projects with an OSI-approved license and a public source repository.
 
 Directories that go deeper than this page: [Orbital Index Awesome Space](https://github.com/orbitalindex/awesome-space), [NASA AMMOS Open Mission Software Landscape](https://nasa-ammos.github.io/landscape/), and [FOSS Space](https://www.fossspace.com/).
+
+## Contents
+
+- [Open data and APIs](#open-data-and-apis)
+- [Flight software and satellite stacks](#flight-software-and-satellite-stacks)
+- [Mission design and astrodynamics](#mission-design-and-astrodynamics)
+- [Ground systems, visualization, and amateur ops](#ground-systems-visualization-and-amateur-ops)
+- [Space cybersecurity](#space-cybersecurity-open-frameworks-and-research)
+- [How to use this list](#how-to-use-this-list)
 
 ## Open data and APIs
 

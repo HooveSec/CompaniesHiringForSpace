@@ -1,0 +1,44 @@
+name: Add or update a company
+description: Propose a new employer, internship, or SkillBridge partner
+title: "[Add] Company name"
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: list
+    attributes:
+      label: Which list?
+      options:
+        - Jobs
+        - Internships
+        - SkillBridge
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company name
+    validations:
+      required: true
+  - type: input
+    id: careers
+    attributes:
+      label: Careers / SkillBridge URL
+      description: Must be a live official page
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Mission, locations, and role types
+      description: One or two sentences matching the table style in the target file
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I opened the careers URL and it loads for the correct organization
+          required: true
+        - label: I searched the list and this is not already present under another name
+          required: true

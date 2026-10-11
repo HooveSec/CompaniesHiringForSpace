@@ -1,6 +1,8 @@
-# SkillBridge (U.S. military transition)
+# Awesome Space Skillbridges
 
-Space-related [DoD SkillBridge](https://www.skillbridge.mil/) partners. Authorization and openings change — confirm the company is still an authorized partner and that a live posting exists before applying.
+> [Home](README.md) · [Contributing](contributing.md)
+
+Space-related [DoD SkillBridge](https://www.skillbridge.mil/) partners for U.S. military transition. Authorization and openings change — confirm the company is still an authorized partner and that a live posting exists before applying.
 
 | Company | Location | Job Types | Link / Email |
 | --- | --- | --- | --- |
