@@ -184,8 +184,8 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Universities Space Research Association | Supports space science research and education | Columbia, MD; various global locations | [Careers](https://www.usra.edu/careers) |
 | Uptake | Provides AI-driven analytics for various industries, including aerospace | Chicago, IL | [Careers](https://www.uptake.com/careers) |
 | Ursa Major | Develops and manufactures rocket engines | Berthoud, CO | [Careers](https://www.ursamajor.com/careers) |
-| Varda Space | Develops in-space manufacturing technologies | Los Angeles, CA | [Careers](https://www.varda.com/careers) |
 | Vantor | Spatial intelligence / satellite imagery and analytics (formerly Maxar Intelligence) | Westminster, CO; USA, UK, and other sites | [Careers](https://vantor.com/careers/) |
+| Varda Space | Develops in-space manufacturing technologies | Los Angeles, CA | [Careers](https://www.varda.com/careers) |
 | Vast Space | Develops space habitats and infrastructure | Los Angeles, CA | [Careers](https://www.vastspace.com/careers) |
 | Vaya Space | Develops small satellite launch vehicles | Miami, FL | [Careers](https://www.vayaspace.com/careers) |
 | Venus Aerospace | Develops hypersonic aircraft for space access | Los Angeles, CA | [Careers](https://www.venusaerospace.com/careers) |
