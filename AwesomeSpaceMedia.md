@@ -18,10 +18,10 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | Air & Space Forces Magazine | Official journal of the Air & Space Forces Association, covering Space Force and aerospace defense news. | [Link](https://www.airandspaceforces.com/) |
 | Ars Technica — Eric Berger | Space reporting by Eric Berger, focused on commercial space. | [Link](https://arstechnica.com/author/ericberger/) |
 | Astronomy Magazine | Astronomy and space science news, updates, and feature stories. | [Link](https://astronomy.com/) |
-| Astropunk | Space and sci-fi related news and culture. | [Link](https://astropunk.net/) |
 | AstroWatch | Space and astronomy news with a focus on scientific advancements. | [Link](https://astrowatch.net/) |
 | Blue Origin News | Official news and updates from Blue Origin. | [Link](https://www.blueorigin.com/news) |
 | Breaking Defense — Space | Defense-industry news outlet's dedicated space coverage (military space programs, procurement). | [Link](https://breakingdefense.com/category/space/) |
+| Calder Brief — Space | Space news hub covering launches, exploration, and the space industry. | [Link](https://calder-brief.pages.dev/space-hub.html) |
 | European Spaceflight | Independent blog tracking European rocket companies, launch sites, and the European space industry ecosystem. | [Link](https://europeanspaceflight.com/) |
 | International Astronomical Union | News related to the international space community and astronomy. | [Link](https://www.iau.org/) |
 | International Space University | News and updates from the space education and research community. | [Link](https://www.isunet.edu/) |
@@ -40,7 +40,6 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | Rocket Lab News | Updates on Rocket Lab's space missions and events. | [Link](https://www.rocketlabusa.com/news/) |
 | SatNews | Satellite industry news and intelligence publication, running since 1983. | [Link](https://satnews.com/) |
 | Science News — Space | Science news with a dedicated section for space. | [Link](https://www.sciencenews.org/topic/space) |
-| Selenology Today | Focuses on lunar exploration and research. | [Link](https://selenologytoday.com/) |
 | Sky & Telescope | Astronomy news and updates, written by astronomy experts. | [Link](https://skyandtelescope.org/) |
 | Space Daily | Daily space news, written by space industry analysts. | [Link](https://www.spacedaily.com/) |
 | Space Economy News | News focused on the business and economy of space. | [Link](https://www.spaceeconomynews.com/) |
