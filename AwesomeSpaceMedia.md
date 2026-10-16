@@ -1,6 +1,15 @@
-# Space media
+# Awesome Space Media
+
+> [Home](README.md) · [Contributing](contributing.md)
 
 Blogs, papers, talks, and playlists useful for following the industry and for space-cybersecurity study.
+
+## Contents
+
+- [Blogs and news](#blogs-and-news)
+- [Articles and papers](#articles-and-papers)
+- [Videos](#videos)
+- [Related playlists and programmes](#related-playlists-and-programmes)
 
 ## Blogs and news
 
@@ -9,7 +18,6 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | Air & Space Forces Magazine | Official journal of the Air & Space Forces Association, covering Space Force and aerospace defense news. | [Link](https://www.airandspaceforces.com/) |
 | Ars Technica — Eric Berger | Space reporting by Eric Berger, focused on commercial space. | [Link](https://arstechnica.com/author/ericberger/) |
 | Astronomy Magazine | Astronomy and space science news, updates, and feature stories. | [Link](https://astronomy.com/) |
-| Astropunk | Space and sci-fi related news and culture. | [Link](https://astropunk.net/) |
 | AstroWatch | Space and astronomy news with a focus on scientific advancements. | [Link](https://astrowatch.net/) |
 | Blue Origin News | Official news and updates from Blue Origin. | [Link](https://www.blueorigin.com/news) |
 | Breaking Defense — Space | Defense-industry news outlet's dedicated space coverage (military space programs, procurement). | [Link](https://breakingdefense.com/category/space/) |
@@ -31,7 +39,6 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | Rocket Lab News | Updates on Rocket Lab's space missions and events. | [Link](https://www.rocketlabusa.com/news/) |
 | SatNews | Satellite industry news and intelligence publication, running since 1983. | [Link](https://satnews.com/) |
 | Science News — Space | Science news with a dedicated section for space. | [Link](https://www.sciencenews.org/topic/space) |
-| Selenology Today | Focuses on lunar exploration and research. | [Link](https://selenologytoday.com/) |
 | Sky & Telescope | Astronomy news and updates, written by astronomy experts. | [Link](https://skyandtelescope.org/) |
 | Space Daily | Daily space news, written by space industry analysts. | [Link](https://www.spacedaily.com/) |
 | Space Economy News | News focused on the business and economy of space. | [Link](https://www.spaceeconomynews.com/) |
@@ -50,7 +57,6 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | Starship Earth | News and commentary on global space developments and space exploration. | [Link](https://www.starshipearththebigpicture.com/) |
 | TechCrunch — Space | Tech and startup space news, including new space technologies and investments. | [Link](https://techcrunch.com/tag/space/) |
 | Teslarati — Space | SpaceX/space-industry news vertical of Teslarati, covering launches and commercial space developments. | [Link](https://www.teslarati.com/category/space/) |
-| The Space Reporter | Space exploration and industry news, written by space journalists. | [Link](https://www.thespacereporter.com/) |
 | The Space Review | Space policy and business news, written by space industry analysts. | [Link](https://thespacereview.com/) |
 | The Verge — Space | General space news and analysis from tech and science experts. | [Link](https://www.theverge.com/space) |
 | TLP Network | Space technology and news with a focus on satellite and space exploration. | [Link](https://www.tlpnetwork.com/) |

@@ -1,10 +1,14 @@
-# Internships
+# Awesome Space Internships
+
+> [Home](README.md) · [Contributing](contributing.md)
 
 Companies and agencies with space-related internship, co-op, or early-career programs. Postings change by season — always confirm on the careers page.
 
 | Company | Location | Job Types | Link |
 | --- | --- | --- | --- |
 | a.i. solutions | Cape Canaveral, FL; other US sites | Paid university internships on NASA Launch Services Program and FreeFlyer software (EMC/RF, EGSE, propulsion, mechanical, software) | [University students](https://ai-solutions.com/university-students/) |
+| Advanced Space | Westminster, CO | Paid summer internships in software, ML, DevOps, navigation, mission design, systems engineering, and project management (cislunar / deep-space flight dynamics) | [Internships](https://job-boards.greenhouse.io/advancedspace) |
+| Agile Space Industries | Durango, CO; other US sites | Seasonal propulsion, manufacturing, additive, and test engineering internships (hypergolic in-space propulsion) | [Jobs](https://agilespaceindustries.com/jobs) |
 | Airbus U.S. Space & Defense | Multiple US sites | Engineering, business ops, advanced satellite development | [Internships](https://airbusus.com/internships/) |
 | Amazon Leo (Project Kuiper) | Seattle/Bellevue, WA; other US sites | Software, systems, hardware, ASIC, and TPM internships for Amazon's LEO broadband constellation (branded Amazon Leo; team page still lists Project Kuiper) | [Team / jobs](https://www.amazon.jobs/en/teams/project-kuiper) |
 | Anduril Industries | Costa Mesa, CA; Atlanta, GA | Aerospace/flight test engineering, missiles/RMS, avionics, optical engineering | [Early Careers](https://www.anduril.com/early-careers) |
@@ -18,7 +22,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Benchmark Space Systems | Burlington, VT; Pleasanton, CA | Mechanical, avionics, production engineering (in-space propulsion) | [Careers](https://www.benchmarkspacesystems.com/) |
 | Blue Origin | USA | Engineering, operations, business development, software engineering | [Careers](https://www.blueorigin.com/careers) |
 | Boeing | USA, international | Engineering, business, software development, finance, HR | [Internships](https://jobs.boeing.com/internships) |
-| Capella Space | San Francisco, CA; Boulder County, CO | Manufacturing/mechanical engineering, signal processing, tasking & scheduling, infrastructure ops | [Careers](https://www.capellaspace.com/careers) |
+| Capella Space (IonQ) | San Francisco, CA; Boulder County, CO | Manufacturing/mechanical engineering, signal processing, tasking & scheduling, infrastructure ops | [Careers](https://www.ionq.com/careers) |
 | CesiumAstro | Austin, TX; El Segundo, CA; Westminster, CO; Melbourne, FL; other sites | Paid Summer internship/co-op tracks in systems, EE (FPGA/RF/hardware), embedded software, GNC, mechanical, manufacturing, and test | [Internships](https://jobs.lever.co/CesiumAstro) |
 | D-Orbit | Italy; other EU sites | Engineering, data/software, operations, business (internships and thesis projects) | [Careers](https://careers.dorbit.space/) |
 | Draper Laboratory | Cambridge, MA | Aerospace, cybersecurity, business/logistics (co-op program) | [Student Opportunities](https://www.draper.com/education-programs/student-opportunities) |
@@ -26,14 +30,17 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Firefly Aerospace | USA | Engineering, manufacturing, software development, operations | [Careers](https://fireflyspace.com/careers/) |
 | Fleet Space Technologies | Adelaide, Australia; North America | Student/internship opportunities around satellite-enabled multiphysics sensing, edge compute, and constellation ops | [Careers](https://www.fleetspace.com/careers) |
 | General Atomics | San Diego, CA | Varies by year | [Careers](https://www.ga.com/careers/) |
+| Gravitics | Seattle, WA | Mechanical engineering internships on commercial space-station modules and orbital carriers | [Internships](https://job-boards.greenhouse.io/graviticsinc) |
 | HawkEye 360 | Herndon, VA | Engineering, RF signal analysis, business/sales, program management | [Careers](https://job-boards.greenhouse.io/hawkeye360) |
 | Honeybee Robotics | Los Angeles, CA; Denver, CO | Mechanical engineering, electrical engineering, manufacturing, test engineering | [Internships](https://www.honeybeerobotics.com/about-us/internships/) |
 | ICEYE | Espoo, Finland; Poland; USA | Satellite operations, flight dynamics, full-stack/software, satellite production | [Careers](https://www.iceye.com/careers/positions) |
 | Impulse Space | Redondo Beach, CA | Propulsion, avionics/RF, space operations, spacecraft integration | [Careers](https://www.impulsespace.com/careers) |
 | Intuitive Machines | Houston, TX | Software engineering, propulsion, general/lunar research engineering | [Students](https://careers.intuitive.com/en/career-opportunities/students-and-university/) |
 | Iridium | McLean, VA; Tempe, AZ; other USA sites | Engineering, operations, business (seasonal internships) | [Careers](https://careers-iridium.icims.com/jobs/intro) |
+| Isar Aerospace | Ottobrunn / Parsdorf, Germany | Launch-vehicle and propulsion internships (plus related business tracks) for Spectrum smallsat launch | [Careers](https://www.isaraerospace.com/career) |
 | ispace | Tokyo, Japan; Luxembourg; USA | Structured internship program across lunar lander / rover engineering and operations (citizenship and site rules vary) | [Internship program](https://www.ispace-inc.com/careers/internship-program-en/) |
 | K2 Space | Los Angeles, CA | Software engineering (spacecraft/GNC control systems) | [Careers](https://www.k2space.com/careers) |
+| Katalyst Space Technologies | Broomfield, CO; Flagstaff, AZ | Engineering internships across electrical, mechanical, GNC, and software for in-space servicing / robotic vehicles | [Internships](https://job-boards.greenhouse.io/katalyst) |
 | L3Harris Technologies | Melbourne, FL; Palm Bay, FL; other US sites | Space systems engineering, software, communications, defense engineering | [Internships](https://careers.l3harris.com/en) |
 | Lanteris Space Systems | Palo Alto, CA; San Jose, CA; Houston, TX | Spacecraft manufacturing, avionics, GNC, flight software (formerly Maxar Space Systems) | [Careers](https://intuitivemachines.wd115.myworkdayjobs.com/en-US/lanterisspace) |
 | LeoLabs | Menlo Park, CA | Electrical/hardware engineering, physical science, software, radar ops | [Careers](https://leolabs.space/careers/) |
@@ -41,7 +48,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Loft Orbital | San Francisco, CA | Hardware/software integration | [Careers](https://loftorbital.com/careers/) |
 | MDA | Canada, USA, UK | Communications, Earth observation, and space exploration | [Careers](https://mda.space/careers) |
 | Muon Space | San Jose / Mountain View, CA; Woodbridge, VA | Summer internships across flight software, GNC, mission architecture, AIT/environmental test, electrical, thermal, and applied science | [Internships](https://job-boards.greenhouse.io/muonspace) |
-| Mynaric | Germany | Laser communications | [Careers](https://mynaric.com/careers/all-open-positions/) |
+| Mynaric (Rocket Lab) | Munich, Germany | Laser communications | [Careers](https://mynaric.com/careers/all-open-positions/) |
 | NASA | USA, international | Various STEM internship programs | [NASA Internships](https://stemgateway.nasa.gov/public/s/explore-opportunities) |
 | NASA JPL (Caltech-managed) | Pasadena, CA | Year-round and SURF research internships across STEM disciplines | [JPL Internships](https://www.jpl.nasa.gov/edu/internships/) |
 | National Radio Astronomy Observatory | Virginia | Various student programs | [Student Programs](https://science.nrao.edu/opportunities/student-programs/sos) |
@@ -53,7 +60,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Relativity Space | California | Launch-related positions | [Careers](https://www.relativityspace.com/careers) |
 | Rocket Lab | USA, New Zealand, Australia | Engineering, manufacturing, software development, operations | [Internships](https://www.rocketlabusa.com/careers/internships/) |
 | Saber Astronautics | USA (Colorado lab); Australia | Paid space-engineer and software internships in mission ops / space-environment software (USA window typically March–May; Australia via DIIP) | [Internships](https://www.saberastro.com/internships) |
-| Satellogic | EU | Earth observation satellites | [Internships](https://satellogic.bamboohr.com/careers/220) |
+| Satellogic | EU | Earth observation satellites | [Careers](https://satellogic.bamboohr.com/careers) |
 | Sierra Nevada Corporation (SNC) | Sparks, NV; Centennial, CO; Herndon, VA; Plano, TX; Hagerstown, MD | Engineering, cybersecurity, IT, finance | [Student Careers](https://www.sncorp.com/careers/students/) |
 | Sierra Space | USA | Commercial space and defense | [Internships](https://sierraspace.com/careers/internship/) |
 | SpaceWorks Enterprises | Atlanta, GA | Aerospace engineering; advanced development; software; space operations; entry systems | [Internships](https://www.spaceworks.aero/internships/#open-positions) |
