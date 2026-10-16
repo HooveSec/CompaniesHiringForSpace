@@ -1,8 +1,19 @@
-# Space books
+# Awesome Space Books
 
-Textbooks, autobiographies, and 2026 favorite-list picks useful for breaking into space as a security engineer, satellite/systems engineer, or related IT role. Prefer the latest edition. Most titles are commercial — links go to the publisher, not pirated copies. Papers, RFCs, and agency guides stay in [Awesome Space Media](AwesomeSpaceMedia.md).
+> [Home](README.md) · [Contributing](contributing.md)
+
+Textbooks, autobiographies, and favorite-list picks useful for breaking into space as a security engineer, satellite/systems engineer, or related IT role. Prefer the latest edition. Most titles are commercial — links go to the publisher, not pirated copies. Papers, RFCs, and agency guides stay in [Awesome Space Media](AwesomeSpaceMedia.md).
 
 2026 roundups still pushing the same core shelf: [Space Odyssey Hub (May 2026)](https://spaceodysseyhub.com/articles/best-space-books-for-adults-2026) and [Skriuwer's exploration list (June 2026)](https://www.skriuwer.com/blog/best-space-exploration-books-2026). New astronaut memoirs from 2026 are in their own table.
+
+## Contents
+
+- [Space cybersecurity](#space-cybersecurity)
+- [Space systems engineering](#space-systems-engineering)
+- [Orbital mechanics and astrodynamics](#orbital-mechanics-and-astrodynamics)
+- [Satellite communications and GNSS](#satellite-communications-and-gnss)
+- [Autobiographies and memoirs](#autobiographies-and-memoirs)
+- [2026 favorite-list picks](#2026-favorite-list-picks)
 
 ## Space cybersecurity
 
