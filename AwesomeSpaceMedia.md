@@ -21,6 +21,7 @@ Blogs, papers, talks, and playlists useful for following the industry and for sp
 | AstroWatch | Space and astronomy news with a focus on scientific advancements. | [Link](https://astrowatch.net/) |
 | Blue Origin News | Official news and updates from Blue Origin. | [Link](https://www.blueorigin.com/news) |
 | Breaking Defense — Space | Defense-industry news outlet's dedicated space coverage (military space programs, procurement). | [Link](https://breakingdefense.com/category/space/) |
+| Calder Brief — Space | Space news hub covering launches, exploration, and the space industry. | [Link](https://calder-brief.pages.dev/space-hub.html) |
 | European Spaceflight | Independent blog tracking European rocket companies, launch sites, and the European space industry ecosystem. | [Link](https://europeanspaceflight.com/) |
 | International Astronomical Union | News related to the international space community and astronomy. | [Link](https://www.iau.org/) |
 | International Space University | News and updates from the space education and research community. | [Link](https://www.isunet.edu/) |
