@@ -158,6 +158,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | SkyWatch | Marketplace making Earth-observation satellite imagery accessible via unified catalog/API | Kitchener-Waterloo, Canada | [Careers](https://skywatch.com/careers/) |
 | Slingshot Aerospace | Space Data Analysis | USA, UK | [Careers](https://www.slingshot.space/careers) |
 | Solestial | Silicon Photovoltaics for Space | Tempe, AZ | [Careers](https://solestial.com/careers/) |
+| Space Dynamics Laboratory | Applied research laboratory (USU-affiliated) for sensors, spacecraft, and space mission systems | Logan, UT; Huntsville, AL; Albuquerque, NM; other US sites | [Careers](https://www.sdl.usu.edu/careers/jobs) |
 | Space Forge | Microgravity as a service | Wales | [Careers](https://www.spaceforge.com/careers) |
 | Space Telescope Science Institute | Manages science operations for NASA's Hubble and James Webb Space Telescopes | Baltimore, MD; Tucson, AZ; La Serena, Chile; Hilo, HI; Maui, HI | [Careers](https://www.stsci.edu/opportunities) |
 | Spaced Ventures | Previously known as Mach33 Financial Group, focuses on space investment opportunities | Online platform; specific job locations not specified | [Careers](https://www.spacedventures.com/) |

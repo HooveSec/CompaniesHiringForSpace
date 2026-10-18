@@ -36,6 +36,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | ICEYE | Espoo, Finland; Poland; USA | Satellite operations, flight dynamics, full-stack/software, satellite production | [Careers](https://www.iceye.com/careers/positions) |
 | Impulse Space | Redondo Beach, CA | Propulsion, avionics/RF, space operations, spacecraft integration | [Careers](https://www.impulsespace.com/careers) |
 | Intuitive Machines | Houston, TX | Software engineering, propulsion, general/lunar research engineering | [Students](https://careers.intuitive.com/en/career-opportunities/students-and-university/) |
+| Inversion Space | Playa Vista / Los Angeles, CA | Paid Summer 2027 engineering internships (avionics embedded software, avionics mechanical, manufacturing, mechanical, RF) for orbital reentry vehicles | [Internships](https://job-boards.greenhouse.io/inversionspace) |
 | Iridium | McLean, VA; Tempe, AZ; other USA sites | Engineering, operations, business (seasonal internships) | [Careers](https://careers-iridium.icims.com/jobs/intro) |
 | Isar Aerospace | Ottobrunn / Parsdorf, Germany | Launch-vehicle and propulsion internships (plus related business tracks) for Spectrum smallsat launch | [Careers](https://www.isaraerospace.com/career) |
 | ispace | Tokyo, Japan; Luxembourg; USA | Structured internship program across lunar lander / rover engineering and operations (citizenship and site rules vary) | [Internship program](https://www.ispace-inc.com/careers/internship-program-en/) |
@@ -63,6 +64,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Satellogic | EU | Earth observation satellites | [Careers](https://satellogic.bamboohr.com/careers) |
 | Sierra Nevada Corporation (SNC) | Sparks, NV; Centennial, CO; Herndon, VA; Plano, TX; Hagerstown, MD | Engineering, cybersecurity, IT, finance | [Student Careers](https://www.sncorp.com/careers/students/) |
 | Sierra Space | USA | Commercial space and defense | [Internships](https://sierraspace.com/careers/internship/) |
+| Space Dynamics Laboratory | Logan, UT; Huntsville, AL; Albuquerque, NM; other SDL sites | University internship program across sensors, spacecraft, mission systems, software, and related labs | [Internships](https://www.sdl.usu.edu/careers/internships) |
 | SpaceWorks Enterprises | Atlanta, GA | Aerospace engineering; advanced development; software; space operations; entry systems | [Internships](https://www.spaceworks.aero/internships/#open-positions) |
 | SpaceX | USA | Business, engineering, graduate engineering, software engineering | [Internships](https://www.spacex.com/careers/jobs?type=intern) |
 | Spire Global | San Francisco, CA; other global offices | Project management, data/software engineering | [Careers](https://spire.com/careers/) |
