@@ -17,6 +17,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Agile Space Industries | In-space chemical propulsion | Durango, CO | [Careers](https://agilespaceindustries.com/careers) |
 | Agnikul Cosmos | Engineering, Single stage suborbital rockets | India | [Careers](https://agnikul.in/#/career) |
 | Airbus U.S. Space & Defense | U.S. defense and space systems contractor | USA | [Careers](https://airbusspaceanddefense.applicantpro.com/jobs/) |
+| Albedo | Very-low-Earth-orbit imaging satellites for commercial and national-security data | Denver, CO | [Careers](https://albedo.com/careers) |
 | Alen Space | Nanosatellite manufacturer designing, building, and operating small satellites and constellations | Vigo, Spain | [Careers](https://alen-space.jobs.personio.com/) |
 | ALL.SPACE | Multi-link communications | United States, United Kingdom | [Careers](https://www.all.space/careers) |
 | Altius Space Machines | Satellite servicing/robotics (rendezvous & capture, docking mechanisms); part of Voyager Technologies | Broomfield, CO | [Careers](https://voyagertechnologies.com/company/join-us/) |
@@ -54,6 +55,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Dhruva Space | Smallsats | India | [Careers](https://www.dhruvaspace.com/careers) |
 | Draper | Guidance, navigation, and control for aerospace, cybersecurity, and space systems | Cambridge, MA | [Careers](https://www.draper.com/careers) |
 | EchoStar | Satellite communications (Hughes, DISH, and related brands) | Colorado; Illinois; Maryland; Remote | [Careers](https://www.echostar.com/careers) |
+| EnduroSat | Software-defined satellites and end-to-end mission services | Sofia, Bulgaria; Denver, CO; Los Angeles, CA; other EU sites | [Careers](https://www.endurosat.com/careers/) |
 | Enpulsion | Manufacturer of FEEP electric propulsion systems for nano/microsatellites | Wiener Neustadt, Austria | [Careers](https://www.enpulsion.com/careers/) |
 | Epic Aerospace | Orbit transfer vehicles | Argentina; California | [Careers](https://epic-aerospace.com/) |
 | Epsilon3 | SaaS Software Development for Space | Fully Remote | [Careers](https://jobs.lever.co/epsilon3) |
@@ -138,7 +140,9 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Pixxel | Hyperspectral imaging satellites | India | [Careers](https://www.pixxel.space/careers) |
 | Planet Labs | Satellite Imagery | UK, Austria, Netherlands, Germany, Remote, USA | [Careers](https://www.planet.com/company/careers/) |
 | PLD Space | Reusable rocket launch company (Miura vehicles) | Elche, Spain | [Careers](https://www.pldspace.com/en/pld-space-careers/) |
+| Privateer | Geospatial intelligence across land, sea, air, and space, including space-domain awareness | Remote (US) | [Careers](https://www.privateer.com/careers) |
 | Radian Aerospace | Reusable horizontal-takeoff, single-stage-to-orbit spaceplane (Radian One) | Renton / Seattle, WA | [Careers](https://radianaerospace.bamboohr.com/careers) |
+| Radiance Technologies | Defense R&D including space-control and space-situational-awareness support | Redstone Arsenal, AL; other US sites | [Careers](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External) |
 | Ramon.Space | On-board computing systems | United Kingdom | [Careers](https://ramon.space/careers/#anchor-open-positions) |
 | Red Canyon Engineering and Software | Software Development for Space | Colorado, California | [Careers](https://redcanyonsoftware.com/current-jobs/) |
 | Redwire Space | Space Mission Support | Jacksonville, FL; additional US facilities; Europe, Asia | [Careers](https://careers.rdw.com/) |
@@ -146,7 +150,9 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Revolution Space | In-space electric propulsion for satellites (formerly Accion Systems) | Boston / Wilmington, MA | [Careers](https://ats.rippling.com/revolutionspace/jobs) |
 | Rocket Factory Augsburg | Fair and cheap access to space - Launch | Germany, Portugal | [Careers](https://www.rfa.space/career/) |
 | Rocket Lab | Launch vehicles, spacecraft, and space systems | USA; New Zealand; Australia | [Careers](https://www.rocketlabusa.com/careers/) |
+| Rogue Space Systems | In-space robotic vehicles (Orbots) for satellite servicing and logistics | Laconia, NH | [Careers](https://rogue.space/careers/) |
 | RTX | Missiles, space sensors, and satellite systems (Raytheon, Collins, Pratt & Whitney) | USA | [Careers](https://careers.rtx.com/global/en) |
+| Saber Astronautics | Space-operations and space-environment software for civil, commercial, and defense missions | Colorado, USA; Australia | [Careers](https://www.saberastro.com/careers) |
 | Satellite Vu | High resolution thermal data from space | London | [Careers](https://www.satellitevu.com/careers) |
 | Satellogic | Earth Observation satellites | EU | [Careers](https://satellogic.com/company/careers/) |
 | Sensar | InSAR satellite-data analytics monitoring ground/infrastructure movement | Rijswijk, Netherlands | [Careers](https://sensar.nl/en/careers/) |
@@ -168,11 +174,14 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | SpeQtral | Satellite and terrestrial quantum key distribution | Singapore | [Careers](https://speqtralquantum.com/resume-drop) |
 | SpinLaunch | Kinetic launch systems and Meridian broadband satellite constellation | Long Beach, CA; Albuquerque, NM | [Careers](https://jobs.ashbyhq.com/spinlaunch) |
 | Spire Global | Satellite data and analytics for weather, maritime, and aviation | San Francisco, CA; Boulder, CO; Glasgow, UK; Singapore | [Careers](https://spire.com/careers) |
+| Starfish Space | Satellite servicing vehicles (Otter) for life extension and disposal | Tukwila / Seattle, WA | [Careers](https://jobs.ashbyhq.com/starfish-space-inc) |
 | Stellar Amenities | Human-spaceflight systems for how the body holds up off Earth | Remote USA; Los Angeles, CA | [Careers](https://stellaramenities.space/careers) |
 | Stoke Space | Fully reusable medium-lift launch vehicles (Nova) | Kent, WA; Moses Lake, WA | [Careers](https://www.stokespace.com/careers/) |
 | Stratolaunch | Air-launch carrier aircraft and hypersonic test platforms | Mojave, CA | [Careers](https://www.stratolaunch.com/careers/) |
 | Surrey Satellite Technology | Develops small and micro satellite systems | Guildford, UK; Harwell, UK | [Careers](https://www.sstl.co.uk/careers) |
+| SWISSto12 | RF payloads, antennas, and small geostationary satellites (HummingSat) | Renens / Lausanne, Switzerland; Foster City, CA | [Careers](https://www.swissto12.com/careers) |
 | Telespazio | Provides satellite services and solutions | Rome, Italy; Washington, DC; various global locations | [Careers](https://www.telespazio.com/en/careers) |
+| Terran Orbital | Small-satellite design, manufacture, and operations (a Lockheed Martin company) | Irvine, CA; Santa Maria, CA | [Careers](https://www.terranorbital.com/careers) |
 | Thales Alenia Space | Designs and builds space systems and equipment | Cannes, France; Toulouse, France; various global locations | [Careers](https://www.thalesgroup.com/en/careers) |
 | The Aerospace Corporation | Provides technical expertise in aerospace systems | El Segundo, CA; Chantilly, VA; Albuquerque, NM | [Careers](https://aerospace.org/careers) |
 | The Exploration Company | Nyx reusable orbital vehicle for cargo and future crew missions | Munich, Germany; Bordeaux, France; other EU sites | [Careers](https://www.exploration.space/careers) |
@@ -213,6 +222,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 - Cemvita Factory (Company site is up; /careers and /join both 404 as of Oct 2026, and the work is industrial biotech rather than a space employer)
 - Earthcube (Rebranded to Preligens, then acquired by Safran — now operates as Safran.AI)
 - Eclipse Orbital (Domain gone; dormant since ~2020 — not the separate Eclipse Space megaconstellation startup founded 2025)
+- ExoAnalytic Solutions (Space-situational-awareness company; exoanalytic.com/careers now redirects to Anduril's space page — see Anduril Industries in the main list)
 - Exodus Space Corp (reusable spaceplane concept; no activity/careers page found since ~2019-2020, original domain now resolves to an unrelated business)
 - FluroSat (Merged with Dagan into Regrow Ag, Feb 2021)
 - Gateway Galactic (Domain gone; no confirmed company site or careers page)

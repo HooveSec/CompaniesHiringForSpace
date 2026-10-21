@@ -13,6 +13,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Amazon Leo (Project Kuiper) | Seattle/Bellevue, WA; other US sites | Software, systems, hardware, ASIC, and TPM internships for Amazon's LEO broadband constellation (branded Amazon Leo; team page still lists Project Kuiper) | [Team / jobs](https://www.amazon.jobs/en/teams/project-kuiper) |
 | Anduril Industries | Costa Mesa, CA; Atlanta, GA | Aerospace/flight test engineering, missiles/RMS, avionics, optical engineering | [Early Careers](https://www.anduril.com/early-careers) |
 | Apex | Los Angeles, CA | Paid 10–12 week satellite-bus internships (avionics, propulsion, sensors, thermal, mechanical, simulation software) | [Internships](https://jobs.ashbyhq.com/apex-technology-inc) |
+| AST SpaceMobile | Midland, TX; Hyderabad, India; other sites | Early-career roles on the direct-to-cell constellation; current posting is a Simulation Intern in Hyderabad | [Careers](https://ast-science.com/company/careers/) |
 | Astra | USA | Engineering, manufacturing, software development, operations | [Careers](https://www.astra.com/careers) |
 | Astranis | San Francisco, CA | Large seasonal internship program across flight software, avionics, GNC, propulsion, RF/antenna, FPGA, AIT, and related roles | [Internships](https://job-boards.greenhouse.io/astranis) |
 | Astro Digital | Littleton, CO; San Jose, CA | Satellite missions / spacecraft design, engineering, R&D / production & assembly / operations | [Careers](https://astrodigital.com/careers) |
