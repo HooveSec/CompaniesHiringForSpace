@@ -14,6 +14,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Company | Mission | Locations | Careers Link |
 | --- | --- | --- | --- |
 | a.i. solutions | Space engineering services | USA | [Careers](https://ai-solutions.com/careers/) |
+| Advanced Space | Cislunar and deep-space mission design, flight dynamics, and mission software | Westminster, CO | [Careers](https://advancedspace.com/careers/) |
 | Agile Space Industries | In-space chemical propulsion | Durango, CO | [Careers](https://agilespaceindustries.com/careers) |
 | Agnikul Cosmos | Engineering, Single stage suborbital rockets | India | [Careers](https://agnikul.in/#/career) |
 | Airbus U.S. Space & Defense | U.S. defense and space systems contractor | USA | [Careers](https://airbusspaceanddefense.applicantpro.com/jobs/) |
@@ -21,11 +22,13 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Alen Space | Nanosatellite manufacturer designing, building, and operating small satellites and constellations | Vigo, Spain | [Careers](https://alen-space.jobs.personio.com/) |
 | ALL.SPACE | Multi-link communications | United States, United Kingdom | [Careers](https://www.all.space/careers) |
 | Altius Space Machines | Satellite servicing/robotics (rendezvous & capture, docking mechanisms); part of Voyager Technologies | Broomfield, CO | [Careers](https://voyagertechnologies.com/company/join-us/) |
+| Amazon Leo | Low-Earth-orbit broadband constellation (formerly Project Kuiper) | Seattle / Bellevue, WA; other US sites | [Careers](https://www.amazon.jobs/content/en/teams/devices-services/leo) |
 | Amphinicy | Software Engineering for satellite industry | Luxembourg | [Careers](https://www.amphinicy.com/careers) |
 | Anduril Industries | Defense technology including autonomous systems, space sensing, and space-based interceptors | Costa Mesa, CA; Atlanta, GA; other USA sites | [Careers](https://www.anduril.com/careers) |
 | Apex | Productized satellite bus platforms for rapid constellation deployment | Los Angeles, CA | [Careers](https://www.apexspace.com/careers) |
 | Arcsec | Precision aerospace solutions (star trackers and attitude determination) | Belgium | [Careers](https://www.arcsec.space/careers/) |
 | Arctos | Research & Development | USA | [Careers](https://arctos-us.com/careers/) |
+| ArianeGroup | Ariane launch vehicles and space transportation | France; Germany | [Careers](https://www.ariane.group/en/careers/) |
 | Arianespace | Satellite Launch Company | USA, French Guiana, France, Singapore, Japan | [Careers](https://www.arianespace.com/careers/) |
 | Arka | Defense Contractor | USA, UK | [Careers](https://arka.org/careers/) |
 | AST SpaceMobile | Space-Based 5G Cellular Broadband | USA | [Careers](https://ast-science.com/company/careers/) |
@@ -36,10 +39,12 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Astroscale | Space On-Orbit Servicing (debris removal) | USA, Japan, United Kingdom, France, Israel | [Careers](https://www.astroscale.com/en/careers) |
 | Atlas Space Operations | Ground-Software-as-a-Service; federated global antenna network for satellite communications | Traverse City, MI | [Careers](https://atlasspace.com/careers/) |
 | Audacy | Space communications network providing continuous satellite/launch-vehicle connectivity | Mountain View, CA | [Careers](http://audacy.space/pages/about/careers) |
+| Avio | Vega launch vehicles and space propulsion | Colleferro, Italy | [Careers](https://www.avio.com/career) |
 | Axiom Space | Commercial Space Station | Texas, USA | [Careers](https://www.axiomspace.com/careers) |
 | BAE Systems Space & Mission Systems | National defense and civil space, remote sensing, and mission systems (formerly Ball Aerospace) | Colorado, USA | [Careers](https://jobs.baesystems.com/global/en/space-and-mission-systems) |
 | Bellatrix Aerospace | In-space propulsion systems | India | [Careers](https://www.linkedin.com/company/bellatrix-aerospace/jobs/) |
 | Benchmark Space Systems | In-space chemical and electric propulsion for small satellites | Burlington, VT; Pleasanton, CA | [Careers](https://www.benchmarkspacesystems.com/) |
+| Beyond Gravity | Satellite and launcher hardware (structures, mechanisms, electronics, and payload dispensers) | Zürich, Switzerland; Gothenburg and Linköping, Sweden | [Careers](https://www.beyondgravity.com/en/careers) |
 | BlackSky | Space-Based Intelligence | USA / UK | [Careers](https://www.blacksky.com/careers/) |
 | Blue Canyon | Turnkey small satellite solutions | Colorado, USA | [Careers](https://www.bluecanyontech.com/careers) |
 | Blue Origin | Space Tourism, Space Exploration | USA | [Careers](https://www.blueorigin.com/careers/search) |
@@ -78,6 +83,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Helios | Space technology company with the bold mission to extract oxygen from the moon | Israel | [Careers](https://project-helios.space/) |
 | HEO Robotics | Commercial in-orbit satellite-inspection (non-Earth imaging) | Sydney, Australia; London, UK | [Careers](https://www.heospace.com/resources/careers) |
 | Honeybee Robotics (A Blue Origin Company) | Designs and builds robotics to explore and utilize space | California, Colorado | [Careers](https://jobs.lever.co/honeybeerobotics) |
+| Hubble Network | Direct-to-satellite Bluetooth connectivity | Seattle, WA; San Francisco, CA | [Careers](https://hubble.com/careers) |
 | Hydrosat | Irrigation and crop management solutions | USA, EU | [Careers](https://apply.workable.com/hydrosat/#jobs) |
 | HyImpulse | Hybrid-propellant sounding rockets and small-satellite launch (SL1) | Neuenstadt am Kocher, Germany | [Careers](https://www.hyimpulse.de/career) |
 | ICEYE | SAR Technology | US, EU | [Careers](https://www.iceye.com/careers) |
@@ -91,10 +97,12 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Iridium | Global L-band satellite communications constellation | McLean, VA; Tempe, AZ; other USA sites | [Careers](https://careers-iridium.icims.com/jobs/intro) |
 | Isar Aerospace | Two-stage liquid fueled rocket to deliver 1000kg to LEO | Germany | [Careers](https://www.isaraerospace.com/career) |
 | ispace inc. | Lunar transportation and landers | Tokyo, Japan | [Careers](https://jobs.lever.co/ispace-inc) |
+| Johns Hopkins Applied Physics Laboratory | Civil space and national-security space systems, plus other applied research | Laurel, MD | [Careers](https://www.jhuapl.edu/careers) |
 | JPL | NASA's Jet Propulsion Laboratory | Pasadena, California | [Careers](https://www.jpl.jobs/) |
 | K2 Space | High-power satellite buses for mega-class payloads | Los Angeles, CA | [Careers](https://www.k2space.com/careers) |
 | Katalyst Space Technologies | In-space servicing and satellite life-extension (acquired Atomos Space in 2025) | Flagstaff, AZ | [Careers](https://www.katalystspace.com/careers) |
 | Kepler | SDA Optical Network | Toronto, Canada | [Careers](https://kepler.space/careers/) |
+| Kinéis | Satellite Internet-of-Things constellation | Toulouse, France | [Careers](https://kineis.com/en/careers/) |
 | Kongsberg NanoAvionics | Small satellite mission integrator, manufacturing high-performance multi-purpose CubeSats, nanosatellites and small satellites | United States, Lithuania | [Careers](https://nanoavionics.com/our-careers/) |
 | Kuva Space | Space-borne hyperspectral imaging and AI | Remote, Finland | [Careers](https://careers.kuvaspace.com/) |
 | Kymeta | Electronically steered antennas for mobile satellite connectivity | Redmond, WA | [Careers](https://www.kymetacorp.com/careers/) |
@@ -111,6 +119,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Lynk | Connect ordinary cell phones to low orbiting satellites | Washington, DC | [Careers](https://lynk.world/careers/) |
 | Maana Electric | ISRU technology producing solar panels from in-situ resources, lunar power infrastructure | Foetz, Luxembourg | [Careers](https://maanaelectric.com/career/) |
 | Magma Space | Precision spacecraft pointing (magnetically levitated reaction wheels and control-moment gyros) | Washington, DC | [Careers](https://magma-space.com/careers) |
+| MaiaSpace | Reusable small launch vehicle (an ArianeGroup company) | Paris–La Défense and Vernon, France; Kourou, French Guiana | [Careers](https://careers.maia-space.com/) |
 | MDA | Communications, Observations, and Space Exploration | Canada, US, UK | [Careers](https://mda.space/careers) |
 | Millennium Space Systems | Small satellites for national security space (a Boeing company) | El Segundo, CA | [Careers](https://www.millennium-space.com/careers) |
 | Momentus | Space transportation and infrastructure services | San Jose, CA | [Careers](https://job-boards.greenhouse.io/momentus) |
@@ -123,6 +132,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Northrop Grumman | Defense Contractor | USA, UK, Australia | [Careers](https://www.northropgrumman.com/careers) |
 | NorthStar | Space domain awareness (NYSE American: NSTR as of October 2026) | Canada, Luxembourg, Remote | [Careers](https://northstar-data.com/careers/) |
 | ODYSSEUS Space | Laser Communications | Luxembourg | [Careers](https://www.odysseus.space/careers) |
+| OHB | Satellites and launch systems | Bremen, Germany; other European sites | [Careers](https://www.ohb.de/en/career) |
 | OKAPI Orbits | SaaS solution for satellite collision avoidance software | Germany; Remote | [Careers](https://www.okapiorbits.space/en/careers) |
 | Omitron | Multi-disciplinary expertise in spaceflight safety, satellite ground systems and engineering services for civil, defense and national space programs | California, Florida, Virginia, Colorado | [Careers](https://www.omitron.com/careers/) |
 | Omnidea | Space propulsion systems and components; acquired Orbex UK launch assets in September 2026 | Portugal; Germany; Spain; UK; Romania | [Careers](https://omnidea.net/careers/) |
@@ -180,6 +190,8 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Stratolaunch | Air-launch carrier aircraft and hypersonic test platforms | Mojave, CA | [Careers](https://www.stratolaunch.com/careers/) |
 | Surrey Satellite Technology | Develops small and micro satellite systems | Guildford, UK; Harwell, UK | [Careers](https://www.sstl.co.uk/careers) |
 | SWISSto12 | RF payloads, antennas, and small geostationary satellites (HummingSat) | Renens / Lausanne, Switzerland; Foster City, CA | [Careers](https://www.swissto12.com/careers) |
+| Synspective | Synthetic-aperture-radar satellites (StriX) and Earth-observation analytics | Tokyo and Yamato, Japan; Singapore | [Careers](https://careers.synspective.com/) |
+| Telesat | GEO satellite services and the Lightspeed LEO constellation | Ottawa, Canada | [Careers](https://www.telesat.com/careers/jobs/) |
 | Telespazio | Provides satellite services and solutions | Rome, Italy; Washington, DC; various global locations | [Careers](https://www.telespazio.com/en/careers) |
 | Terran Orbital | Small-satellite design, manufacture, and operations (a Lockheed Martin company) | Irvine, CA; Santa Maria, CA | [Careers](https://www.terranorbital.com/careers) |
 | Thales Alenia Space | Designs and builds space systems and equipment | Cannes, France; Toulouse, France; various global locations | [Careers](https://www.thalesgroup.com/en/careers) |
@@ -187,6 +199,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | The Exploration Company | Nyx reusable orbital vehicle for cargo and future crew missions | Munich, Germany; Bordeaux, France; other EU sites | [Careers](https://www.exploration.space/careers) |
 | The Spaceport Company | Offshore/ocean-based launch infrastructure for solid and liquid rocket systems | USA | [Careers](https://thespaceportcompany.com/careers/) |
 | True Anomaly | Space defense spacecraft and operations for space superiority | Denver / Centennial, CO | [Careers](https://www.trueanomaly.space/careers) |
+| TrustPoint | Commercial alternative positioning, navigation, and timing | Dulles, VA | [Careers](https://trustpoint.breezy.hr/) |
 | Turion Space | Satellite manufacturing for space sustainability and national security | Irvine, CA | [Careers](https://jobs.ashbyhq.com/turion-space) |
 | Umbra | Develops synthetic aperture radar (SAR) satellites | Santa Barbara, CA | [Careers](https://www.umbra.space/careers) |
 | United Launch Alliance | Provides spacecraft launch services | Centennial, CO; Decatur, AL; various global locations | [Careers](https://www.ulalaunch.com/careers) |
@@ -202,6 +215,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 | Virgin Galactic | Develops commercial spaceflight services | Mojave, CA; Las Cruces, NM | [Careers](https://careers.virgingalactic.com/) |
 | Voyager Technologies | Space exploration and infrastructure (includes Altius Space Machines) | Denver, CO | [Careers](https://voyagertechnologies.com/company/join-us/) |
 | World View | Stratospheric balloon ISR (Ondas subsidiary; operates with DZYNE as Ondas Sentinel) | Tucson, AZ | [Careers](https://www.worldview.space/careers) |
+| Xona Space Systems | Low-Earth-orbit positioning, navigation, and timing | Burlingame, CA; Montreal; London | [Careers](https://www.xonaspace.com/careers) |
 | Xplore | Provides space mission services and data analytics | Seattle, WA | [Careers](https://www.xplore.com/pages/careers.html) |
 | York Space Systems | Complete solutions for mission design, spacecraft, launch, ground, and operations | USA | [Careers](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b) |
 
@@ -229,6 +243,7 @@ Curated list of space companies with mission, locations, and a careers link. Ent
 - Gold Orbit (Domain gone / lander redirect; no confirmed company site or careers page)
 - HOSTmi (space payload/hosting marketplace, Germany; hostmi.space domain no longer resolves as of Oct 2026)
 - I-Space (Chinese launch company Beijing Interstellar Glory, not the Japanese ispace inc. already listed; Chinese site live, but no verifiable English-language careers/openings page)
+- Intelsat (Acquired by SES; intelsat.com/careers and the SES Intelsat careers URL both 404 as of October 2026 — see SES in the main list)
 - Isotropic Systems (Rebranded to All.Space — already listed in main list)
 - Kubos (Acquired by Xplore, April 2022 — already listed in main list)
 - Leo Aerospace (Suspended operations Jan 2023, funding challenges)
