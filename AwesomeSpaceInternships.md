@@ -21,6 +21,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Axiom Space | Houston, TX | Mechanical/aerospace engineering, mission ops, systems engineering, payload integration | [Careers](https://www.axiomspace.com/careers) |
 | BAE Systems Space & Mission Systems | Colorado, USA | Engineering, remote sensing, mission systems (formerly Ball Aerospace) | [Careers](https://jobs.baesystems.com/global/en/space-and-mission-systems) |
 | Benchmark Space Systems | Burlington, VT; Pleasanton, CA | Mechanical, avionics, production engineering (in-space propulsion) | [Careers](https://www.benchmarkspacesystems.com/) |
+| Beyond Gravity | Switzerland | Internship tracks in materials, processes, test engineering, and related satellite and launcher hardware | [Early careers](https://www.beyondgravity.com/en/early-careers-switzerland) |
 | Blue Origin | USA | Engineering, operations, business development, software engineering | [Careers](https://www.blueorigin.com/careers) |
 | Boeing | USA, international | Engineering, business, software development, finance, HR | [Internships](https://jobs.boeing.com/internships) |
 | Capella Space (IonQ) | San Francisco, CA; Boulder County, CO | Manufacturing/mechanical engineering, signal processing, tasking & scheduling, infrastructure ops | [Careers](https://www.ionq.com/careers) |
@@ -41,6 +42,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Iridium | McLean, VA; Tempe, AZ; other USA sites | Engineering, operations, business (seasonal internships) | [Careers](https://careers-iridium.icims.com/jobs/intro) |
 | Isar Aerospace | Ottobrunn / Parsdorf, Germany | Launch-vehicle and propulsion internships (plus related business tracks) for Spectrum smallsat launch | [Careers](https://www.isaraerospace.com/career) |
 | ispace | Tokyo, Japan; Luxembourg; USA | Structured internship program across lunar lander / rover engineering and operations (citizenship and site rules vary) | [Internship program](https://www.ispace-inc.com/careers/internship-program-en/) |
+| Johns Hopkins Applied Physics Laboratory | Laurel, MD | Pathways college internship program, including civil space and national-security space work | [Internships](https://www.jhuapl.edu/careers/internships) |
 | K2 Space | Los Angeles, CA | Software engineering (spacecraft/GNC control systems) | [Careers](https://www.k2space.com/careers) |
 | Katalyst Space Technologies | Broomfield, CO; Flagstaff, AZ | Engineering internships across electrical, mechanical, GNC, and software for in-space servicing / robotic vehicles | [Internships](https://job-boards.greenhouse.io/katalyst) |
 | L3Harris Technologies | Melbourne, FL; Palm Bay, FL; other US sites | Space systems engineering, software, communications, defense engineering | [Internships](https://careers.l3harris.com/en) |
@@ -48,6 +50,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | LeoLabs | Menlo Park, CA | Electrical/hardware engineering, physical science, software, radar ops | [Careers](https://leolabs.space/careers/) |
 | Lockheed Martin | USA, international | Engineering, business, software development, finance, HR | [Careers](https://www.lockheedmartin.com/en-us/careers/) |
 | Loft Orbital | San Francisco, CA | Hardware/software integration | [Careers](https://loftorbital.com/careers/) |
+| MaiaSpace | Paris–La Défense and Vernon, France; Kourou | Engineering internships (stages) on the reusable Maia launcher | [Careers](https://careers.maia-space.com/) |
 | MDA | Canada, USA, UK | Communications, Earth observation, and space exploration | [Careers](https://mda.space/careers) |
 | Muon Space | San Jose / Mountain View, CA; Woodbridge, VA | Summer internships across flight software, GNC, mission architecture, AIT/environmental test, electrical, thermal, and applied science | [Internships](https://job-boards.greenhouse.io/muonspace) |
 | Mynaric (Rocket Lab) | Munich, Germany | Laser communications | [Careers](https://mynaric.com/careers/all-open-positions/) |
@@ -55,6 +58,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | NASA JPL (Caltech-managed) | Pasadena, CA | Year-round and SURF research internships across STEM disciplines | [JPL Internships](https://www.jpl.nasa.gov/edu/internships/) |
 | National Radio Astronomy Observatory | Virginia | Various student programs | [Student Programs](https://science.nrao.edu/opportunities/student-programs/sos) |
 | Northrop Grumman Space | USA, Europe, Australia | Various positions | [Internships](https://www.northropgrumman.com/jobs?_job_experience=entry-level&job_level=intern) |
+| OHB | Bremen, Germany; other European sites | Internships, bachelor's/master's theses, and work-study roles in space systems and launch | [Students](https://www.ohb.de/en/career/students) |
 | Omitron | Colorado Springs, CO; Dahlgren, VA; Vandenberg, CA; Washington, DC | Paid aerospace internships in mission ops, flight dynamics, orbital safety, and related engineering for civil/defense space programs | [Careers](https://www.omitron.com/careers) |
 | OneWeb (Eutelsat Group) | UK, USA, international | Engineering, business, software development, finance, HR | [Careers](https://careers.eutelsat.com/search/) |
 | Planet Labs | USA, international | Engineering, business, software development, finance, HR | [Careers](https://www.planet.com/careers/) |
@@ -75,10 +79,12 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | The Aerospace Corporation | El Segundo, CA; other US sites | Engineering, research, cloud computing, all disciplines (10-week paid program) | [Student Careers](https://aerospace.org/careers/students-and-recent-graduates) |
 | The Exploration Company | Munich, Germany; Bordeaux, France; other EU sites | Engineering and operations around the Nyx orbital vehicle | [Careers](https://www.exploration.space/careers) |
 | True Anomaly | Denver / Centennial, CO | Engineering (mechanical/spacecraft), software/GNC, program management | [Careers](https://www.trueanomaly.space/careers) |
+| TrustPoint | Dulles, VA | Graduate engineering intern/co-op (electrical, mechanical, software, aerospace, IT) on an alternative PNT constellation | [Careers](https://trustpoint.breezy.hr/) |
 | United Launch Alliance (ULA) | Colorado, Alabama, Florida | Engineering, business, software development, finance, HR | [Careers](https://www.ulalaunch.com/careers) |
 | Ursa Major | Berthoud, CO | Propulsion engineering, test engineering, procurement, people ops | [Careers](https://ursamajor.com/careers/) |
 | Vantor | Westminster, CO; other US/UK sites | Geospatial analysis, satellite imagery, data science, software (formerly Maxar Intelligence) | [Careers](https://vantor.com/careers/) |
 | Varda Space | El Segundo, CA | LEO space infrastructure / in-space manufacturing | [Careers](https://www.varda.com/careers#open-positions) |
 | Vast Space | Long Beach, CA | Mechanical/aerospace engineering, software engineering, manufacturing, industrial design | [Careers](https://www.vastspace.com/careers) |
 | Viasat | Carlsbad, CA; other USA and global sites | Early-career internship program across satellite communications, engineering, and business functions | [Internships](https://careers.viasat.com/internships) |
+| Xona Space Systems | Burlingame, CA | Mechanical engineering co-op on the LEO positioning, navigation, and timing constellation | [Careers](https://www.xonaspace.com/careers) |
 | York Space Systems | Colorado, TX, Maryland | Engineering | [Internships](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d0821e1a6301823c22a8bd068b) |
