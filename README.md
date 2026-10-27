@@ -15,7 +15,7 @@ Built for security engineers, satellite/systems engineers, IT, and anyone else t
 
 | List | What you get |
 | --- | --- |
-| [Awesome Space Jobs](AwesomeSpaceJobs.md) | ~205 companies with mission, locations, and a careers link |
+| [Awesome Space Jobs](AwesomeSpaceJobs.md) | ~219 companies with mission, locations, and a careers link |
 | [Awesome Space Internships](AwesomeSpaceInternships.md) | Companies and agencies with internship / co-op / early-career programs |
 | [Awesome Space Skillbridges](AwesomeSpaceSkillbridges.md) | Space-related DoD SkillBridge transition partners |
 | [Awesome Space Conferences](AwesomeSpaceConferences.md) | U.S. and international space / space-cyber conferences |

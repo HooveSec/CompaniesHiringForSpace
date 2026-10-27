@@ -32,6 +32,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Firefly Aerospace | USA | Engineering, manufacturing, software development, operations | [Careers](https://fireflyspace.com/careers/) |
 | Fleet Space Technologies | Adelaide, Australia; North America | Student/internship opportunities around satellite-enabled multiphysics sensing, edge compute, and constellation ops | [Careers](https://www.fleetspace.com/careers) |
 | General Atomics | San Diego, CA | Varies by year | [Careers](https://www.ga.com/careers/) |
+| GITAI | Los Angeles, CA | Mechanical, software, and satellite-bus engineering internships and co-ops | [Careers](https://gitai.tech/careers/) |
 | Gravitics | Seattle, WA | Mechanical engineering internships on commercial space-station modules and orbital carriers | [Internships](https://job-boards.greenhouse.io/graviticsinc) |
 | HawkEye 360 | Herndon, VA | Engineering, RF signal analysis, business/sales, program management | [Careers](https://job-boards.greenhouse.io/hawkeye360) |
 | Honeybee Robotics | Los Angeles, CA; Denver, CO | Mechanical engineering, electrical engineering, manufacturing, test engineering | [Internships](https://www.honeybeerobotics.com/about-us/internships/) |
@@ -75,6 +76,7 @@ Companies and agencies with space-related internship, co-op, or early-career pro
 | Spire Global | San Francisco, CA; other global offices | Project management, data/software engineering | [Careers](https://spire.com/careers/) |
 | Starfish Space | Seattle / Tukwila, WA | Engineering (satellite servicing, systems, electrical, software), business roles | [Careers](https://www.starfishspace.com/careers/) |
 | Stoke Space | Kent, WA; Moses Lake, WA | Mechanical, test, avionics, software, manufacturing (rolling Spring/Summer/Fall terms) | [Careers](https://www.stokespace.com/careers/) |
+| Swedish Space Corporation (SSC) | Solna and Kiruna, Sweden | Master's thesis internships in space operations and engineering | [Students](https://sscspace.com/career/student/) |
 | Thales Alenia Space | France, Italy; other European sites | Young Talent Programme, engineering placements | [Talents & Careers](https://www.thalesaleniaspace.com/en/talents-careers) |
 | The Aerospace Corporation | El Segundo, CA; other US sites | Engineering, research, cloud computing, all disciplines (10-week paid program) | [Student Careers](https://aerospace.org/careers/students-and-recent-graduates) |
 | The Exploration Company | Munich, Germany; Bordeaux, France; other EU sites | Engineering and operations around the Nyx orbital vehicle | [Careers](https://www.exploration.space/careers) |
